@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{{content}}
+
+<table>
+    {% for player in site.data.players %}
+        {% if forloop.first == true %}
+        <tr>
+            {% for dungeon in player.dungeons %}
+                {% if forloop.first == true %}
+                <td></td>
+                {% endif %}
+                <td>{{dungeon.name}}</td>
+            {% endfor %}
+        </tr>
+        {% endif %}
+    
+        <tr>
+            <td>{{ player.name }}</td>
+            {% for dungeon in player.dungeons %}
+            {% capture dung_rank %}
+            {% if dungeon.level >= 15 %}"master"{% elsif dungeon.level >= 10 %}"conqueror"{% else %}"rookie"{% endif %}
+            {% endcapture %}
+            <td id={{ dung_rank | strip }}>{{ dungeon.level }}</td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+
+<div name="scan">Last Player Scan : {{ site.data.scanned.timestamp | date_to_rfc822 }}</div>
