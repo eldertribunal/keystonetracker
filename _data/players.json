@@ -52,7 +52,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 15,
+        "level": 17,
         "id": 252,
         "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
       },
@@ -437,7 +437,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 13,
+        "level": 17,
         "id": 252,
         "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
       },
@@ -508,7 +508,7 @@
       },
       {
         "name": "The Underrot",
-        "level": 14,
+        "level": 16,
         "id": 251,
         "tile": "https://render-us.worldofwarcraft.com/zones/the-underrot-small.jpg"
       },
@@ -739,13 +739,13 @@
       },
       {
         "name": "The Underrot",
-        "level": 13,
+        "level": 16,
         "id": 251,
         "tile": "https://render-us.worldofwarcraft.com/zones/the-underrot-small.jpg"
       },
       {
         "name": "Shrine of the Storm",
-        "level": 5,
+        "level": 17,
         "id": 252,
         "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
       },
@@ -786,7 +786,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 9,
+        "level": 16,
         "id": 246,
         "tile": "https://render-us.worldofwarcraft.com/zones/tol-dagor-small.jpg"
       },
@@ -816,13 +816,13 @@
       },
       {
         "name": "The Underrot",
-        "level": 8,
+        "level": 16,
         "id": 251,
         "tile": "https://render-us.worldofwarcraft.com/zones/the-underrot-small.jpg"
       },
       {
         "name": "Shrine of the Storm",
-        "level": 7,
+        "level": 17,
         "id": 252,
         "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
       },
@@ -940,7 +940,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 8,
+        "level": 16,
         "id": 246,
         "tile": "https://render-us.worldofwarcraft.com/zones/tol-dagor-small.jpg"
       },
