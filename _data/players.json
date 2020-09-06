@@ -415,7 +415,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 16,
+        "level": 17,
         "id": 244,
         "upgrade": [
           "0:30:00",
@@ -470,7 +470,7 @@
       },
       {
         "name": "Kings' Rest",
-        "level": 15,
+        "level": 17,
         "id": 249,
         "upgrade": [
           "0:42:00",
@@ -481,7 +481,7 @@
       },
       {
         "name": "Temple of Sethraliss",
-        "level": 16,
+        "level": 17,
         "id": 250,
         "upgrade": [
           "0:36:00",
@@ -503,7 +503,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 15,
+        "level": 17,
         "id": 252,
         "upgrade": [
           "0:42:00",
@@ -514,7 +514,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 14,
+        "level": 17,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -536,7 +536,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 16,
+        "level": 17,
         "id": 370,
         "upgrade": [
           "0:32:00",
