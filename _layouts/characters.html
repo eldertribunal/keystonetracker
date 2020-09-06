@@ -5,23 +5,23 @@ layout: default
 {{content}}
 
 <table>
-{%- for player in site.data.players -%}
+{%- for character in site.data.characters -%}
     {% if forloop.first == true %}
     <thead>
         <tr>
-            {%- for dungeon in player.dungeons -%}
-                {%- if forloop.first == true %}
-                <th></th>
-                {%- endif %}
-                <th>{{dungeon.name}}</th>
-            {%- endfor %}
+        {%- for dungeon in character.dungeons -%}
+            {%- if forloop.first == true %}
+            <th></th>
+            {%- endif %}
+            <th>{{dungeon.name}}</th>
+        {%- endfor %}
         </tr>
     </thead>
     <tbody>
     {% endif %}
         <tr>
-            <td><b>{{ player.name }}</b></td>
-            {%- for dungeon in player.dungeons -%}
+            <td><b>{{ character.name }}</b></td>
+            {%- for dungeon in character.dungeons -%}
             {% capture dung_rank %}
             {% if dungeon.level >= 15 %}"master"{% elsif dungeon.level >= 10 %}"conqueror"{% else %}"rookie"{% endif %}
             {% endcapture %}
@@ -32,4 +32,4 @@ layout: default
     </tbody>
 </table>
 
-<div name="scan">Last Player Scan : {{ site.data.scanned.timestamp | date_to_rfc822 }}</div>
+<div name="scan">Last Character Scan : {{ site.data.scanned.timestamp | date_to_rfc822 }}</div>
