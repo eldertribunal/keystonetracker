@@ -15,7 +15,7 @@
       },
       {
         "name": "Freehold",
-        "level": 16,
+        "level": 18,
         "id": 245,
         "upgrade": [
           "0:33:00",
@@ -837,7 +837,7 @@
       },
       {
         "name": "Freehold",
-        "level": 16,
+        "level": 18,
         "id": 245,
         "upgrade": [
           "0:33:00",
@@ -1248,7 +1248,7 @@
       },
       {
         "name": "Freehold",
-        "level": 15,
+        "level": 18,
         "id": 245,
         "upgrade": [
           "0:33:00",
