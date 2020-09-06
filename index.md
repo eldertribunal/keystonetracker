@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Main
+layout: dungeons
+title: Dungeons
 ---
 
-## Keystone Tracker
+## Mythic Dungeons
