@@ -300,7 +300,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 8,
+        "level": 15,
         "id": 246,
         "upgrade": [
           "0:36:00",
@@ -399,7 +399,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 15,
+        "level": 18,
         "id": 370,
         "upgrade": [
           "0:32:00",
