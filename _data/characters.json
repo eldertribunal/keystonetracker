@@ -163,7 +163,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 12,
+        "level": 15,
         "id": 246,
         "upgrade": [
           "0:36:00",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 14,
+        "level": 15,
         "id": 248,
         "upgrade": [
           "0:39:00",
@@ -492,7 +492,7 @@
       },
       {
         "name": "The Underrot",
-        "level": 13,
+        "level": 15,
         "id": 251,
         "upgrade": [
           "0:33:00",
@@ -536,7 +536,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 15,
+        "level": 18,
         "id": 370,
         "upgrade": [
           "0:32:00",
@@ -1221,7 +1221,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 16,
+        "level": 18,
         "id": 370,
         "upgrade": [
           "0:32:00",
@@ -1314,7 +1314,7 @@
       },
       {
         "name": "The Underrot",
-        "level": 12,
+        "level": 15,
         "id": 251,
         "upgrade": [
           "0:33:00",
@@ -2936,7 +2936,7 @@
       },
       {
         "name": "Kings' Rest",
-        "level": 13,
+        "level": 16,
         "id": 249,
         "upgrade": [
           "0:42:00",
@@ -3002,7 +3002,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 16,
+        "level": 18,
         "id": 370,
         "upgrade": [
           "0:32:00",
