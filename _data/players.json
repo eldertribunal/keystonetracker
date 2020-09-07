@@ -229,7 +229,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 0,
+        "level": 15,
         "id": 252,
         "upgrade": [
           "0:42:00",
@@ -366,7 +366,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 11,
+        "level": 15,
         "id": 252,
         "upgrade": [
           "0:42:00",
