@@ -689,7 +689,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 11,
+        "level": 16,
         "id": 244,
         "upgrade": [
           "0:30:00",
@@ -788,7 +788,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 14,
+        "level": 15,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -810,7 +810,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 15,
+        "level": 16,
         "id": 370,
         "upgrade": [
           "0:32:00",
@@ -1237,7 +1237,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 11,
+        "level": 16,
         "id": 244,
         "upgrade": [
           "0:30:00",
@@ -1347,7 +1347,7 @@
       },
       {
         "name": "Operation: Mechagon - Junkyard",
-        "level": 17,
+        "level": 18,
         "id": 369,
         "upgrade": [
           "0:38:00",
@@ -1648,7 +1648,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 15,
+        "level": 16,
         "id": 244,
         "upgrade": [
           "0:30:00",
@@ -1747,7 +1747,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 0,
+        "level": 15,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -1758,7 +1758,7 @@
       },
       {
         "name": "Operation: Mechagon - Junkyard",
-        "level": 17,
+        "level": 18,
         "id": 369,
         "upgrade": [
           "0:38:00",
@@ -1769,7 +1769,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 14,
+        "level": 16,
         "id": 370,
         "upgrade": [
           "0:32:00",
