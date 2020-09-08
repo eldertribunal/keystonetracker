@@ -251,7 +251,7 @@
       },
       {
         "name": "Operation: Mechagon - Junkyard",
-        "level": 15,
+        "level": 18,
         "id": 369,
         "upgrade": [
           "0:38:00",
@@ -552,7 +552,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 0,
+        "level": 16,
         "id": 244,
         "upgrade": [
           "0:30:00",
@@ -651,7 +651,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 0,
+        "level": 15,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -3292,7 +3292,7 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 8,
+        "level": 17,
         "id": 244,
         "upgrade": [
           "0:30:00",
