@@ -48,7 +48,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 16,
+        "level": 17,
         "id": 248,
         "upgrade": [
           "0:39:00",
@@ -163,7 +163,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 0,
+        "level": 15,
         "id": 246,
         "upgrade": [
           "0:36:00",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 11,
+        "level": 17,
         "id": 248,
         "upgrade": [
           "0:39:00",
@@ -1281,7 +1281,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 15,
+        "level": 17,
         "id": 248,
         "upgrade": [
           "0:39:00",
@@ -1692,7 +1692,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 16,
+        "level": 17,
         "id": 248,
         "upgrade": [
           "0:39:00",
