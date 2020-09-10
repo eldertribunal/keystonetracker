@@ -174,7 +174,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 16,
+        "level": 17,
         "id": 247,
         "upgrade": [
           "0:39:00",
@@ -585,7 +585,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 14,
+        "level": 17,
         "id": 247,
         "upgrade": [
           "0:39:00",
@@ -1681,7 +1681,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 16,
+        "level": 17,
         "id": 247,
         "upgrade": [
           "0:39:00",
@@ -2914,7 +2914,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 15,
+        "level": 17,
         "id": 247,
         "upgrade": [
           "0:39:00",
@@ -3836,7 +3836,7 @@
     ]
   },
   {
-    "name": "Minro",
+    "name": "Miinro",
     "dungeons": [
       {
         "name": "Atal'Dazar",
@@ -4110,6 +4110,143 @@
     ]
   },
   {
+    "name": "Minro",
+    "dungeons": [
+      {
+        "name": "Atal'Dazar",
+        "level": 0,
+        "id": 244,
+        "upgrade": [
+          "0:30:00",
+          "0:24:00",
+          "0:18:00"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/ataldazar-small.jpg"
+      },
+      {
+        "name": "Freehold",
+        "level": 0,
+        "id": 245,
+        "upgrade": [
+          "0:33:00",
+          "0:26:24",
+          "0:19:48"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/freehold-small.jpg"
+      },
+      {
+        "name": "Tol Dagor",
+        "level": 0,
+        "id": 246,
+        "upgrade": [
+          "0:36:00",
+          "0:28:48",
+          "0:21:36"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/tol-dagor-small.jpg"
+      },
+      {
+        "name": "The MOTHERLODE!!",
+        "level": 0,
+        "id": 247,
+        "upgrade": [
+          "0:39:00",
+          "0:31:12",
+          "0:23:24"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/the-motherlode-small.jpg"
+      },
+      {
+        "name": "Waycrest Manor",
+        "level": 0,
+        "id": 248,
+        "upgrade": [
+          "0:39:00",
+          "0:31:12",
+          "0:23:24"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/waycrest-manor-small.jpg"
+      },
+      {
+        "name": "Kings' Rest",
+        "level": 0,
+        "id": 249,
+        "upgrade": [
+          "0:42:00",
+          "0:33:36",
+          "0:25:12"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/kings-rest-small.jpg"
+      },
+      {
+        "name": "Temple of Sethraliss",
+        "level": 0,
+        "id": 250,
+        "upgrade": [
+          "0:36:00",
+          "0:28:48",
+          "0:21:36"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/temple-of-sethraliss-small.jpg"
+      },
+      {
+        "name": "The Underrot",
+        "level": 0,
+        "id": 251,
+        "upgrade": [
+          "0:33:00",
+          "0:26:24",
+          "0:19:48"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/the-underrot-small.jpg"
+      },
+      {
+        "name": "Shrine of the Storm",
+        "level": 6,
+        "id": 252,
+        "upgrade": [
+          "0:42:00",
+          "0:33:36",
+          "0:25:12"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
+      },
+      {
+        "name": "Siege of Boralus",
+        "level": 0,
+        "id": 353,
+        "upgrade": [
+          "0:36:00",
+          "0:28:48",
+          "0:21:36"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/siege-of-boralus-small.jpg"
+      },
+      {
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "id": 369,
+        "upgrade": [
+          "0:38:00",
+          "0:30:24",
+          "0:22:48"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/operation-mechagon-small.jpg"
+      },
+      {
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "id": 370,
+        "upgrade": [
+          "0:32:00",
+          "0:25:36",
+          "0:19:12"
+        ],
+        "tile": "https://render-us.worldofwarcraft.com/zones/operation-mechagon-small.jpg"
+      }
+    ]
+  },
+  {
     "name": "Taiyed",
     "dungeons": [
       {
@@ -4147,7 +4284,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 15,
+        "level": 17,
         "id": 247,
         "upgrade": [
           "0:39:00",
