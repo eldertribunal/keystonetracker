@@ -103,7 +103,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 15,
+        "level": 16,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -377,7 +377,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 15,
+        "level": 16,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -1199,7 +1199,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 12,
+        "level": 16,
         "id": 353,
         "upgrade": [
           "0:36:00",
@@ -1610,7 +1610,7 @@
       },
       {
         "name": "Siege of Boralus",
-        "level": 15,
+        "level": 16,
         "id": 353,
         "upgrade": [
           "0:36:00",
