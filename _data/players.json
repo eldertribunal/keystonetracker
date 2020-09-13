@@ -843,5 +843,70 @@
         "id": 370
       }
     ]
+  },
+  {
+    "name": "Pew",
+    "dungeons": [
+      {
+        "name": "Atal'Dazar",
+        "level": 11,
+        "id": 244
+      },
+      {
+        "name": "Freehold",
+        "level": 13,
+        "id": 245
+      },
+      {
+        "name": "Tol Dagor",
+        "level": 8,
+        "id": 246
+      },
+      {
+        "name": "The MOTHERLODE!!",
+        "level": 12,
+        "id": 247
+      },
+      {
+        "name": "Waycrest Manor",
+        "level": 9,
+        "id": 248
+      },
+      {
+        "name": "Kings' Rest",
+        "level": 0,
+        "id": 249
+      },
+      {
+        "name": "Temple of Sethraliss",
+        "level": 0,
+        "id": 250
+      },
+      {
+        "name": "The Underrot",
+        "level": 12,
+        "id": 251
+      },
+      {
+        "name": "Shrine of the Storm",
+        "level": 12,
+        "id": 252
+      },
+      {
+        "name": "Siege of Boralus",
+        "level": 8,
+        "id": 353
+      },
+      {
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 11,
+        "id": 369
+      },
+      {
+        "name": "Operation: Mechagon - Workshop",
+        "level": 13,
+        "id": 370
+      }
+    ]
   }
 ]
