@@ -264,12 +264,12 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 0,
+        "level": 16,
         "id": 244
       },
       {
         "name": "Freehold",
-        "level": 15,
+        "level": 17,
         "id": 245
       },
       {
@@ -334,7 +334,7 @@
       },
       {
         "name": "Freehold",
-        "level": 16,
+        "level": 17,
         "id": 245
       },
       {
@@ -524,12 +524,12 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 11,
+        "level": 16,
         "id": 244
       },
       {
         "name": "Freehold",
-        "level": 15,
+        "level": 18,
         "id": 245
       },
       {
@@ -539,7 +539,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 16,
+        "level": 17,
         "id": 247
       },
       {
@@ -789,7 +789,7 @@
       },
       {
         "name": "Freehold",
-        "level": 16,
+        "level": 17,
         "id": 245
       },
       {
@@ -849,12 +849,12 @@
     "dungeons": [
       {
         "name": "Atal'Dazar",
-        "level": 11,
+        "level": 16,
         "id": 244
       },
       {
         "name": "Freehold",
-        "level": 15,
+        "level": 18,
         "id": 245
       },
       {
@@ -864,7 +864,7 @@
       },
       {
         "name": "The MOTHERLODE!!",
-        "level": 12,
+        "level": 17,
         "id": 247
       },
       {
