@@ -1489,7 +1489,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 0,
+        "level": 15,
         "id": 370
       }
     ]
@@ -2189,7 +2189,7 @@
       },
       {
         "name": "Shrine of the Storm",
-        "level": 2,
+        "level": 6,
         "id": 252
       },
       {
@@ -2289,7 +2289,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 8,
+        "level": 16,
         "id": 246
       },
       {
@@ -2334,7 +2334,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 13,
+        "level": 15,
         "id": 370
       }
     ]

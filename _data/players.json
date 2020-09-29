@@ -859,7 +859,7 @@
       },
       {
         "name": "Tol Dagor",
-        "level": 8,
+        "level": 16,
         "id": 246
       },
       {
@@ -904,7 +904,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 13,
+        "level": 15,
         "id": 370
       }
     ]
