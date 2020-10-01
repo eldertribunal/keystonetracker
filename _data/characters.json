@@ -89,7 +89,7 @@
       },
       {
         "name": "Waycrest Manor",
-        "level": 15,
+        "level": 16,
         "id": 248
       },
       {
@@ -234,7 +234,7 @@
       },
       {
         "name": "The Underrot",
-        "level": 15,
+        "level": 16,
         "id": 251
       },
       {
@@ -559,7 +559,7 @@
       },
       {
         "name": "The Underrot",
-        "level": 15,
+        "level": 16,
         "id": 251
       },
       {
@@ -1560,7 +1560,7 @@
     ]
   },
   {
-    "name": "Siobhann",
+    "name": "Minro",
     "dungeons": [
       {
         "name": "Atal'Dazar",
@@ -1945,71 +1945,6 @@
       {
         "name": "Operation: Mechagon - Workshop",
         "level": 15,
-        "id": 370
-      }
-    ]
-  },
-  {
-    "name": "Minro",
-    "dungeons": [
-      {
-        "name": "Atal'Dazar",
-        "level": 0,
-        "id": 244
-      },
-      {
-        "name": "Freehold",
-        "level": 0,
-        "id": 245
-      },
-      {
-        "name": "Tol Dagor",
-        "level": 0,
-        "id": 246
-      },
-      {
-        "name": "The MOTHERLODE!!",
-        "level": 0,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 0,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 0,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 0,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
-        "level": 0,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 6,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 0,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 0,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 0,
         "id": 370
       }
     ]
