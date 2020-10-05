@@ -939,7 +939,7 @@
       },
       {
         "name": "Kings' Rest",
-        "level": 0,
+        "level": 10,
         "id": 249
       },
       {
@@ -2074,7 +2074,7 @@
       },
       {
         "name": "Operation: Mechagon - Workshop",
-        "level": 6,
+        "level": 7,
         "id": 370
       }
     ]
