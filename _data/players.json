@@ -3,64 +3,44 @@
     "name": "Acorn",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 19,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 19,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 18,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 18,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 17,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 19,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 19,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -68,64 +48,44 @@
     "name": "Beastmaster",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 15,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 15,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 17,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 17,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 15,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 15,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 15,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 15,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 15,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 16,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -133,129 +93,44 @@
     "name": "Coach",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 15,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 16,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 15,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 15,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 18,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 15,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 16,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 15,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 18,
-        "id": 370
-      }
-    ]
-  },
-  {
-    "name": "Corbin",
-    "dungeons": [
-      {
-        "name": "Atal'Dazar",
-        "level": 17,
-        "id": 244
-      },
-      {
-        "name": "Freehold",
-        "level": 19,
-        "id": 245
-      },
-      {
-        "name": "Tol Dagor",
-        "level": 18,
-        "id": 246
-      },
-      {
-        "name": "The MOTHERLODE!!",
-        "level": 20,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 19,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 17,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
-        "level": 18,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 17,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 20,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 19,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -263,64 +138,44 @@
     "name": "Deathmoon",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 17,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 15,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 16,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 15,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 15,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 16,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 16,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 15,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 15,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -328,64 +183,44 @@
     "name": "Dejavu",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 19,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 19,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 16,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 18,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 17,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 16,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 19,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 19,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -393,194 +228,44 @@
     "name": "Lorzz",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 15,
-        "id": 244
-      },
-      {
-        "name": "Freehold",
-        "level": 18,
-        "id": 245
-      },
-      {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
-      },
-      {
-        "name": "The MOTHERLODE!!",
-        "level": 16,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 16,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 18,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 17,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 19,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 15,
-        "id": 370
-      }
-    ]
-  },
-  {
-    "name": "Mooshaman",
-    "dungeons": [
-      {
-        "name": "Atal'Dazar",
-        "level": 2,
-        "id": 244
-      },
-      {
-        "name": "Freehold",
-        "level": 15,
-        "id": 245
-      },
-      {
-        "name": "Tol Dagor",
+        "name": "Mists of Tirna Scithe",
         "level": 0,
-        "id": 246
+        "id": 375
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 15,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 5,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 14,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
+        "name": "The Necrotic Wake",
         "level": 0,
-        "id": 251
+        "id": 376
       },
       {
-        "name": "Shrine of the Storm",
-        "level": 5,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
+        "name": "De Other Side",
         "level": 0,
-        "id": 353
+        "id": 377
       },
       {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 10,
-        "id": 369
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 12,
-        "id": 370
-      }
-    ]
-  },
-  {
-    "name": "Rallick",
-    "dungeons": [
-      {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Freehold",
-        "level": 18,
-        "id": 245
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Tol Dagor",
-        "level": 15,
-        "id": 246
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 17,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 18,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
-        "level": 17,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 16,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 16,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 17,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 15,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -588,64 +273,44 @@
     "name": "Sacra",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 19,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 19,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 18,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 18,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 15,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 19,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 19,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -653,64 +318,44 @@
     "name": "Siobhann",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 17,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 16,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 16,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 16,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 15,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 15,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 17,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 15,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 15,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 15,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -718,64 +363,44 @@
     "name": "Taiyed",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 17,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 19,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 17,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 19,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 17,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 17,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 17,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 15,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 16,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 17,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 19,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   },
@@ -783,129 +408,44 @@
     "name": "Wildhawg",
     "dungeons": [
       {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "id": 375
       },
       {
-        "name": "Freehold",
-        "level": 17,
-        "id": 245
+        "name": "The Necrotic Wake",
+        "level": 0,
+        "id": 376
       },
       {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
       },
       {
-        "name": "The MOTHERLODE!!",
-        "level": 18,
-        "id": 247
+        "name": "Halls of Atonement",
+        "level": 0,
+        "id": 378
       },
       {
-        "name": "Waycrest Manor",
-        "level": 17,
-        "id": 248
+        "name": "Plaguefall",
+        "level": 0,
+        "id": 379
       },
       {
-        "name": "Kings' Rest",
-        "level": 16,
-        "id": 249
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
       },
       {
-        "name": "Temple of Sethraliss",
-        "level": 16,
-        "id": 250
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
       },
       {
-        "name": "The Underrot",
-        "level": 15,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 15,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 15,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 19,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 16,
-        "id": 370
-      }
-    ]
-  },
-  {
-    "name": "Pew",
-    "dungeons": [
-      {
-        "name": "Atal'Dazar",
-        "level": 16,
-        "id": 244
-      },
-      {
-        "name": "Freehold",
-        "level": 18,
-        "id": 245
-      },
-      {
-        "name": "Tol Dagor",
-        "level": 16,
-        "id": 246
-      },
-      {
-        "name": "The MOTHERLODE!!",
-        "level": 17,
-        "id": 247
-      },
-      {
-        "name": "Waycrest Manor",
-        "level": 15,
-        "id": 248
-      },
-      {
-        "name": "Kings' Rest",
-        "level": 16,
-        "id": 249
-      },
-      {
-        "name": "Temple of Sethraliss",
-        "level": 17,
-        "id": 250
-      },
-      {
-        "name": "The Underrot",
-        "level": 16,
-        "id": 251
-      },
-      {
-        "name": "Shrine of the Storm",
-        "level": 15,
-        "id": 252
-      },
-      {
-        "name": "Siege of Boralus",
-        "level": 17,
-        "id": 353
-      },
-      {
-        "name": "Operation: Mechagon - Junkyard",
-        "level": 17,
-        "id": 369
-      },
-      {
-        "name": "Operation: Mechagon - Workshop",
-        "level": 15,
-        "id": 370
+        "name": "Theater of Pain",
+        "level": 0,
+        "id": 382
       }
     ]
   }

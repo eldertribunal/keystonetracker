@@ -1,122 +1,82 @@
 [
   {
-    "name": "Atal'Dazar",
-    "id": 244,
+    "name": "Mists of Tirna Scithe",
+    "id": 375,
     "upgrade": [
       "0:30:00",
       "0:24:00",
       "0:18:00"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/ataldazar-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/mists-of-tirna-scithe-small.jpg"
   },
   {
-    "name": "Freehold",
-    "id": 245,
-    "upgrade": [
-      "0:33:00",
-      "0:26:24",
-      "0:19:48"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/freehold-small.jpg"
-  },
-  {
-    "name": "Tol Dagor",
-    "id": 246,
+    "name": "The Necrotic Wake",
+    "id": 376,
     "upgrade": [
       "0:36:00",
       "0:28:48",
       "0:21:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/tol-dagor-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/the-necrotic-wake-small.jpg"
   },
   {
-    "name": "The MOTHERLODE!!",
-    "id": 247,
+    "name": "De Other Side",
+    "id": 377,
     "upgrade": [
-      "0:39:00",
-      "0:31:12",
-      "0:23:24"
+      "0:41:00",
+      "0:32:48",
+      "0:24:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/the-motherlode-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/de-other-side-small.jpg"
   },
   {
-    "name": "Waycrest Manor",
-    "id": 248,
+    "name": "Halls of Atonement",
+    "id": 378,
     "upgrade": [
-      "0:39:00",
-      "0:31:12",
-      "0:23:24"
+      "0:31:00",
+      "0:24:48",
+      "0:18:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/waycrest-manor-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/halls-of-atonement-small.jpg"
   },
   {
-    "name": "Kings' Rest",
-    "id": 249,
-    "upgrade": [
-      "0:42:00",
-      "0:33:36",
-      "0:25:12"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/kings-rest-small.jpg"
-  },
-  {
-    "name": "Temple of Sethraliss",
-    "id": 250,
-    "upgrade": [
-      "0:36:00",
-      "0:28:48",
-      "0:21:36"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/temple-of-sethraliss-small.jpg"
-  },
-  {
-    "name": "The Underrot",
-    "id": 251,
-    "upgrade": [
-      "0:33:00",
-      "0:26:24",
-      "0:19:48"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/the-underrot-small.jpg"
-  },
-  {
-    "name": "Shrine of the Storm",
-    "id": 252,
-    "upgrade": [
-      "0:42:00",
-      "0:33:36",
-      "0:25:12"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/shrine-of-the-storm-small.jpg"
-  },
-  {
-    "name": "Siege of Boralus",
-    "id": 353,
-    "upgrade": [
-      "0:36:00",
-      "0:28:48",
-      "0:21:36"
-    ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/siege-of-boralus-small.jpg"
-  },
-  {
-    "name": "Operation: Mechagon - Junkyard",
-    "id": 369,
+    "name": "Plaguefall",
+    "id": 379,
     "upgrade": [
       "0:38:00",
       "0:30:24",
       "0:22:48"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/operation-mechagon-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/plaguefall-small.jpg"
   },
   {
-    "name": "Operation: Mechagon - Workshop",
-    "id": 370,
+    "name": "Sanguine Depths",
+    "id": 380,
     "upgrade": [
-      "0:32:00",
-      "0:25:36",
-      "0:19:12"
+      "0:41:00",
+      "0:32:48",
+      "0:24:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/operation-mechagon-small.jpg"
+    "tile": "https://render-us.worldofwarcraft.com/zones/sanguine-depths-small.jpg"
+  },
+  {
+    "name": "Spires of Ascension",
+    "id": 381,
+    "upgrade": [
+      "0:39:00",
+      "0:31:12",
+      "0:23:24"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/spires-of-ascension-small.jpg"
+  },
+  {
+    "name": "Theater of Pain",
+    "id": 382,
+    "upgrade": [
+      "0:37:00",
+      "0:29:36",
+      "0:22:12"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/theater-of-pain-small.jpg"
   }
 ]
