@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{{content}}
+
+<table>
+{%- for character in site.data.weekly -%}
+    {% if forloop.first == true %}
+    <thead>
+        <tr>
+        {%- for keyNum in (1..character.dungeons.size) -%}
+            {%- if forloop.first == true %}
+            <th></th>
+            {%- endif %}
+            <th>{{keyNum}}</th>
+        {%- endfor %}
+        </tr>
+    </thead>
+    <tbody>
+    {% endif %}
+        <tr>
+            <td><b>{{ character.name }}</b></td>
+            {%- for dungeon in character.dungeons -%}
+            <td>{{ dungeon }}</td>
+            {%- endfor %}
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
+
+<div name="scan">Last Character Scan : {{ site.data.scanned.timestamp | date_to_rfc822 }}</div>
