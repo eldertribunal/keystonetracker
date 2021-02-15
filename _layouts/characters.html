@@ -23,7 +23,7 @@ layout: default
             <td><b>{{ character.name }}</b></td>
             {%- for dungeon in character.dungeons -%}
             {% capture dung_rank %}
-            {% if dungeon.level >= 15 %}"master"{% elsif dungeon.level >= 10 %}"conqueror"{% else %}"rookie"{% endif %}
+            {% if dungeon.level >= 15 %}"master"{% elsif dungeon.level >= 10 %}"conqueror"{% elsif dungeon.level >= 5 %}"explorer"{% else %}"rookie"{% endif %}
             {% endcapture %}
             <td id={{ dung_rank | strip }}>{{ dungeon.level }}</td>
             {%- endfor %}
