@@ -64,7 +64,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 13,
+        "level": 14,
         "id": 378
       },
       {
@@ -74,7 +74,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 13,
+        "level": 15,
         "id": 380
       },
       {
@@ -114,7 +114,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 10,
+        "level": 11,
         "id": 379
       },
       {
@@ -129,7 +129,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 10,
+        "level": 12,
         "id": 382
       }
     ]
@@ -209,12 +209,12 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 0,
+        "level": 7,
         "id": 380
       },
       {
         "name": "Spires of Ascension",
-        "level": 6,
+        "level": 8,
         "id": 381
       },
       {
@@ -289,17 +289,17 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 9,
+        "level": 14,
         "id": 378
       },
       {
         "name": "Plaguefall",
-        "level": 7,
+        "level": 11,
         "id": 379
       },
       {
         "name": "Sanguine Depths",
-        "level": 13,
+        "level": 15,
         "id": 380
       },
       {
@@ -334,7 +334,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 13,
+        "level": 14,
         "id": 378
       },
       {
@@ -344,7 +344,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 13,
+        "level": 15,
         "id": 380
       },
       {
@@ -379,7 +379,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 9,
+        "level": 11,
         "id": 378
       },
       {
@@ -394,7 +394,7 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 11,
+        "level": 12,
         "id": 381
       },
       {
@@ -414,7 +414,7 @@
       },
       {
         "name": "The Necrotic Wake",
-        "level": 9,
+        "level": 10,
         "id": 376
       },
       {
@@ -514,7 +514,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 13,
+        "level": 14,
         "id": 378
       },
       {
@@ -524,7 +524,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 13,
+        "level": 15,
         "id": 380
       },
       {
