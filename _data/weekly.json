@@ -32,9 +32,9 @@
   {
     "name": "Gochujang",
     "dungeons": [
+      12,
       10,
       7,
-      0,
       0,
       0,
       0,
@@ -137,7 +137,7 @@
   {
     "name": "Sacra",
     "dungeons": [
-      0,
+      12,
       0,
       0,
       0,
@@ -212,7 +212,7 @@
   {
     "name": "Pewpewlvltwo",
     "dungeons": [
-      0,
+      12,
       0,
       0,
       0,
@@ -317,7 +317,7 @@
   {
     "name": "Fairbrook",
     "dungeons": [
-      0,
+      12,
       0,
       0,
       0,
