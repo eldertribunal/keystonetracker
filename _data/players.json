@@ -4,7 +4,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 13,
+        "level": 14,
         "id": 375
       },
       {
@@ -364,7 +364,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 13,
+        "level": 14,
         "id": 375
       },
       {
@@ -589,7 +589,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 13,
+        "level": 14,
         "id": 375
       },
       {
@@ -599,7 +599,7 @@
       },
       {
         "name": "De Other Side",
-        "level": 13,
+        "level": 15,
         "id": 377
       },
       {
@@ -609,7 +609,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 11,
+        "level": 15,
         "id": 379
       },
       {
@@ -619,7 +619,7 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 13,
+        "level": 15,
         "id": 381
       },
       {
