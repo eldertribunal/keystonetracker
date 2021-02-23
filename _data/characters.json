@@ -139,12 +139,12 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 10,
+        "level": 12,
         "id": 375
       },
       {
         "name": "The Necrotic Wake",
-        "level": 10,
+        "level": 12,
         "id": 376
       },
       {
