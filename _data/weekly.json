@@ -32,7 +32,7 @@
   {
     "name": "Gochujang",
     "dungeons": [
-      0,
+      10,
       0,
       0,
       0,
@@ -137,7 +137,7 @@
   {
     "name": "Sacra",
     "dungeons": [
-      0,
+      10,
       0,
       0,
       0,
@@ -197,7 +197,7 @@
   {
     "name": "Pewthree",
     "dungeons": [
-      0,
+      10,
       0,
       0,
       0,
@@ -258,7 +258,7 @@
     "name": "Blinkwell",
     "dungeons": [
       15,
-      0,
+      10,
       0,
       0,
       0,
