@@ -122,8 +122,8 @@
   {
     "name": "Aletheia",
     "dungeons": [
+      11,
       9,
-      0,
       0,
       0,
       0,
@@ -197,10 +197,10 @@
   {
     "name": "Pewthree",
     "dungeons": [
+      11,
       10,
       10,
       9,
-      0,
       0,
       0,
       0,
@@ -437,8 +437,8 @@
   {
     "name": "Hokogo",
     "dungeons": [
+      11,
       9,
-      0,
       0,
       0,
       0,
