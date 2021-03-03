@@ -45,6 +45,21 @@
     ]
   },
   {
+    "name": "Hecubus",
+    "dungeons": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "name": "Beastmaster",
     "dungeons": [
       0,
@@ -436,6 +451,21 @@
   },
   {
     "name": "Hokogo",
+    "dungeons": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Nocturnlhawk",
     "dungeons": [
       0,
       0,

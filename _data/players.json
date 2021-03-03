@@ -1078,5 +1078,50 @@
         "id": 382
       }
     ]
+  },
+  {
+    "name": "Nocturnlhawk",
+    "dungeons": [
+      {
+        "name": "Mists of Tirna Scithe",
+        "level": 4,
+        "id": 375
+      },
+      {
+        "name": "The Necrotic Wake",
+        "level": 6,
+        "id": 376
+      },
+      {
+        "name": "De Other Side",
+        "level": 0,
+        "id": 377
+      },
+      {
+        "name": "Halls of Atonement",
+        "level": 6,
+        "id": 378
+      },
+      {
+        "name": "Plaguefall",
+        "level": 3,
+        "id": 379
+      },
+      {
+        "name": "Sanguine Depths",
+        "level": 0,
+        "id": 380
+      },
+      {
+        "name": "Spires of Ascension",
+        "level": 0,
+        "id": 381
+      },
+      {
+        "name": "Theater of Pain",
+        "level": 4,
+        "id": 382
+      }
+    ]
   }
 ]
