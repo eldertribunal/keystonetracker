@@ -17,12 +17,12 @@
   {
     "name": "Legume",
     "dungeons": [
+      17,
       16,
       15,
       14,
       12,
       11,
-      0,
       0,
       0,
       0,
@@ -466,6 +466,21 @@
   },
   {
     "name": "Nocturnlhawk",
+    "dungeons": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Grimmjob",
     "dungeons": [
       0,
       0,
