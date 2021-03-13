@@ -679,7 +679,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 0,
+        "level": 12,
         "id": 375
       },
       {
@@ -699,7 +699,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 10,
+        "level": 12,
         "id": 379
       },
       {
