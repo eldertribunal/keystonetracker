@@ -63,7 +63,7 @@
     "name": "Beastmaster",
     "dungeons": [
       15,
-      0,
+      8,
       0,
       0,
       0,
@@ -453,13 +453,13 @@
     "name": "Hokogo",
     "dungeons": [
       13,
+      8,
       7,
       7,
       5,
       5,
       3,
       2,
-      0,
       0,
       0
     ]
