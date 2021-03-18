@@ -47,7 +47,7 @@
   {
     "name": "Hecubus",
     "dungeons": [
-      0,
+      14,
       0,
       0,
       0,
@@ -167,8 +167,8 @@
   {
     "name": "Minro",
     "dungeons": [
+      14,
       11,
-      0,
       0,
       0,
       0,
@@ -213,8 +213,8 @@
     "name": "Pewthree",
     "dungeons": [
       16,
+      14,
       12,
-      0,
       0,
       0,
       0,
@@ -452,8 +452,8 @@
   {
     "name": "Hokogo",
     "dungeons": [
+      14,
       11,
-      0,
       0,
       0,
       0,
