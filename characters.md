@@ -3,4 +3,7 @@ layout: characters
 title: Characters
 ---
 
-## Character Names
+## Character Highest Completed Keys
+
+Tracks highest completed key per dungeon for each character.
+
