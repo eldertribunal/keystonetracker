@@ -2,20 +2,16 @@
 layout: default
 ---
 
-{{content}}
+{{ content }}
 
-{% for dungeon in site.data.dungeons %}
+{% assign dungeons = site.data.dungeons | sort: "name" %}
+{% for dungeon in dungeons %}
 <div style="padding: 5%;">
     <h3>{{ dungeon.name }}</h3>
-    <img alt="{{ dungeon.name }}" src="{{ dungeon.tile }}">
-    <div>
-        +1 Time : {{ dungeon.upgrade[0] }}
-    </div>
-    <div>
-        +2 Time : {{ dungeon.upgrade[1] }}
-    </div>
-    <div>
-        +3 Time : {{ dungeon.upgrade[2] }}
-    </div>
+    <img alt="{{ dungeon.name }}" src="{{ dungeon.tile }}"/>
+    <div>+1 Time : {{ dungeon.upgrade[0] }}</div>
+    <div>+2 Time : {{ dungeon.upgrade[1] }}</div>
+    <div>+3 Time : {{ dungeon.upgrade[2] }}</div>
 </div>
 {% endfor %}
+

@@ -1,12 +1,20 @@
-td#master {
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+    content: " \25B4\25BE";
+}
+td.master {
     background-color: rgb(170, 220, 170);
 }
-td#conqueror {
+td.conqueror {
     background-color: rgb(220, 220, 170);
 }
-td#explorer {
+td.explorer {
     background-color: rgb(220, 190, 140);
 }
-td#rookie {
+td.rookie {
     background-color: rgb(220, 170, 170);
 }
+td.col1, td.col4, td.col10 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
