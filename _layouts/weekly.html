@@ -23,18 +23,30 @@ layout: default
         <tr>
             <td><b>{{ character.name }}</b></td>
             {% for dungeon in character.dungeons %}
-                {% capture dung_rank %}
-                {% if dungeon >= 15 %}
-                    master
+                {% capture vault_rank %}
+                {% if dungeon >= 14 %}
+                    vault226
+                {% elsif dungeon >= 12 %}
+                    vault223
                 {% elsif dungeon >= 10 %}
-                    conqueror
+                    vault220
+                {% elsif dungeon >= 8 %}
+                    vault216
+                {% elsif dungeon >= 7 %}
+                    vault213
                 {% elsif dungeon >= 5 %}
-                    explorer
+                    vault210
+                {% elsif dungeon >= 4 %}
+                    vault207
+                {% elsif dungeon >= 3 %}
+                    vault203
+                {% elsif dungeon >= 2 %}
+                    vault200
                 {% else %}
-                    rookie
+                    vault0
                 {% endif %}
                 {% endcapture %}
-            <td class="{{ dung_rank | strip }} col{{ forloop.index }}">{{ dungeon }}</td>
+            <td title="Item Level {{ vault_rank | strip | remove:'vault' }}" class="{{ vault_rank | strip }} col{{ forloop.index }}">{{ dungeon }}</td>
             {% endfor %}
         </tr>
 {% endfor %}

@@ -14,5 +14,11 @@ podman run -it --rm \
     docker.io/jekyll/jekyll jekyll serve --livereload
 ```
 
+If you develop under windows using VS Code connected to WSL:Ubuntu, you can
+run the jekyll command directly.
+```bash
+bundle exec jekyll server
+```
+
 You can now go to http://localhost:4000 to see the site.
 

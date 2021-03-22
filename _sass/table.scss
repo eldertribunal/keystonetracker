@@ -1,20 +1,42 @@
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
     content: " \25B4\25BE";
 }
-td.master {
+td.master, td.vault226 {
     background-color: rgb(170, 220, 170);
 }
 td.conqueror {
     background-color: rgb(220, 220, 170);
 }
-td.explorer {
+td.explorer, td.vault200 {
     background-color: rgb(220, 190, 140);
 }
-td.rookie {
+td.rookie, td.vault0 {
     background-color: rgb(220, 170, 170);
 }
 td.col1, td.col4, td.col10 {
     font-size: 18px;
     font-weight: bold;
 }
-
+// https://colordesigner.io/gradient-generator used to create steps
+// between td.vault226 and td.vault220
+td.vault223 {
+    background-color:rgb(178, 217, 163)
+}
+td.vault220 {
+    background-color:rgb(185, 213, 157)
+}
+td.vault216 {
+    background-color:rgb(192, 210, 151)
+}
+td.vault213 {
+    background-color:rgb(198, 206, 147)
+}
+td.vault210 {
+    background-color:rgb(205, 202, 144)
+}
+td.vault207 {
+    background-color:rgb(210, 198, 142)
+}
+td.vault203 {
+    background-color:rgb(215, 194, 140)
+}
