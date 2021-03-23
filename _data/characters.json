@@ -184,7 +184,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 3,
+        "level": 4,
         "id": 375
       },
       {
@@ -199,7 +199,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 0,
+        "level": 6,
         "id": 378
       },
       {
@@ -219,7 +219,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 0,
+        "level": 3,
         "id": 382
       }
     ]
