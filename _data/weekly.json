@@ -227,9 +227,9 @@
   {
     "name": "Wildhawg",
     "dungeons": [
+      10,
       6,
       5,
-      0,
       0,
       0,
       0,
@@ -422,8 +422,8 @@
   {
     "name": "Savinyoass",
     "dungeons": [
+      10,
       7,
-      0,
       0,
       0,
       0,
@@ -482,9 +482,9 @@
   {
     "name": "Hokogo",
     "dungeons": [
+      10,
       5,
       5,
-      0,
       0,
       0,
       0,
