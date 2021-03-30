@@ -589,7 +589,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 11,
+        "level": 14,
         "id": 375
       },
       {
@@ -1544,7 +1544,7 @@
       },
       {
         "name": "De Other Side",
-        "level": 9,
+        "level": 12,
         "id": 377
       },
       {
