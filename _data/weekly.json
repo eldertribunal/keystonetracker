@@ -17,7 +17,7 @@
   {
     "name": "Legume",
     "dungeons": [
-      0,
+      4,
       0,
       0,
       0,
@@ -137,7 +137,7 @@
   {
     "name": "Lorzz",
     "dungeons": [
-      0,
+      14,
       0,
       0,
       0,
@@ -197,7 +197,7 @@
   {
     "name": "Minro",
     "dungeons": [
-      0,
+      14,
       0,
       0,
       0,
@@ -334,7 +334,7 @@
     "dungeons": [
       17,
       15,
-      0,
+      14,
       0,
       0,
       0,
@@ -497,7 +497,7 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
-      0,
+      14,
       0,
       0,
       0,
@@ -512,7 +512,7 @@
   {
     "name": "Grimmjob",
     "dungeons": [
-      0,
+      14,
       0,
       0,
       0,
