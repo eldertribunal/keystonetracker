@@ -184,7 +184,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 10,
+        "level": 12,
         "id": 375
       },
       {
@@ -214,7 +214,7 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 10,
+        "level": 12,
         "id": 381
       },
       {
@@ -544,7 +544,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 10,
+        "level": 12,
         "id": 375
       },
       {
@@ -574,7 +574,7 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 7,
+        "level": 12,
         "id": 381
       },
       {
