@@ -1104,12 +1104,12 @@
       },
       {
         "name": "Plaguefall",
-        "level": 6,
+        "level": 12,
         "id": 379
       },
       {
         "name": "Sanguine Depths",
-        "level": 0,
+        "level": 10,
         "id": 380
       },
       {
@@ -1119,7 +1119,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 5,
+        "level": 12,
         "id": 382
       }
     ]
