@@ -77,7 +77,7 @@
   {
     "name": "Beastmaster",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -499,7 +499,7 @@
     "dungeons": [
       15,
       15,
-      0,
+      15,
       0,
       0,
       0,
@@ -512,8 +512,8 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
+      12,
       6,
-      0,
       0,
       0,
       0,
