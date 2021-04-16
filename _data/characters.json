@@ -519,12 +519,12 @@
       },
       {
         "name": "Plaguefall",
-        "level": 9,
+        "level": 14,
         "id": 379
       },
       {
         "name": "Sanguine Depths",
-        "level": 12,
+        "level": 14,
         "id": 380
       },
       {
@@ -884,7 +884,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 0,
+        "level": 14,
         "id": 380
       },
       {
