@@ -212,7 +212,7 @@
   {
     "name": "Taiyed",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
@@ -227,7 +227,7 @@
   {
     "name": "Wildhawg",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
@@ -542,10 +542,10 @@
   {
     "name": "Statreos",
     "dungeons": [
+      16,
       9,
       9,
       8,
-      0,
       0,
       0,
       0,
