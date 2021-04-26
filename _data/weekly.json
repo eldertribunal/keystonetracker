@@ -75,36 +75,6 @@
     ]
   },
   {
-    "name": "Deathmoon",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Moofosa",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "name": "Lorzz",
     "dungeons": [
       17,
@@ -240,52 +210,7 @@
     ]
   },
   {
-    "name": "Casaw",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "name": "Churchpew",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Inkwell",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Blinkwell",
     "dungeons": [
       0,
       0,
@@ -330,97 +255,7 @@
     ]
   },
   {
-    "name": "Zarathoz",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Fairbrook",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Oedrilus",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Castiron",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Rayzstlyn",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "name": "Savinyoass",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Evilrue",
     "dungeons": [
       0,
       0,
