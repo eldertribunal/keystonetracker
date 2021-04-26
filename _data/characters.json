@@ -585,51 +585,6 @@
     ]
   },
   {
-    "name": "Pewpewlvltwo",
-    "dungeons": [
-      {
-        "name": "Mists of Tirna Scithe",
-        "level": 13,
-        "id": 375
-      },
-      {
-        "name": "The Necrotic Wake",
-        "level": 13,
-        "id": 376
-      },
-      {
-        "name": "De Other Side",
-        "level": 12,
-        "id": 377
-      },
-      {
-        "name": "Halls of Atonement",
-        "level": 11,
-        "id": 378
-      },
-      {
-        "name": "Plaguefall",
-        "level": 12,
-        "id": 379
-      },
-      {
-        "name": "Sanguine Depths",
-        "level": 12,
-        "id": 380
-      },
-      {
-        "name": "Spires of Ascension",
-        "level": 12,
-        "id": 381
-      },
-      {
-        "name": "Theater of Pain",
-        "level": 0,
-        "id": 382
-      }
-    ]
-  },
-  {
     "name": "Churchpew",
     "dungeons": [
       {
