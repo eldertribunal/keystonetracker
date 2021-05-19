@@ -109,7 +109,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 15,
+        "level": 16,
         "id": 378
       },
       {
@@ -184,7 +184,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 10,
+        "level": 14,
         "id": 375
       },
       {
@@ -199,7 +199,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 12,
+        "level": 16,
         "id": 378
       },
       {
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 15,
+        "level": 16,
         "id": 378
       },
       {
