@@ -317,9 +317,9 @@
   {
     "name": "Grimmjob",
     "dungeons": [
+      15,
       14,
       14,
-      0,
       0,
       0,
       0,
@@ -392,8 +392,8 @@
   {
     "name": "Swizzle",
     "dungeons": [
+      15,
       14,
-      0,
       0,
       0,
       0,
