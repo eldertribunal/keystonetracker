@@ -32,7 +32,7 @@
   {
     "name": "Walnut",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -62,10 +62,10 @@
   {
     "name": "Coachike",
     "dungeons": [
+      15,
       10,
       8,
       2,
-      0,
       0,
       0,
       0,
@@ -287,8 +287,8 @@
   {
     "name": "Hokogo",
     "dungeons": [
+      15,
       14,
-      0,
       0,
       0,
       0,
