@@ -94,7 +94,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 14,
+        "level": 15,
         "id": 375
       },
       {
@@ -119,7 +119,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 14,
+        "level": 15,
         "id": 380
       },
       {
@@ -129,7 +129,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 10,
+        "level": 15,
         "id": 382
       }
     ]
