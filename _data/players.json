@@ -234,12 +234,12 @@
       },
       {
         "name": "The Necrotic Wake",
-        "level": 7,
+        "level": 9,
         "id": 376
       },
       {
         "name": "De Other Side",
-        "level": 8,
+        "level": 9,
         "id": 377
       },
       {
@@ -254,17 +254,17 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 6,
+        "level": 5,
         "id": 380
       },
       {
         "name": "Spires of Ascension",
-        "level": 5,
+        "level": 15,
         "id": 381
       },
       {
         "name": "Theater of Pain",
-        "level": 2,
+        "level": 11,
         "id": 382
       }
     ]
