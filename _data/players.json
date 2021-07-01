@@ -274,42 +274,42 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 8,
+        "level": 17,
         "id": 375
       },
       {
         "name": "The Necrotic Wake",
-        "level": 7,
+        "level": 17,
         "id": 376
       },
       {
         "name": "De Other Side",
-        "level": 5,
+        "level": 16,
         "id": 377
       },
       {
         "name": "Halls of Atonement",
-        "level": 10,
+        "level": 16,
         "id": 378
       },
       {
         "name": "Plaguefall",
-        "level": 2,
+        "level": 16,
         "id": 379
       },
       {
         "name": "Sanguine Depths",
-        "level": 2,
+        "level": 16,
         "id": 380
       },
       {
         "name": "Spires of Ascension",
-        "level": 12,
+        "level": 16,
         "id": 381
       },
       {
         "name": "Theater of Pain",
-        "level": 3,
+        "level": 16,
         "id": 382
       }
     ]
