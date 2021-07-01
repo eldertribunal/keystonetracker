@@ -4,12 +4,12 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 16,
+        "level": 17,
         "id": 375
       },
       {
         "name": "The Necrotic Wake",
-        "level": 16,
+        "level": 17,
         "id": 376
       },
       {
@@ -29,17 +29,17 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 15,
+        "level": 16,
         "id": 380
       },
       {
         "name": "Spires of Ascension",
-        "level": 15,
+        "level": 17,
         "id": 381
       },
       {
         "name": "Theater of Pain",
-        "level": 15,
+        "level": 16,
         "id": 382
       }
     ]
