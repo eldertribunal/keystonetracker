@@ -32,7 +32,7 @@
   {
     "name": "Walnut",
     "dungeons": [
-      0,
+      17,
       0,
       0,
       0,
@@ -77,8 +77,8 @@
   {
     "name": "Lorzz",
     "dungeons": [
+      17,
       16,
-      0,
       0,
       0,
       0,
@@ -92,7 +92,7 @@
   {
     "name": "Aletheia",
     "dungeons": [
-      0,
+      17,
       0,
       0,
       0,
@@ -182,7 +182,7 @@
   {
     "name": "Pewthree",
     "dungeons": [
-      0,
+      17,
       0,
       0,
       0,
@@ -227,8 +227,8 @@
   {
     "name": "Zan\u00e9",
     "dungeons": [
+      17,
       16,
-      0,
       0,
       0,
       0,
