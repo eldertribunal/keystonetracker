@@ -302,7 +302,7 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
-      0,
+      9,
       0,
       0,
       0,
@@ -317,8 +317,8 @@
   {
     "name": "Grimmjob",
     "dungeons": [
-      0,
-      0,
+      10,
+      9,
       0,
       0,
       0,
@@ -392,8 +392,8 @@
   {
     "name": "Swizzle",
     "dungeons": [
-      0,
-      0,
+      10,
+      9,
       0,
       0,
       0,
