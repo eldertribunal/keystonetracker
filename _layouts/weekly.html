@@ -24,24 +24,24 @@ layout: default
             <td><b>{{ character.name }}</b></td>
             {% for dungeon in character.dungeons %}
                 {% capture vault_rank %}
+                {% if dungeon >= 15 %}
+                    vault252
                 {% if dungeon >= 14 %}
-                    vault226
+                    vault249
                 {% elsif dungeon >= 12 %}
-                    vault223
+                    vault246
+                {% elsif dungeon >= 11 %}
+                    vault242
                 {% elsif dungeon >= 10 %}
-                    vault220
+                    vault239
                 {% elsif dungeon >= 8 %}
-                    vault216
+                    vault236
                 {% elsif dungeon >= 7 %}
-                    vault213
+                    vault233
                 {% elsif dungeon >= 5 %}
-                    vault210
-                {% elsif dungeon >= 4 %}
-                    vault207
-                {% elsif dungeon >= 3 %}
-                    vault203
+                    vault229
                 {% elsif dungeon >= 2 %}
-                    vault200
+                    vault226
                 {% else %}
                     vault0
                 {% endif %}
