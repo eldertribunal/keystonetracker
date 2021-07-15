@@ -33,8 +33,8 @@
     "name": "Walnut",
     "dungeons": [
       13,
+      12,
       11,
-      0,
       0,
       0,
       0,
@@ -107,7 +107,7 @@
   {
     "name": "Sacra",
     "dungeons": [
-      0,
+      12,
       0,
       0,
       0,
@@ -182,8 +182,8 @@
   {
     "name": "Pewthree",
     "dungeons": [
+      12,
       11,
-      0,
       0,
       0,
       0,
