@@ -182,9 +182,9 @@
   {
     "name": "Pewthree",
     "dungeons": [
-      16,
       12,
       11,
+      0,
       0,
       0,
       0,
@@ -302,7 +302,7 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
-      14,
+      0,
       0,
       0,
       0,
