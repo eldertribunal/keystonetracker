@@ -24,7 +24,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 15,
+        "level": 17,
         "id": 379
       },
       {
@@ -34,12 +34,12 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 13,
+        "level": 15,
         "id": 381
       },
       {
         "name": "Theater of Pain",
-        "level": 15,
+        "level": 16,
         "id": 382
       }
     ]
@@ -204,7 +204,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 15,
+        "level": 17,
         "id": 379
       },
       {
@@ -219,7 +219,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 15,
+        "level": 16,
         "id": 382
       }
     ]
@@ -789,7 +789,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 15,
+        "level": 17,
         "id": 379
       },
       {
@@ -804,7 +804,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 15,
+        "level": 16,
         "id": 382
       }
     ]
