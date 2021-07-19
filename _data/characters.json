@@ -474,7 +474,7 @@
       },
       {
         "name": "Plaguefall",
-        "level": 11,
+        "level": 17,
         "id": 379
       },
       {
@@ -484,12 +484,12 @@
       },
       {
         "name": "Spires of Ascension",
-        "level": 10,
+        "level": 15,
         "id": 381
       },
       {
         "name": "Theater of Pain",
-        "level": 5,
+        "level": 16,
         "id": 382
       }
     ]
