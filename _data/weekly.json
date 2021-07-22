@@ -33,7 +33,7 @@
     "name": "Walnut",
     "dungeons": [
       15,
-      0,
+      15,
       0,
       0,
       0,
@@ -92,7 +92,7 @@
   {
     "name": "Aletheia",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -183,7 +183,7 @@
     "name": "Pewthree",
     "dungeons": [
       15,
-      0,
+      15,
       0,
       0,
       0,
@@ -317,8 +317,8 @@
   {
     "name": "Grimmjob",
     "dungeons": [
+      15,
       14,
-      0,
       0,
       0,
       0,
