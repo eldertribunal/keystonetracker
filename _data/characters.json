@@ -364,7 +364,7 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 0,
+        "level": 7,
         "id": 375
       },
       {
@@ -399,7 +399,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 0,
+        "level": 9,
         "id": 382
       }
     ]
