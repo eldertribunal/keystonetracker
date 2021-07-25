@@ -829,7 +829,7 @@
       },
       {
         "name": "Halls of Atonement",
-        "level": 0,
+        "level": 12,
         "id": 378
       },
       {
@@ -849,7 +849,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 0,
+        "level": 12,
         "id": 382
       }
     ]
