@@ -704,7 +704,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 0,
+        "level": 10,
         "id": 380
       },
       {
@@ -714,7 +714,7 @@
       },
       {
         "name": "Theater of Pain",
-        "level": 0,
+        "level": 6,
         "id": 382
       }
     ]
