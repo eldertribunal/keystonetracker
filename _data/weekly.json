@@ -33,7 +33,7 @@
     "name": "Walnut",
     "dungeons": [
       16,
-      0,
+      15,
       0,
       0,
       0,
@@ -212,7 +212,7 @@
   {
     "name": "Mooshaman",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -317,7 +317,7 @@
   {
     "name": "Grimmjob",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
