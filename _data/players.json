@@ -139,12 +139,12 @@
     "dungeons": [
       {
         "name": "Mists of Tirna Scithe",
-        "level": 0,
+        "level": 11,
         "id": 375
       },
       {
         "name": "The Necrotic Wake",
-        "level": 0,
+        "level": 12,
         "id": 376
       },
       {
@@ -164,7 +164,7 @@
       },
       {
         "name": "Sanguine Depths",
-        "level": 0,
+        "level": 9,
         "id": 380
       },
       {
