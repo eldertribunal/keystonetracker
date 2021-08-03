@@ -1,42 +1,40 @@
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
     content: " \25B4\25BE";
 }
-td.master, td.vault252 {
-    background-color: rgb(170, 220, 170);
-}
-td.conqueror {
-    background-color: rgb(220, 220, 170);
-}
-td.explorer, td.vault226 {
-    background-color: rgb(220, 190, 140);
-}
-td.rookie, td.vault0 {
-    background-color: rgb(220, 170, 170);
-}
+
 td.col1, td.col4, td.col10 {
     font-size: 18px;
     font-weight: bold;
 }
 // https://colordesigner.io/gradient-generator used to create steps
 // between td.vault252 and td.vault226 with 9 steps and LCH colors
+td.vault252, td.master {
+    background-color: rgb(170, 220, 170);
+}
 td.vault249 {
     background-color:rgb(178, 217, 163)
 }
-td.vault246 {
+td.vault246, td.conqueror {
     background-color:rgb(185, 213, 157)
 }
 td.vault242 {
     background-color:rgb(192, 210, 151)
 }
-td.vault239 {
+td.vault239, td.explorer {
     background-color:rgb(198, 206, 147)
 }
 td.vault236 {
     background-color:rgb(205, 202, 144)
 }
-td.vault233 {
+td.vault233, td.traveler {
     background-color:rgb(210, 198, 142)
 }
 td.vault229 {
     background-color:rgb(215, 194, 140)
+}
+td.vault226, td.tourist {
+    background-color: rgb(220, 190, 140);
+}
+td.vault0, td.rookie {
+    background-color: rgb(220, 170, 170);
 }

@@ -46,7 +46,13 @@ layout: default
                     vault0
                 {% endif %}
                 {% endcapture %}
-            <td title="Item Level {{ vault_rank | strip | remove:'vault' }}" class="{{ vault_rank | strip }} col{{ forloop.index }}">{{ dungeon }}</td>
+            <td class="{{ vault_rank | strip }} col{{ forloop.index }}">
+                <div class="tooltip">{{ dungeon }}
+                    <span class="tooltiptext">
+                        Item Level {{ vault_rank | strip | remove:'vault' }}
+                    </span>
+                </div>
+            </td>
             {% endfor %}
         </tr>
 {% endfor %}

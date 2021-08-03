@@ -25,17 +25,33 @@ layout: default
             <td><b>{{ character.name }}</b></td>
             {% for dungeon in dungeons %}
                 {% capture dung_rank %}
-                {% if dungeon.level >= 15 %}
+                {% if dungeon.rating.total >= 250 %}
                     "master"
-                {% elsif dungeon.level >= 10 %}
+                {% elsif dungeon.rating.total >= 212.5 %}
                     "conqueror"
-                {% elsif dungeon.level >= 5 %}
-                     "explorer"
+                {% elsif dungeon.rating.total >= 175 %}
+                    "explorer"
+                {% elsif dungeon.rating.total >= 125 %}
+                    "traveler"
+                {% elsif dungeon.rating.total >= 75 %}
+                    "tourist"
                 {% else %}
-                     "rookie"
+                    "rookie"
                 {% endif %}
                 {% endcapture %}
-            <td class={{ dung_rank | strip }}>{{ dungeon.level }}</td>
+            <td class={{ dung_rank | strip }}>
+                <div class="tooltip">{{ dungeon.rating.total }}
+                    <span class="tooltiptext">
+                        {% if dungeon.rating.fortified > dungeon.rating.tyrannical %}
+                        <div>Fortfied Rating: {{ dungeon.rating.fortified | times: 1.5 }}</div>
+                        <div>Tyrannical Rating: {{ dungeon.rating.tyrannical | divided_by: 2.0 }}</div>
+                        {% else %}
+                        <div>Fortfied Rating: {{ dungeon.rating.fortified | divided_by: 2.0 }}</div>
+                        <div>Tyrannical Rating: {{ dungeon.rating.tyrannical | times: 1.5 }}</div>
+                        {% endif %}
+                    </span>
+                </div> 
+            </td>
             {% endfor %}
         </tr>
 {% endfor %}
