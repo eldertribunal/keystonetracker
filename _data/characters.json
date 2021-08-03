@@ -2230,5 +2230,191 @@
         }
       }
     ]
+  },
+  {
+    "name": "Lokusnake",
+    "dungeons": [
+      {
+        "id": 375,
+        "name": "Mists of Tirna Scithe",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 376,
+        "name": "The Necrotic Wake",
+        "level": 6,
+        "duration": 1431600,
+        "rating": {
+          "fortified": 69.2,
+          "tyrannical": 0,
+          "total": 104
+        }
+      },
+      {
+        "id": 377,
+        "name": "De Other Side",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 378,
+        "name": "Halls of Atonement",
+        "level": 10,
+        "duration": 1781833,
+        "rating": {
+          "fortified": 100.5,
+          "tyrannical": 45,
+          "total": 173
+        }
+      },
+      {
+        "id": 379,
+        "name": "Plaguefall",
+        "level": 9,
+        "duration": 1955690,
+        "rating": {
+          "fortified": 0,
+          "tyrannical": 86.8,
+          "total": 130
+        }
+      },
+      {
+        "id": 380,
+        "name": "Sanguine Depths",
+        "level": 9,
+        "duration": 2246774,
+        "rating": {
+          "fortified": 86.1,
+          "tyrannical": 62.4,
+          "total": 160
+        }
+      },
+      {
+        "id": 381,
+        "name": "Spires of Ascension",
+        "level": 10,
+        "duration": 2100272,
+        "rating": {
+          "fortified": 0,
+          "tyrannical": 101.3,
+          "total": 152
+        }
+      },
+      {
+        "id": 382,
+        "name": "Theater of Pain",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dairysnake",
+    "dungeons": [
+      {
+        "id": 375,
+        "name": "Mists of Tirna Scithe",
+        "level": 10,
+        "duration": 1842648,
+        "rating": {
+          "fortified": 0,
+          "tyrannical": 94.7,
+          "total": 142
+        }
+      },
+      {
+        "id": 376,
+        "name": "The Necrotic Wake",
+        "level": 11,
+        "duration": 2005157,
+        "rating": {
+          "fortified": 105.9,
+          "tyrannical": 0,
+          "total": 159
+        }
+      },
+      {
+        "id": 377,
+        "name": "De Other Side",
+        "level": 11,
+        "duration": 3101622,
+        "rating": {
+          "fortified": 0,
+          "tyrannical": 97.5,
+          "total": 146
+        }
+      },
+      {
+        "id": 378,
+        "name": "Halls of Atonement",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 379,
+        "name": "Plaguefall",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 380,
+        "name": "Sanguine Depths",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 381,
+        "name": "Spires of Ascension",
+        "level": 4,
+        "duration": 2070070,
+        "rating": {
+          "fortified": 0,
+          "tyrannical": 56.4,
+          "total": 85
+        }
+      },
+      {
+        "id": 382,
+        "name": "Theater of Pain",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      }
+    ]
   }
 ]
