@@ -49,12 +49,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 17,
-        "duration": 2250370,
+        "level": 18,
+        "duration": 1968248,
         "rating": {
-          "fortified": 135.2,
+          "fortified": 141.7,
           "tyrannical": 125.4,
-          "total": 266
+          "total": 275
         }
       },
       {
@@ -421,12 +421,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 17,
-        "duration": 2250370,
+        "level": 18,
+        "duration": 1968248,
         "rating": {
-          "fortified": 135.2,
+          "fortified": 141.7,
           "tyrannical": 125.4,
-          "total": 266
+          "total": 275
         }
       },
       {
@@ -607,12 +607,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 17,
-        "duration": 2250370,
+        "level": 18,
+        "duration": 1968248,
         "rating": {
-          "fortified": 135.2,
+          "fortified": 141.7,
           "tyrannical": 106.4,
-          "total": 256
+          "total": 266
         }
       },
       {
@@ -793,12 +793,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 17,
-        "duration": 2250370,
+        "level": 18,
+        "duration": 1968248,
         "rating": {
-          "fortified": 135.2,
+          "fortified": 141.7,
           "tyrannical": 125.4,
-          "total": 266
+          "total": 275
         }
       },
       {
@@ -1176,12 +1176,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 14,
-        "duration": 3945675,
+        "level": 2,
+        "duration": 1057913,
         "rating": {
-          "fortified": 0,
+          "fortified": 45,
           "tyrannical": 0,
-          "total": 0
+          "total": 68
         }
       },
       {
