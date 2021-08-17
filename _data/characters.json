@@ -135,7 +135,7 @@
         "duration": 2291436,
         "rating": {
           "fortified": 0,
-          "tyrannical": 107.1,
+          "tyrannical": 107.6,
           "total": 161
         }
       },
@@ -320,9 +320,9 @@
         "level": 13,
         "duration": 2112251,
         "rating": {
-          "fortified": 108.3,
+          "fortified": 108.8,
           "tyrannical": 85.9,
-          "total": 205
+          "total": 206
         }
       },
       {
@@ -599,9 +599,9 @@
         "level": 16,
         "duration": 2116675,
         "rating": {
-          "fortified": 123.3,
+          "fortified": 123.7,
           "tyrannical": 118.5,
-          "total": 244
+          "total": 245
         }
       },
       {
@@ -693,8 +693,8 @@
         "duration": 1745868,
         "rating": {
           "fortified": 131.1,
-          "tyrannical": 121.4,
-          "total": 257
+          "tyrannical": 121.9,
+          "total": 258
         }
       },
       {
@@ -879,7 +879,7 @@
         "duration": 1607776,
         "rating": {
           "fortified": 0,
-          "tyrannical": 111.7,
+          "tyrannical": 112,
           "total": 168
         }
       },
@@ -972,7 +972,7 @@
         "duration": 2116675,
         "rating": {
           "fortified": 123.3,
-          "tyrannical": 117.7,
+          "tyrannical": 118.2,
           "total": 244
         }
       },
@@ -1064,7 +1064,7 @@
         "level": 15,
         "duration": 1704477,
         "rating": {
-          "fortified": 126.1,
+          "fortified": 126.4,
           "tyrannical": 117.7,
           "total": 248
         }
@@ -1250,7 +1250,7 @@
         "level": 17,
         "duration": 2165989,
         "rating": {
-          "fortified": 128,
+          "fortified": 128.4,
           "tyrannical": 121.4,
           "total": 253
         }
@@ -1344,7 +1344,7 @@
         "duration": 2089274,
         "rating": {
           "fortified": 0,
-          "tyrannical": 118.5,
+          "tyrannical": 118.9,
           "total": 178
         }
       },
@@ -1623,7 +1623,7 @@
         "duration": 2207747,
         "rating": {
           "fortified": 118.1,
-          "tyrannical": 86.8,
+          "tyrannical": 87.1,
           "total": 221
         }
       },
@@ -1716,7 +1716,7 @@
         "duration": 1756331,
         "rating": {
           "fortified": 116.1,
-          "tyrannical": 86.8,
+          "tyrannical": 87.1,
           "total": 218
         }
       },
@@ -1901,7 +1901,7 @@
         "level": 10,
         "duration": 1781833,
         "rating": {
-          "fortified": 100.5,
+          "fortified": 100.9,
           "tyrannical": 0,
           "total": 151
         }
@@ -1995,8 +1995,8 @@
         "duration": 1745868,
         "rating": {
           "fortified": 131.1,
-          "tyrannical": 121.4,
-          "total": 257
+          "tyrannical": 121.9,
+          "total": 258
         }
       },
       {
@@ -2088,7 +2088,7 @@
         "duration": 1790144,
         "rating": {
           "fortified": 0,
-          "tyrannical": 110.5,
+          "tyrannical": 110.9,
           "total": 166
         }
       },
@@ -2181,8 +2181,8 @@
         "duration": 1599804,
         "rating": {
           "fortified": 0,
-          "tyrannical": 86.8,
-          "total": 130
+          "tyrannical": 87.1,
+          "total": 131
         }
       },
       {
@@ -2274,7 +2274,7 @@
         "duration": 1711209,
         "rating": {
           "fortified": 100.5,
-          "tyrannical": 111,
+          "tyrannical": 111.4,
           "total": 217
         }
       },
