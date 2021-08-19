@@ -17,8 +17,8 @@
   {
     "name": "Legume",
     "dungeons": [
+      5,
       2,
-      0,
       0,
       0,
       0,
@@ -198,8 +198,8 @@
     "name": "Pewthree",
     "dungeons": [
       17,
-      0,
-      0,
+      5,
+      2,
       0,
       0,
       0,
