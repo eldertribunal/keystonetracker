@@ -444,7 +444,7 @@
         "id": 381,
         "name": "Spires of Ascension",
         "level": 17,
-        "duration": 1953463,
+        "duration": 1945251,
         "rating": {
           "fortified": 131.6,
           "tyrannical": 137.1,
@@ -1374,11 +1374,11 @@
         "id": 381,
         "name": "Spires of Ascension",
         "level": 17,
-        "duration": 1953463,
+        "duration": 1945251,
         "rating": {
-          "fortified": 131.6,
+          "fortified": 127.8,
           "tyrannical": 137.1,
-          "total": 271
+          "total": 270
         }
       },
       {
