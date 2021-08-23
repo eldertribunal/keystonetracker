@@ -284,12 +284,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 1558367,
+        "level": 15,
+        "duration": 1705816,
         "rating": {
           "fortified": 105.6,
-          "tyrannical": 121.7,
-          "total": 235
+          "tyrannical": 125.7,
+          "total": 241
         }
       },
       {
@@ -317,12 +317,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 13,
-        "duration": 2112251,
+        "level": 14,
+        "duration": 1883289,
         "rating": {
-          "fortified": 108.8,
+          "fortified": 0,
           "tyrannical": 86.3,
-          "total": 206
+          "total": 129
         }
       },
       {
@@ -1400,12 +1400,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 1558367,
+        "level": 15,
+        "duration": 1705816,
         "rating": {
           "fortified": 105.9,
-          "tyrannical": 121.7,
-          "total": 236
+          "tyrannical": 125.7,
+          "total": 242
         }
       },
       {
@@ -1437,8 +1437,8 @@
         "duration": 2116675,
         "rating": {
           "fortified": 123.7,
-          "tyrannical": 118.9,
-          "total": 245
+          "tyrannical": 120.2,
+          "total": 246
         }
       },
       {
