@@ -75,21 +75,6 @@
     ]
   },
   {
-    "name": "Coachike",
-    "dungeons": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "name": "Lorzz",
     "dungeons": [
       0,
@@ -180,7 +165,7 @@
     ]
   },
   {
-    "name": "Wildhawg",
+    "name": "Inkwell",
     "dungeons": [
       0,
       0,
