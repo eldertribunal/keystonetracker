@@ -1827,12 +1827,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 0,
-        "duration": 0,
+        "level": 12,
+        "duration": 2278704,
         "rating": {
-          "total": 0,
+          "fortified": 110.9,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 166
         }
       },
       {
