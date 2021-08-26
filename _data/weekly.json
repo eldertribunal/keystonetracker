@@ -92,7 +92,7 @@
   {
     "name": "Aletheia",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -168,7 +168,7 @@
     "name": "Inkwell",
     "dungeons": [
       17,
-      0,
+      15,
       0,
       0,
       0,
@@ -183,7 +183,7 @@
     "name": "Pewthree",
     "dungeons": [
       17,
-      0,
+      15,
       0,
       0,
       0,
