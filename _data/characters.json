@@ -1039,12 +1039,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 16,
-        "duration": 1980576,
+        "level": 17,
+        "duration": 2006471,
         "rating": {
-          "fortified": 131,
+          "fortified": 135.9,
           "tyrannical": 125,
-          "total": 259
+          "total": 266
         }
       },
       {
@@ -1318,12 +1318,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 2045862,
+        "level": 17,
+        "duration": 2006471,
         "rating": {
-          "fortified": 125.7,
+          "fortified": 135.9,
           "tyrannical": 125,
-          "total": 251
+          "total": 266
         }
       },
       {
@@ -1783,12 +1783,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 11,
-        "duration": 1422429,
+        "level": 17,
+        "duration": 2006471,
         "rating": {
-          "fortified": 109.3,
+          "fortified": 135.9,
           "tyrannical": 0,
-          "total": 164
+          "total": 204
         }
       },
       {
