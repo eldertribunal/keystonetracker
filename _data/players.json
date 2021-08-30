@@ -898,11 +898,11 @@
         "id": 380,
         "name": "Sanguine Depths",
         "level": 16,
-        "duration": 3104662,
+        "duration": 2493703,
         "rating": {
-          "fortified": 117.6,
+          "fortified": 124.8,
           "tyrannical": 121.7,
-          "total": 241
+          "total": 248
         }
       },
       {
