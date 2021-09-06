@@ -1515,12 +1515,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 11,
-        "duration": 3101622,
+        "level": 17,
+        "duration": 3788959,
         "rating": {
           "fortified": 0,
-          "tyrannical": 97.5,
-          "total": 146
+          "tyrannical": 0,
+          "total": 0
         }
       },
       {
