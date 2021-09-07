@@ -361,12 +361,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2197190,
+        "level": 19,
+        "duration": 2447155,
         "rating": {
           "fortified": 130.1,
-          "tyrannical": 0,
-          "total": 195
+          "tyrannical": 138.7,
+          "total": 273
         }
       }
     ]
@@ -470,12 +470,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 17,
-        "duration": 1931613,
+        "level": 15,
+        "duration": 1151530,
         "rating": {
-          "fortified": 129.1,
+          "fortified": 0,
           "tyrannical": 126.8,
-          "total": 257
+          "total": 190
         }
       },
       {
@@ -1294,9 +1294,9 @@
         "level": 19,
         "duration": 2447155,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 129.4,
-          "total": 194
+          "fortified": 130.1,
+          "tyrannical": 138.7,
+          "total": 273
         }
       }
     ]
