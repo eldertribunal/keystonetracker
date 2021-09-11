@@ -1291,12 +1291,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 19,
-        "duration": 2447155,
+        "level": 18,
+        "duration": 2000022,
         "rating": {
-          "fortified": 0,
+          "fortified": 141.2,
           "tyrannical": 138.7,
-          "total": 208
+          "total": 281
         }
       }
     ]
