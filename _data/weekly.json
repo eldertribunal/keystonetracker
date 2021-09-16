@@ -32,8 +32,8 @@
   {
     "name": "Walnut",
     "dungeons": [
+      19,
       15,
-      0,
       0,
       0,
       0,
@@ -152,7 +152,7 @@
   {
     "name": "Taiyed",
     "dungeons": [
-      0,
+      19,
       0,
       0,
       0,
@@ -302,7 +302,7 @@
   {
     "name": "Melia",
     "dungeons": [
-      0,
+      19,
       0,
       0,
       0,
