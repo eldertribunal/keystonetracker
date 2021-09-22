@@ -771,12 +771,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 15,
-        "duration": 2638955,
+        "level": 16,
+        "duration": 2774512,
         "rating": {
-          "fortified": 119.7,
+          "fortified": 124.1,
           "tyrannical": 0,
-          "total": 180
+          "total": 186
         }
       },
       {
