@@ -1794,12 +1794,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 2416692,
+        "level": 18,
+        "duration": 2512525,
         "rating": {
-          "fortified": 130.8,
+          "fortified": 140.3,
           "tyrannical": 120.9,
-          "total": 257
+          "total": 271
         }
       },
       {
