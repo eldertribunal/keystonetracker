@@ -86,8 +86,8 @@
         "duration": 2000022,
         "rating": {
           "fortified": 141.5,
-          "tyrannical": 139.1,
-          "total": 282
+          "tyrannical": 0,
+          "total": 212
         }
       }
     ]
@@ -361,12 +361,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 18,
-        "duration": 2000022,
+        "level": 21,
+        "duration": 2437546,
         "rating": {
           "fortified": 141.5,
-          "tyrannical": 139.1,
-          "total": 282
+          "tyrannical": 149.1,
+          "total": 294
         }
       }
     ]
@@ -733,12 +733,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 18,
-        "duration": 2000022,
+        "level": 21,
+        "duration": 2437546,
         "rating": {
           "fortified": 141.5,
-          "tyrannical": 139.1,
-          "total": 282
+          "tyrannical": 149.1,
+          "total": 294
         }
       }
     ]
@@ -919,12 +919,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 17,
-        "duration": 2264941,
+        "level": 21,
+        "duration": 2437546,
         "rating": {
           "fortified": 118.5,
-          "tyrannical": 135.1,
-          "total": 262
+          "tyrannical": 149.1,
+          "total": 283
         }
       }
     ]
@@ -1295,8 +1295,8 @@
         "duration": 2000022,
         "rating": {
           "fortified": 141.5,
-          "tyrannical": 139.1,
-          "total": 282
+          "tyrannical": 0,
+          "total": 212
         }
       }
     ]
