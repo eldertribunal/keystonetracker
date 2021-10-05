@@ -1373,12 +1373,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 17,
-        "duration": 2135170,
+        "level": 18,
+        "duration": 2134694,
         "rating": {
           "fortified": 135.6,
-          "tyrannical": 136.1,
-          "total": 272
+          "tyrannical": 141.1,
+          "total": 279
         }
       },
       {
