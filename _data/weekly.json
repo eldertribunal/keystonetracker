@@ -17,7 +17,7 @@
   {
     "name": "Legume",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
@@ -348,8 +348,8 @@
     "name": "Lokusnake",
     "dungeons": [
       16,
-      0,
-      0,
+      16,
+      15,
       0,
       0,
       0,

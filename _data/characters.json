@@ -120,12 +120,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 10,
-        "duration": 1963837,
+        "level": 16,
+        "duration": 2868027,
         "rating": {
-          "fortified": 103,
+          "fortified": 123.6,
           "tyrannical": 64.9,
-          "total": 187
+          "total": 218
         }
       },
       {
@@ -2144,12 +2144,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 13,
-        "duration": 2154152,
+        "level": 15,
+        "duration": 1473030,
         "rating": {
-          "fortified": 0,
+          "fortified": 127.3,
           "tyrannical": 107.5,
-          "total": 161
+          "total": 245
         }
       },
       {
@@ -2166,12 +2166,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 11,
-        "duration": 3207117,
+        "level": 16,
+        "duration": 2868027,
         "rating": {
-          "fortified": 97,
+          "fortified": 123.6,
           "tyrannical": 0,
-          "total": 146
+          "total": 185
         }
       },
       {
