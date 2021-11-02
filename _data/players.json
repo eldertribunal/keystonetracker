@@ -3,6 +3,72 @@
     "name": "Acorn",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 20,
@@ -95,6 +161,72 @@
   {
     "name": "Beastmaster",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -189,6 +321,72 @@
     "name": "Lorzz",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 19,
@@ -281,6 +479,72 @@
   {
     "name": "Sacra",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -375,6 +639,72 @@
     "name": "Siobhann",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 16,
@@ -467,6 +797,72 @@
   {
     "name": "Taiyed",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -561,6 +957,72 @@
     "name": "Inkwell",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
@@ -653,6 +1115,72 @@
   {
     "name": "Pew",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -747,6 +1275,72 @@
     "name": "Mooshaman",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 14,
@@ -839,6 +1433,72 @@
   {
     "name": "Zane",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -933,6 +1593,72 @@
     "name": "Hokogo",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 11,
@@ -1025,6 +1751,72 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -1119,6 +1911,72 @@
     "name": "Grimmjob",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
@@ -1211,6 +2069,72 @@
   {
     "name": "Statreos",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
@@ -1305,6 +2229,72 @@
     "name": "Kayn",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
@@ -1398,6 +2388,72 @@
     "name": "Swizzle",
     "dungeons": [
       {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
@@ -1490,6 +2546,72 @@
   {
     "name": "Dairy",
     "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",

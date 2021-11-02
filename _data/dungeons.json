@@ -1,5 +1,65 @@
 [
   {
+    "name": "Eye of Azshara",
+    "id": 197,
+    "upgrade": [
+      "0:35:00",
+      "0:28:00",
+      "0:21:00"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/eye-of-azshara-small.jpg"
+  },
+  {
+    "name": "Darkheart Thicket",
+    "id": 198,
+    "upgrade": [
+      "0:30:00",
+      "0:24:00",
+      "0:18:00"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/darkheart-thicket-small.jpg"
+  },
+  {
+    "name": "Black Rook Hold",
+    "id": 199,
+    "upgrade": [
+      "0:39:00",
+      "0:31:12",
+      "0:23:24"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/black-rook-hold-small.jpg"
+  },
+  {
+    "name": "Neltharion's Lair",
+    "id": 206,
+    "upgrade": [
+      "0:33:00",
+      "0:26:24",
+      "0:19:48"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/neltharions-lair-small.jpg"
+  },
+  {
+    "name": "Vault of the Wardens",
+    "id": 207,
+    "upgrade": [
+      "0:33:00",
+      "0:26:24",
+      "0:19:48"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/vault-of-the-wardens-small.jpg"
+  },
+  {
+    "name": "Court of Stars",
+    "id": 210,
+    "upgrade": [
+      "0:30:00",
+      "0:24:00",
+      "0:18:00"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/court-of-stars-small.jpg"
+  },
+  {
     "name": "Mists of Tirna Scithe",
     "id": 375,
     "upgrade": [
