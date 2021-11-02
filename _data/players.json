@@ -50,11 +50,11 @@
         "id": 379,
         "name": "Plaguefall",
         "level": 20,
-        "duration": 2325155,
+        "duration": 2055302,
         "rating": {
           "fortified": 141.7,
-          "tyrannical": 144.8,
-          "total": 288
+          "tyrannical": 151.2,
+          "total": 298
         }
       },
       {
@@ -701,11 +701,11 @@
         "id": 379,
         "name": "Plaguefall",
         "level": 20,
-        "duration": 2055302,
+        "duration": 2325155,
         "rating": {
           "fortified": 141.7,
-          "tyrannical": 151.2,
-          "total": 298
+          "tyrannical": 144.8,
+          "total": 288
         }
       },
       {
@@ -887,11 +887,11 @@
         "id": 379,
         "name": "Plaguefall",
         "level": 20,
-        "duration": 2325155,
+        "duration": 2055302,
         "rating": {
           "fortified": 140.1,
-          "tyrannical": 144.8,
-          "total": 287
+          "tyrannical": 151.2,
+          "total": 297
         }
       },
       {
