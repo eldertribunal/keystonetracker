@@ -447,9 +447,9 @@
         "level": 17,
         "duration": 2107570,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 132.4,
-          "total": 199
+          "fortified": 136.5,
+          "tyrannical": 136.8,
+          "total": 273
         }
       },
       {
@@ -1083,9 +1083,9 @@
         "level": 17,
         "duration": 2107570,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 126.3,
-          "total": 189
+          "fortified": 132.6,
+          "tyrannical": 136.8,
+          "total": 272
         }
       },
       {
@@ -1401,9 +1401,9 @@
         "level": 17,
         "duration": 2107570,
         "rating": {
-          "fortified": 0,
+          "fortified": 125.7,
           "tyrannical": 136.8,
-          "total": 205
+          "total": 268
         }
       },
       {
