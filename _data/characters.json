@@ -888,12 +888,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 18,
-        "duration": 2258252,
+        "level": 21,
+        "duration": 2625877,
         "rating": {
           "fortified": 136.6,
-          "tyrannical": 141.6,
-          "total": 281
+          "tyrannical": 149.8,
+          "total": 293
         }
       },
       {
