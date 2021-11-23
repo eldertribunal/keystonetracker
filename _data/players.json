@@ -1036,12 +1036,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 17,
-        "duration": 2006471,
+        "level": 18,
+        "duration": 1865396,
         "rating": {
-          "fortified": 135.9,
+          "fortified": 141.7,
           "tyrannical": 131.2,
-          "total": 269
+          "total": 278
         }
       },
       {
@@ -1058,12 +1058,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 15,
-        "duration": 1809933,
+        "level": 18,
+        "duration": 2034247,
         "rating": {
-          "fortified": 125.7,
+          "fortified": 134.3,
           "tyrannical": 119,
-          "total": 248
+          "total": 261
         }
       },
       {
