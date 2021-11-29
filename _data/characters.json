@@ -1185,11 +1185,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
-        "duration": 1356759,
+        "duration": 1347541,
         "rating": {
           "fortified": 128.1,
-          "tyrannical": 125,
-          "total": 255
+          "tyrannical": 128.1,
+          "total": 256
         }
       },
       {
@@ -1239,12 +1239,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 1822350,
+        "level": 16,
+        "duration": 1822354,
         "rating": {
           "fortified": 128.2,
-          "tyrannical": 0,
-          "total": 192
+          "tyrannical": 133.2,
+          "total": 264
         }
       },
       {
@@ -3729,11 +3729,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
-        "duration": 1473030,
+        "duration": 1347541,
         "rating": {
           "fortified": 127.3,
-          "tyrannical": 120.9,
-          "total": 251
+          "tyrannical": 128.1,
+          "total": 256
         }
       },
       {
