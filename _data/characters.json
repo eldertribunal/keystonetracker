@@ -3114,12 +3114,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 18,
-        "duration": 2512525,
+        "level": 20,
+        "duration": 3214107,
         "rating": {
           "fortified": 140.3,
-          "tyrannical": 120.9,
-          "total": 271
+          "tyrannical": 141.9,
+          "total": 283
         }
       },
       {
