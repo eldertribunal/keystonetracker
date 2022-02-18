@@ -138,11 +138,11 @@
         "id": 381,
         "name": "Spires of Ascension",
         "level": 16,
-        "duration": 2135871,
+        "duration": 1968163,
         "rating": {
           "fortified": 128.9,
-          "tyrannical": 131.1,
-          "total": 261
+          "tyrannical": 132,
+          "total": 262
         }
       },
       {
@@ -263,23 +263,23 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 13,
-        "duration": 2291436,
+        "level": 16,
+        "duration": 1810900,
         "rating": {
-          "fortified": 0,
+          "fortified": 130.7,
           "tyrannical": 107.6,
-          "total": 161
+          "total": 250
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 5,
-        "duration": 1622328,
+        "level": 16,
+        "duration": 2516014,
         "rating": {
-          "fortified": 45,
+          "fortified": 123.7,
           "tyrannical": 63.6,
-          "total": 118
+          "total": 217
         }
       },
       {
@@ -307,12 +307,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 10,
-        "duration": 1751882,
+        "level": 16,
+        "duration": 1548516,
         "rating": {
-          "fortified": 102.9,
-          "tyrannical": 0,
-          "total": 154
+          "fortified": 134,
+          "tyrannical": 131.7,
+          "total": 267
         }
       }
     ]
@@ -477,165 +477,6 @@
     ]
   },
   {
-    "name": "Chestnut",
-    "dungeons": [
-      {
-        "id": 197,
-        "name": "Eye of Azshara",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 198,
-        "name": "Darkheart Thicket",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 199,
-        "name": "Black Rook Hold",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 206,
-        "name": "Neltharion's Lair",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 207,
-        "name": "Vault of the Wardens",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 210,
-        "name": "Court of Stars",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 15,
-        "duration": 1705816,
-        "rating": {
-          "fortified": 105.6,
-          "tyrannical": 125.7,
-          "total": 241
-        }
-      },
-      {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 12,
-        "duration": 2115345,
-        "rating": {
-          "fortified": 110.3,
-          "tyrannical": 42.9,
-          "total": 187
-        }
-      },
-      {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 16,
-        "duration": 2774512,
-        "rating": {
-          "fortified": 124.1,
-          "tyrannical": 68.1,
-          "total": 220
-        }
-      },
-      {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 14,
-        "duration": 1883289,
-        "rating": {
-          "fortified": 108.8,
-          "tyrannical": 120.2,
-          "total": 235
-        }
-      },
-      {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 9,
-        "duration": 1955690,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 86.8,
-          "total": 130
-        }
-      },
-      {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 16,
-        "duration": 3104662,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 121.7,
-          "total": 183
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 15,
-        "duration": 2138250,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 126.1,
-          "total": 189
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 15,
-        "duration": 2563404,
-        "rating": {
-          "fortified": 118.5,
-          "tyrannical": 85.5,
-          "total": 220
-        }
-      }
-    ]
-  },
-  {
     "name": "Beastmaster",
     "dungeons": [
       {
@@ -729,34 +570,34 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 2001153,
+        "level": 17,
+        "duration": 2573455,
         "rating": {
-          "fortified": 132.8,
-          "tyrannical": 126.2,
-          "total": 262
+          "fortified": 135,
+          "tyrannical": 127.7,
+          "total": 266
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
         "level": 16,
-        "duration": 1864443,
+        "duration": 1679117,
         "rating": {
           "fortified": 128.3,
-          "tyrannical": 130.4,
-          "total": 260
+          "tyrannical": 131.6,
+          "total": 262
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 15,
-        "duration": 1900623,
+        "level": 16,
+        "duration": 1908846,
         "rating": {
           "fortified": 127.1,
-          "tyrannical": 126.4,
-          "total": 254
+          "tyrannical": 132,
+          "total": 262
         }
       },
       {
@@ -785,11 +626,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 16,
-        "duration": 1962311,
+        "duration": 1735562,
         "rating": {
-          "fortified": 125.9,
+          "fortified": 133,
           "tyrannical": 131.7,
-          "total": 260
+          "total": 265
         }
       }
     ]
@@ -946,9 +787,9 @@
         "level": 20,
         "duration": 2243616,
         "rating": {
-          "fortified": 118.5,
+          "fortified": 131.4,
           "tyrannical": 150.2,
-          "total": 285
+          "total": 291
         }
       }
     ]
@@ -1103,11 +944,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 20,
-        "duration": 2190846,
+        "duration": 1844362,
         "rating": {
-          "fortified": 143.3,
+          "fortified": 152.4,
           "tyrannical": 150.5,
-          "total": 297
+          "total": 304
         }
       }
     ]
@@ -1198,42 +1039,42 @@
         "level": 16,
         "duration": 1759966,
         "rating": {
-          "fortified": 117.6,
+          "fortified": 128.2,
           "tyrannical": 132.3,
-          "total": 257
+          "total": 263
         }
       },
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 5,
-        "duration": 1565615,
+        "level": 15,
+        "duration": 1875397,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 64.9,
-          "total": 97
+          "fortified": 127.1,
+          "tyrannical": 128.4,
+          "total": 256
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 0,
-        "duration": 0,
+        "level": 16,
+        "duration": 1510752,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 132.7,
+          "tyrannical": 128.9,
+          "total": 264
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 15,
-        "duration": 1790301,
+        "level": 16,
+        "duration": 2072370,
         "rating": {
-          "fortified": 0,
+          "fortified": 131.1,
           "tyrannical": 127.7,
-          "total": 192
+          "total": 260
         }
       },
       {
@@ -1250,23 +1091,23 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 1737338,
         "rating": {
-          "total": 0,
+          "fortified": 128.2,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 192
         }
       },
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2109160,
+        "level": 17,
+        "duration": 1909246,
         "rating": {
           "fortified": 130.9,
-          "tyrannical": 0,
-          "total": 196
+          "tyrannical": 137,
+          "total": 271
         }
       }
     ]
@@ -1749,165 +1590,6 @@
     ]
   },
   {
-    "name": "Inkwell",
-    "dungeons": [
-      {
-        "id": 197,
-        "name": "Eye of Azshara",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 198,
-        "name": "Darkheart Thicket",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 199,
-        "name": "Black Rook Hold",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 206,
-        "name": "Neltharion's Lair",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 207,
-        "name": "Vault of the Wardens",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 210,
-        "name": "Court of Stars",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1650933,
-        "rating": {
-          "fortified": 128.1,
-          "tyrannical": 131,
-          "total": 261
-        }
-      },
-      {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 18,
-        "duration": 1865396,
-        "rating": {
-          "fortified": 141.7,
-          "tyrannical": 133.3,
-          "total": 279
-        }
-      },
-      {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 17,
-        "duration": 2258711,
-        "rating": {
-          "fortified": 136.6,
-          "tyrannical": 130,
-          "total": 270
-        }
-      },
-      {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 18,
-        "duration": 2034247,
-        "rating": {
-          "fortified": 134.3,
-          "tyrannical": 127.4,
-          "total": 265
-        }
-      },
-      {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 16,
-        "duration": 2084402,
-        "rating": {
-          "fortified": 127.4,
-          "tyrannical": 131.1,
-          "total": 260
-        }
-      },
-      {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 17,
-        "duration": 2107570,
-        "rating": {
-          "fortified": 132.6,
-          "tyrannical": 136.8,
-          "total": 272
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 17,
-        "duration": 2091261,
-        "rating": {
-          "fortified": 135.6,
-          "tyrannical": 136.3,
-          "total": 272
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 15,
-        "duration": 2122161,
-        "rating": {
-          "fortified": 125.1,
-          "tyrannical": 125.9,
-          "total": 251
-        }
-      }
-    ]
-  },
-  {
     "name": "Pewthree",
     "dungeons": [
       {
@@ -2138,12 +1820,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 1785234,
+        "level": 16,
+        "duration": 1679654,
         "rating": {
-          "fortified": 105.9,
+          "fortified": 130.8,
           "tyrannical": 120.1,
-          "total": 233
+          "total": 256
         }
       },
       {
@@ -2163,20 +1845,20 @@
         "level": 18,
         "duration": 2258252,
         "rating": {
-          "fortified": 118.8,
+          "fortified": 127.1,
           "tyrannical": 141.6,
-          "total": 272
+          "total": 276
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 15,
-        "duration": 2089274,
+        "level": 16,
+        "duration": 1679117,
         "rating": {
-          "fortified": 113,
-          "tyrannical": 118.9,
-          "total": 235
+          "fortified": 126.6,
+          "tyrannical": 131.6,
+          "total": 261
         }
       },
       {
@@ -2185,9 +1867,9 @@
         "level": 16,
         "duration": 2272970,
         "rating": {
-          "fortified": 114.8,
+          "fortified": 129.1,
           "tyrannical": 130,
-          "total": 252
+          "total": 260
         }
       },
       {
@@ -2207,9 +1889,9 @@
         "level": 16,
         "duration": 1737584,
         "rating": {
-          "fortified": 108.5,
+          "fortified": 131.7,
           "tyrannical": 133.2,
-          "total": 254
+          "total": 266
         }
       },
       {
@@ -2218,9 +1900,9 @@
         "level": 18,
         "duration": 2084723,
         "rating": {
-          "fortified": 119.8,
+          "fortified": 130.1,
           "tyrannical": 141.1,
-          "total": 272
+          "total": 277
         }
       }
     ]
@@ -2385,7 +2067,7 @@
     ]
   },
   {
-    "name": "Hokogo",
+    "name": "Zaen",
     "dungeons": [
       {
         "id": 197,
@@ -2456,89 +2138,89 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 11,
-        "duration": 1979974,
+        "level": 16,
+        "duration": 1507833,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 98.8,
-          "total": 148
+          "fortified": 132,
+          "tyrannical": 127.5,
+          "total": 262
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 12,
-        "duration": 1538015,
+        "level": 16,
+        "duration": 1575513,
         "rating": {
-          "fortified": 113.6,
-          "tyrannical": 0,
-          "total": 170
+          "fortified": 133.4,
+          "tyrannical": 133,
+          "total": 267
         }
       },
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 12,
-        "duration": 2881560,
+        "level": 17,
+        "duration": 2509059,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 103.5,
-          "total": 155
+          "fortified": 121.6,
+          "tyrannical": 135.3,
+          "total": 264
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 0,
-        "duration": 0,
+        "level": 16,
+        "duration": 2023407,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 124.3,
+          "tyrannical": 122.6,
+          "total": 248
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 10,
-        "duration": 2571438,
+        "level": 16,
+        "duration": 1908846,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 93.4,
-          "total": 140
+          "fortified": 125.6,
+          "tyrannical": 132,
+          "total": 261
         }
       },
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 11,
-        "duration": 2070641,
+        "level": 15,
+        "duration": 1828582,
         "rating": {
-          "fortified": 107,
-          "tyrannical": 75.9,
-          "total": 198
+          "fortified": 122.8,
+          "tyrannical": 128.2,
+          "total": 254
         }
       },
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 16,
+        "duration": 2240528,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 129.8,
+          "tyrannical": 130.5,
+          "total": 261
         }
       },
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 15,
-        "duration": 2332557,
+        "level": 17,
+        "duration": 2110821,
         "rating": {
-          "fortified": 119.7,
-          "tyrannical": 100,
-          "total": 230
+          "fortified": 131.8,
+          "tyrannical": 135.9,
+          "total": 270
         }
       }
     ]
@@ -2640,20 +2322,20 @@
         "level": 15,
         "duration": 2279329,
         "rating": {
-          "fortified": 101.2,
+          "fortified": 121.6,
           "tyrannical": 126.5,
-          "total": 240
+          "total": 251
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
         "level": 15,
-        "duration": 2207747,
+        "duration": 1809003,
         "rating": {
-          "fortified": 118.1,
+          "fortified": 125.7,
           "tyrannical": 87.1,
-          "total": 221
+          "total": 232
         }
       },
       {
@@ -2934,11 +2616,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 17,
-        "duration": 1647727,
+        "duration": 1436189,
         "rating": {
-          "fortified": 135.5,
+          "fortified": 137.5,
           "tyrannical": 136.1,
-          "total": 272
+          "total": 274
         }
       },
       {
@@ -2959,8 +2641,8 @@
         "duration": 2270182,
         "rating": {
           "fortified": 131.5,
-          "tyrannical": 126,
-          "total": 260
+          "tyrannical": 128.4,
+          "total": 261
         }
       },
       {
@@ -3016,6 +2698,165 @@
           "fortified": 130.9,
           "tyrannical": 119.5,
           "total": 256
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mel\u00eda",
+    "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 375,
+        "name": "Mists of Tirna Scithe",
+        "level": 22,
+        "duration": 2100025,
+        "rating": {
+          "fortified": 150.4,
+          "tyrannical": 152.9,
+          "total": 305
+        }
+      },
+      {
+        "id": 376,
+        "name": "The Necrotic Wake",
+        "level": 20,
+        "duration": 1810422,
+        "rating": {
+          "fortified": 150.3,
+          "tyrannical": 152,
+          "total": 303
+        }
+      },
+      {
+        "id": 377,
+        "name": "De Other Side",
+        "level": 20,
+        "duration": 2378549,
+        "rating": {
+          "fortified": 147.7,
+          "tyrannical": 151,
+          "total": 300
+        }
+      },
+      {
+        "id": 378,
+        "name": "Halls of Atonement",
+        "level": 20,
+        "duration": 1754269,
+        "rating": {
+          "fortified": 144.6,
+          "tyrannical": 151.1,
+          "total": 299
+        }
+      },
+      {
+        "id": 379,
+        "name": "Plaguefall",
+        "level": 20,
+        "duration": 1976137,
+        "rating": {
+          "fortified": 151.7,
+          "tyrannical": 151.2,
+          "total": 303
+        }
+      },
+      {
+        "id": 380,
+        "name": "Sanguine Depths",
+        "level": 20,
+        "duration": 2234393,
+        "rating": {
+          "fortified": 146.8,
+          "tyrannical": 151.2,
+          "total": 300
+        }
+      },
+      {
+        "id": 381,
+        "name": "Spires of Ascension",
+        "level": 20,
+        "duration": 2126851,
+        "rating": {
+          "fortified": 150.5,
+          "tyrannical": 151.1,
+          "total": 302
+        }
+      },
+      {
+        "id": 382,
+        "name": "Theater of Pain",
+        "level": 20,
+        "duration": 2190846,
+        "rating": {
+          "fortified": 143.3,
+          "tyrannical": 150.5,
+          "total": 297
         }
       }
     ]
@@ -3175,324 +3016,6 @@
           "fortified": 125.9,
           "tyrannical": 150.2,
           "total": 288
-        }
-      }
-    ]
-  },
-  {
-    "name": "Melia",
-    "dungeons": [
-      {
-        "id": 197,
-        "name": "Eye of Azshara",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 198,
-        "name": "Darkheart Thicket",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 199,
-        "name": "Black Rook Hold",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 206,
-        "name": "Neltharion's Lair",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 207,
-        "name": "Vault of the Wardens",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 210,
-        "name": "Court of Stars",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 22,
-        "duration": 2100025,
-        "rating": {
-          "fortified": 150.4,
-          "tyrannical": 152.9,
-          "total": 305
-        }
-      },
-      {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1810422,
-        "rating": {
-          "fortified": 150.3,
-          "tyrannical": 152,
-          "total": 303
-        }
-      },
-      {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2378549,
-        "rating": {
-          "fortified": 147.7,
-          "tyrannical": 151,
-          "total": 300
-        }
-      },
-      {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1754269,
-        "rating": {
-          "fortified": 144.6,
-          "tyrannical": 151.1,
-          "total": 299
-        }
-      },
-      {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 1976137,
-        "rating": {
-          "fortified": 151.7,
-          "tyrannical": 151.2,
-          "total": 303
-        }
-      },
-      {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 2248075,
-        "rating": {
-          "fortified": 146.8,
-          "tyrannical": 151.1,
-          "total": 300
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2126851,
-        "rating": {
-          "fortified": 150.5,
-          "tyrannical": 151.1,
-          "total": 302
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 2190846,
-        "rating": {
-          "fortified": 143.3,
-          "tyrannical": 150.5,
-          "total": 297
-        }
-      }
-    ]
-  },
-  {
-    "name": "Kayn",
-    "dungeons": [
-      {
-        "id": 197,
-        "name": "Eye of Azshara",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 198,
-        "name": "Darkheart Thicket",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 199,
-        "name": "Black Rook Hold",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 206,
-        "name": "Neltharion's Lair",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 207,
-        "name": "Vault of the Wardens",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 210,
-        "name": "Court of Stars",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 15,
-        "duration": 2394077,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 115.9,
-          "total": 174
-        }
-      },
-      {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 5081810,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
-        }
-      },
-      {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 12,
-        "duration": 1790144,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 110.9,
-          "total": 166
-        }
-      },
-      {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 10,
-        "duration": 2571438,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 93.4,
-          "total": 140
-        }
-      },
-      {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 10,
-        "duration": 1780500,
-        "rating": {
-          "fortified": 102.3,
-          "tyrannical": 103.5,
-          "total": 206
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 12,
-        "duration": 2192060,
-        "rating": {
-          "fortified": 0,
-          "tyrannical": 110.5,
-          "total": 166
         }
       }
     ]
@@ -3728,12 +3251,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 15,
-        "duration": 1238149,
+        "level": 16,
+        "duration": 1614340,
         "rating": {
-          "fortified": 127.3,
-          "tyrannical": 128.9,
-          "total": 257
+          "fortified": 130.8,
+          "tyrannical": 131.3,
+          "total": 262
         }
       },
       {
@@ -3751,11 +3274,11 @@
         "id": 377,
         "name": "De Other Side",
         "level": 16,
-        "duration": 2868027,
+        "duration": 2588437,
         "rating": {
           "fortified": 123.6,
-          "tyrannical": 117,
-          "total": 244
+          "tyrannical": 125,
+          "total": 249
         }
       },
       {
@@ -3765,8 +3288,8 @@
         "duration": 1833099,
         "rating": {
           "fortified": 135.6,
-          "tyrannical": 118,
-          "total": 262
+          "tyrannical": 121.2,
+          "total": 264
         }
       },
       {
@@ -3794,23 +3317,23 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 15,
-        "duration": 2197436,
+        "level": 16,
+        "duration": 1952566,
         "rating": {
-          "fortified": 123.5,
-          "tyrannical": 125.8,
-          "total": 250
+          "fortified": 132.1,
+          "tyrannical": 127,
+          "total": 262
         }
       },
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 15,
-        "duration": 1878444,
+        "level": 16,
+        "duration": 2209632,
         "rating": {
-          "fortified": 127.2,
+          "fortified": 130.4,
           "tyrannical": 125.3,
-          "total": 253
+          "total": 258
         }
       }
     ]
@@ -3970,6 +3493,165 @@
           "fortified": 41.5,
           "tyrannical": 0,
           "total": 62
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sassynach",
+    "dungeons": [
+      {
+        "id": 197,
+        "name": "Eye of Azshara",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 198,
+        "name": "Darkheart Thicket",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 199,
+        "name": "Black Rook Hold",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 206,
+        "name": "Neltharion's Lair",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 207,
+        "name": "Vault of the Wardens",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 210,
+        "name": "Court of Stars",
+        "level": 0,
+        "duration": 0,
+        "rating": {
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
+        }
+      },
+      {
+        "id": 375,
+        "name": "Mists of Tirna Scithe",
+        "level": 18,
+        "duration": 1572867,
+        "rating": {
+          "fortified": 126.8,
+          "tyrannical": 141.6,
+          "total": 276
+        }
+      },
+      {
+        "id": 376,
+        "name": "The Necrotic Wake",
+        "level": 18,
+        "duration": 1865396,
+        "rating": {
+          "fortified": 141.7,
+          "tyrannical": 127.8,
+          "total": 276
+        }
+      },
+      {
+        "id": 377,
+        "name": "De Other Side",
+        "level": 17,
+        "duration": 2171668,
+        "rating": {
+          "fortified": 130.8,
+          "tyrannical": 137,
+          "total": 271
+        }
+      },
+      {
+        "id": 378,
+        "name": "Halls of Atonement",
+        "level": 18,
+        "duration": 2034247,
+        "rating": {
+          "fortified": 134.3,
+          "tyrannical": 127.3,
+          "total": 265
+        }
+      },
+      {
+        "id": 379,
+        "name": "Plaguefall",
+        "level": 16,
+        "duration": 1888557,
+        "rating": {
+          "fortified": 125.9,
+          "tyrannical": 132.2,
+          "total": 261
+        }
+      },
+      {
+        "id": 380,
+        "name": "Sanguine Depths",
+        "level": 16,
+        "duration": 2156937,
+        "rating": {
+          "fortified": 127.2,
+          "tyrannical": 131.5,
+          "total": 261
+        }
+      },
+      {
+        "id": 381,
+        "name": "Spires of Ascension",
+        "level": 17,
+        "duration": 2027974,
+        "rating": {
+          "fortified": 132.3,
+          "tyrannical": 136.7,
+          "total": 271
+        }
+      },
+      {
+        "id": 382,
+        "name": "Theater of Pain",
+        "level": 18,
+        "duration": 2084723,
+        "rating": {
+          "fortified": 131.4,
+          "tyrannical": 141.1,
+          "total": 277
         }
       }
     ]
