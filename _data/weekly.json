@@ -32,10 +32,10 @@
   {
     "name": "Walnut",
     "dungeons": [
+      20,
       17,
       16,
       16,
-      0,
       0,
       0,
       0,
@@ -92,7 +92,7 @@
   {
     "name": "Aletheia",
     "dungeons": [
-      0,
+      20,
       0,
       0,
       0,
@@ -167,7 +167,7 @@
   {
     "name": "Pewthree",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -272,7 +272,7 @@
   {
     "name": "Mel\u00eda",
     "dungeons": [
-      0,
+      20,
       0,
       0,
       0,
