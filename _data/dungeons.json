@@ -78,5 +78,25 @@
       "0:22:48"
     ],
     "tile": "https://render-us.worldofwarcraft.com/zones/theater-of-pain-small.jpg"
+  },
+  {
+    "name": "Tazavesh: Streets of Wonder",
+    "id": 391,
+    "upgrade": [
+      "0:39:00",
+      "0:31:12",
+      "0:23:24"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/tazavesh-the-veiled-market-small.jpg"
+  },
+  {
+    "name": "Tazavesh: So'leah's Gambit",
+    "id": 392,
+    "upgrade": [
+      "0:30:00",
+      "0:24:00",
+      "0:18:00"
+    ],
+    "tile": "https://render-us.worldofwarcraft.com/zones/tazavesh-the-veiled-market-small.jpg"
   }
 ]
