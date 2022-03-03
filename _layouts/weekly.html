@@ -25,23 +25,23 @@ layout: default
             {% for dungeon in character.dungeons %}
                 {% capture vault_rank %}
                 {% if dungeon >= 15 %}
-                    vault252
+                    vault278
                 {% elsif dungeon >= 14 %}
-                    vault249
+                    vault275
                 {% elsif dungeon >= 12 %}
-                    vault246
+                    vault272
                 {% elsif dungeon >= 11 %}
-                    vault242
+                    vault268
                 {% elsif dungeon >= 10 %}
-                    vault239
+                    vault265
                 {% elsif dungeon >= 8 %}
-                    vault236
+                    vault262
                 {% elsif dungeon >= 7 %}
-                    vault233
+                    vault259
                 {% elsif dungeon >= 5 %}
-                    vault229
+                    vault255
                 {% elsif dungeon >= 2 %}
-                    vault226
+                    vault252
                 {% else %}
                     vault0
                 {% endif %}
