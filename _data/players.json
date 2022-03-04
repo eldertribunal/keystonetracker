@@ -898,12 +898,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 0,
-        "duration": 0,
+        "level": 7,
+        "duration": 2361816,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 69.9,
+          "total": 105
         }
       },
       {
