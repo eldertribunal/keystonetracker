@@ -290,12 +290,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 10,
-        "duration": 1772267,
+        "level": 14,
+        "duration": 2886323,
         "rating": {
           "fortified": 0,
-          "tyrannical": 103.5,
-          "total": 155
+          "tyrannical": 112.8,
+          "total": 169
         }
       },
       {
@@ -2880,12 +2880,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 11,
-        "duration": 1561415,
+        "level": 13,
+        "duration": 1703235,
         "rating": {
           "fortified": 0,
-          "tyrannical": 106.7,
-          "total": 160
+          "tyrannical": 115.7,
+          "total": 174
         }
       },
       {
@@ -2946,12 +2946,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 13,
+        "duration": 2156288,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 116,
+          "total": 174
         }
       },
       {
