@@ -460,72 +460,72 @@
     ]
   },
   {
-    "name": "Siobhann",
+    "name": "Minro",
     "dungeons": [
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 0,
-        "duration": 0,
+        "level": 7,
+        "duration": 1794600,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 75,
+          "total": 112
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 0,
-        "duration": 0,
+        "level": 10,
+        "duration": 1822810,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 102,
+          "total": 153
         }
       },
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 10,
+        "duration": 2338558,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 101.2,
+          "total": 152
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 0,
-        "duration": 0,
+        "level": 11,
+        "duration": 1745527,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 106.1,
+          "total": 159
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 0,
-        "duration": 0,
+        "level": 10,
+        "duration": 2601037,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 93.2,
+          "total": 140
         }
       },
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 0,
-        "duration": 0,
+        "level": 13,
+        "duration": 2457847,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 115,
+          "total": 172
         }
       },
       {
@@ -542,12 +542,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 3143837,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 115.3,
+          "total": 173
         }
       },
       {
