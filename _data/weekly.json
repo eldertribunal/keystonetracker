@@ -120,7 +120,7 @@
     "name": "Minr\u00f4",
     "dungeons": [
       11,
-      0,
+      11,
       0,
       0,
       0,
@@ -263,7 +263,7 @@
     "name": "Swizzle",
     "dungeons": [
       9,
-      0,
+      8,
       0,
       0,
       0,
@@ -275,7 +275,7 @@
   {
     "name": "Lokusnake",
     "dungeons": [
-      0,
+      11,
       0,
       0,
       0,
