@@ -17,11 +17,11 @@
         "id": 376,
         "name": "The Necrotic Wake",
         "level": 15,
-        "duration": 1813788,
+        "duration": 1786131,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 127,
-          "total": 190
+          "fortified": 127.2,
+          "tyrannical": 0,
+          "total": 191
         }
       },
       {
@@ -71,12 +71,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 13,
-        "duration": 1915940,
+        "level": 15,
+        "duration": 2270938,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 117.3,
-          "total": 176
+          "fortified": 125.4,
+          "tyrannical": 0,
+          "total": 188
         }
       },
       {
@@ -362,11 +362,11 @@
         "id": 376,
         "name": "The Necrotic Wake",
         "level": 15,
-        "duration": 1813788,
+        "duration": 1786131,
         "rating": {
-          "fortified": 0,
+          "fortified": 127.2,
           "tyrannical": 127,
-          "total": 190
+          "total": 254
         }
       },
       {
@@ -416,12 +416,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 2270938,
         "rating": {
-          "total": 0,
+          "fortified": 125.4,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 188
         }
       },
       {
@@ -1629,9 +1629,9 @@
         "level": 15,
         "duration": 1546541,
         "rating": {
-          "fortified": 0,
+          "fortified": 127.2,
           "tyrannical": 128.6,
-          "total": 193
+          "total": 256
         }
       },
       {
