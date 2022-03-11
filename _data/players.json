@@ -832,12 +832,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 11,
-        "duration": 2326596,
+        "level": 13,
+        "duration": 2812884,
         "rating": {
-          "fortified": 0,
+          "fortified": 108.9,
           "tyrannical": 106.2,
-          "total": 159
+          "total": 216
         }
       },
       {
@@ -1396,12 +1396,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 8,
-        "duration": 2191979,
+        "level": 9,
+        "duration": 1855732,
         "rating": {
-          "fortified": 0,
+          "fortified": 86.8,
           "tyrannical": 74.8,
-          "total": 112
+          "total": 168
         }
       },
       {
