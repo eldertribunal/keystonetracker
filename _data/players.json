@@ -268,12 +268,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 0,
-        "duration": 0,
+        "level": 16,
+        "duration": 2017928,
         "rating": {
-          "total": 0,
+          "fortified": 124.4,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 187
         }
       },
       {
@@ -717,23 +717,23 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 2412955,
         "rating": {
-          "total": 0,
+          "fortified": 125.8,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 189
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 13,
-        "duration": 1769157,
+        "level": 16,
+        "duration": 2017928,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 116,
-          "total": 174
+          "fortified": 124.4,
+          "tyrannical": 0,
+          "total": 187
         }
       },
       {
@@ -772,12 +772,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2404893,
+        "level": 15,
+        "duration": 2081262,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 124.3,
-          "total": 186
+          "fortified": 126.1,
+          "tyrannical": 0,
+          "total": 189
         }
       },
       {
@@ -1648,12 +1648,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 13,
-        "duration": 1769157,
+        "level": 16,
+        "duration": 2017928,
         "rating": {
-          "fortified": 105.8,
+          "fortified": 124.4,
           "tyrannical": 116,
-          "total": 227
+          "total": 245
         }
       },
       {
@@ -1693,11 +1693,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 15,
-        "duration": 2553425,
+        "duration": 2081262,
         "rating": {
-          "fortified": 118.5,
+          "fortified": 126.1,
           "tyrannical": 94.3,
-          "total": 225
+          "total": 236
         }
       },
       {
