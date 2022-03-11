@@ -1292,23 +1292,23 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 13,
-        "duration": 2350257,
+        "level": 15,
+        "duration": 2432306,
         "rating": {
-          "fortified": 88.1,
+          "fortified": 125.7,
           "tyrannical": 116.1,
-          "total": 218
+          "total": 247
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
         "level": 15,
-        "duration": 2188262,
+        "duration": 1820437,
         "rating": {
-          "fortified": 0,
+          "fortified": 125.7,
           "tyrannical": 118.3,
-          "total": 177
+          "total": 248
         }
       },
       {
@@ -1336,12 +1336,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 2595921,
+        "level": 15,
+        "duration": 1944776,
         "rating": {
-          "fortified": 0,
+          "fortified": 127.1,
           "tyrannical": 123.6,
-          "total": 185
+          "total": 252
         }
       },
       {
