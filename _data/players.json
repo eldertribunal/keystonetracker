@@ -487,12 +487,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 10,
-        "duration": 2338558,
+        "level": 13,
+        "duration": 2812884,
         "rating": {
-          "fortified": 0,
+          "fortified": 108.9,
           "tyrannical": 101.2,
-          "total": 152
+          "total": 214
         }
       },
       {
