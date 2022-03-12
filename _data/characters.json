@@ -1051,12 +1051,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 10,
-        "duration": 1822810,
+        "level": 14,
+        "duration": 2906003,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 102,
-          "total": 153
+          "fortified": 110.7,
+          "tyrannical": 0,
+          "total": 166
         }
       },
       {
@@ -1213,9 +1213,9 @@
         "level": 10,
         "duration": 1772267,
         "rating": {
-          "fortified": 0,
+          "fortified": 86.9,
           "tyrannical": 103.5,
-          "total": 155
+          "total": 199
         }
       },
       {
@@ -1396,12 +1396,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 11,
-        "duration": 1450687,
+        "level": 14,
+        "duration": 2906003,
         "rating": {
-          "fortified": 0,
+          "fortified": 110.7,
           "tyrannical": 109.1,
-          "total": 164
+          "total": 221
         }
       },
       {
@@ -1473,12 +1473,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 7,
-        "duration": 2361816,
+        "level": 15,
+        "duration": 3066307,
         "rating": {
-          "fortified": 0,
+          "fortified": 116.1,
           "tyrannical": 69.9,
-          "total": 105
+          "total": 209
         }
       },
       {
@@ -1615,23 +1615,23 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 0,
-        "duration": 0,
+        "level": 13,
+        "duration": 1447645,
         "rating": {
-          "total": 0,
+          "fortified": 117.5,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 176
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 0,
-        "duration": 0,
+        "level": 14,
+        "duration": 2906003,
         "rating": {
-          "total": 0,
+          "fortified": 110.7,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 166
         }
       },
       {
@@ -1703,12 +1703,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 3066307,
         "rating": {
-          "total": 0,
+          "fortified": 116.1,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 174
         }
       },
       {
