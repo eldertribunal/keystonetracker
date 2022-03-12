@@ -1221,12 +1221,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 9,
+        "duration": 1600946,
         "rating": {
-          "total": 0,
+          "fortified": 89,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 134
         }
       },
       {
