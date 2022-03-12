@@ -1051,12 +1051,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 0,
-        "duration": 0,
+        "level": 14,
+        "duration": 2906003,
         "rating": {
-          "total": 0,
+          "fortified": 110.7,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 166
         }
       },
       {
@@ -1095,23 +1095,23 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 0,
-        "duration": 0,
+        "level": 9,
+        "duration": 2080479,
         "rating": {
-          "total": 0,
+          "fortified": 86.9,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 130
         }
       },
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 2032605,
         "rating": {
-          "total": 0,
+          "fortified": 81.6,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 122
         }
       },
       {
