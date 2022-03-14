@@ -2672,12 +2672,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 2628923,
         "rating": {
-          "total": 0,
+          "fortified": 119.8,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 180
         }
       },
       {
