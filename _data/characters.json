@@ -1637,12 +1637,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 10,
+        "duration": 2542698,
         "rating": {
-          "total": 0,
+          "fortified": 100.2,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 150
         }
       },
       {
@@ -1681,12 +1681,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 2071791,
         "rating": {
-          "total": 0,
+          "fortified": 126.4,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 190
         }
       },
       {
