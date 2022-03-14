@@ -2508,12 +2508,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 12,
-        "duration": 5008273,
+        "level": 5,
+        "duration": 2328102,
         "rating": {
-          "fortified": 0,
+          "fortified": 60.1,
           "tyrannical": 0,
-          "total": 0
+          "total": 90
         }
       },
       {
@@ -2694,12 +2694,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 0,
-        "duration": 0,
+        "level": 14,
+        "duration": 2206368,
         "rating": {
-          "total": 0,
+          "fortified": 120.4,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 181
         }
       },
       {
