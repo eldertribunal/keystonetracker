@@ -275,8 +275,8 @@
   {
     "name": "Lokusnake",
     "dungeons": [
+      14,
       11,
-      0,
       0,
       0,
       0,
@@ -314,11 +314,11 @@
   {
     "name": "Sneakypete",
     "dungeons": [
+      14,
       11,
       10,
       9,
       7,
-      0,
       0,
       0,
       0
