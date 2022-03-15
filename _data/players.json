@@ -580,12 +580,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 10,
-        "duration": 1509638,
+        "level": 11,
+        "duration": 1592447,
         "rating": {
-          "fortified": 0,
+          "fortified": 106.4,
           "tyrannical": 102,
-          "total": 153
+          "total": 211
         }
       },
       {
@@ -668,23 +668,23 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 8,
-        "duration": 2828602,
+        "level": 10,
+        "duration": 2223456,
         "rating": {
-          "fortified": 0,
+          "fortified": 100.6,
           "tyrannical": 72.4,
-          "total": 109
+          "total": 187
         }
       },
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 8,
-        "duration": 2118119,
+        "level": 9,
+        "duration": 1531137,
         "rating": {
-          "fortified": 0,
+          "fortified": 86.9,
           "tyrannical": 72.8,
-          "total": 109
+          "total": 167
         }
       }
     ]
