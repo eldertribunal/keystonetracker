@@ -83,11 +83,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 15,
-        "duration": 2081262,
+        "duration": 1882312,
         "rating": {
-          "fortified": 126.1,
+          "fortified": 127.2,
           "tyrannical": 124.3,
-          "total": 251
+          "total": 253
         }
       },
       {
@@ -104,12 +104,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 15,
-        "duration": 2116536,
+        "level": 16,
+        "duration": 2365923,
         "rating": {
-          "fortified": 117.8,
+          "fortified": 121.1,
           "tyrannical": 101.5,
-          "total": 227
+          "total": 232
         }
       }
     ]
@@ -427,12 +427,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2404893,
+        "level": 15,
+        "duration": 1882312,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 124.3,
-          "total": 186
+          "fortified": 127.2,
+          "tyrannical": 0,
+          "total": 191
         }
       },
       {
@@ -449,12 +449,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 0,
-        "duration": 0,
+        "level": 16,
+        "duration": 2365923,
         "rating": {
-          "total": 0,
+          "fortified": 121.1,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 182
         }
       }
     ]
