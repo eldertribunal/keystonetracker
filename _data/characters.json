@@ -1692,12 +1692,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 10,
-        "duration": 2407346,
+        "level": 12,
+        "duration": 2290586,
         "rating": {
           "fortified": 0,
-          "tyrannical": 94.3,
-          "total": 141
+          "tyrannical": 104.9,
+          "total": 157
         }
       },
       {
