@@ -1900,12 +1900,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 8,
-        "duration": 2106317,
+        "level": 9,
+        "duration": 1734700,
         "rating": {
-          "fortified": 81.8,
-          "tyrannical": 0,
-          "total": 123
+          "fortified": 0,
+          "tyrannical": 88.7,
+          "total": 133
         }
       },
       {
