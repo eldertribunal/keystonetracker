@@ -1073,12 +1073,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 11,
-        "duration": 1745527,
+        "level": 12,
+        "duration": 1583088,
         "rating": {
           "fortified": 105.8,
-          "tyrannical": 106.1,
-          "total": 212
+          "tyrannical": 112.2,
+          "total": 221
         }
       },
       {
@@ -1774,12 +1774,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 1792392,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 82.7,
+          "total": 124
         }
       },
       {
@@ -1903,9 +1903,9 @@
         "level": 9,
         "duration": 1734700,
         "rating": {
-          "fortified": 0,
+          "fortified": 81.8,
           "tyrannical": 88.7,
-          "total": 133
+          "total": 174
         }
       },
       {
