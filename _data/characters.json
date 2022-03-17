@@ -2750,11 +2750,11 @@
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
         "level": 15,
-        "duration": 1778094,
+        "duration": 1434079,
         "rating": {
           "fortified": 125.2,
-          "tyrannical": 101.5,
-          "total": 239
+          "tyrannical": 127.5,
+          "total": 254
         }
       }
     ]
