@@ -1407,12 +1407,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 8,
-        "duration": 2280650,
+        "level": 10,
+        "duration": 2041772,
         "rating": {
           "fortified": 81.5,
-          "tyrannical": 0,
-          "total": 122
+          "tyrannical": 102.6,
+          "total": 195
         }
       },
       {
@@ -1430,11 +1430,11 @@
         "id": 379,
         "name": "Plaguefall",
         "level": 9,
-        "duration": 1757141,
+        "duration": 1469624,
         "rating": {
           "fortified": 87,
-          "tyrannical": 87.9,
-          "total": 175
+          "tyrannical": 89.4,
+          "total": 178
         }
       },
       {
