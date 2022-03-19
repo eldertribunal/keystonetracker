@@ -1155,12 +1155,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 11,
-        "duration": 1592447,
+        "level": 12,
+        "duration": 1397174,
         "rating": {
           "fortified": 106.4,
-          "tyrannical": 102,
-          "total": 211
+          "tyrannical": 112.8,
+          "total": 222
         }
       },
       {
@@ -1484,12 +1484,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 0,
-        "duration": 0,
+        "level": 15,
+        "duration": 1848036,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 119.7,
+          "total": 180
         }
       }
     ]
@@ -1714,12 +1714,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 11,
-        "duration": 1630738,
+        "level": 15,
+        "duration": 1848036,
         "rating": {
           "fortified": 0,
-          "tyrannical": 106.2,
-          "total": 159
+          "tyrannical": 119.7,
+          "total": 180
         }
       }
     ]
