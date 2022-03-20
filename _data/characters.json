@@ -236,11 +236,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
-        "duration": 1751765,
+        "duration": 1442195,
         "rating": {
           "fortified": 125.3,
-          "tyrannical": 0,
-          "total": 188
+          "tyrannical": 127.5,
+          "total": 254
         }
       },
       {
