@@ -1210,12 +1210,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 10,
-        "duration": 1772267,
+        "level": 12,
+        "duration": 2223414,
         "rating": {
           "fortified": 86.9,
-          "tyrannical": 103.5,
-          "total": 199
+          "tyrannical": 111.2,
+          "total": 210
         }
       },
       {
@@ -1232,12 +1232,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 10,
-        "duration": 1733428,
+        "level": 12,
+        "duration": 1982205,
         "rating": {
           "fortified": 103,
-          "tyrannical": 0,
-          "total": 154
+          "tyrannical": 111.6,
+          "total": 219
         }
       },
       {
