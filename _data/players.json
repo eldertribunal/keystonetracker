@@ -465,12 +465,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 11,
-        "duration": 1865988,
+        "level": 14,
+        "duration": 1640057,
         "rating": {
-          "fortified": 99.5,
+          "fortified": 0,
           "tyrannical": 75,
-          "total": 187
+          "total": 112
         }
       },
       {
@@ -509,12 +509,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 10,
-        "duration": 2601037,
+        "level": 12,
+        "duration": 1585585,
         "rating": {
           "fortified": 0,
-          "tyrannical": 93.2,
-          "total": 140
+          "tyrannical": 113.8,
+          "total": 171
         }
       },
       {
@@ -1073,12 +1073,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 1668926,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 81.6,
+          "total": 122
         }
       },
       {
