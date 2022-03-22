@@ -1062,12 +1062,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 9,
+        "duration": 2307777,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 86.3,
+          "total": 129
         }
       },
       {
