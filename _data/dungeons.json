@@ -7,7 +7,7 @@
       "0:24:00",
       "0:18:00"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/mists-of-tirna-scithe-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/mists-of-tirna-scithe-small.jpg"
   },
   {
     "name": "The Necrotic Wake",
@@ -17,7 +17,7 @@
       "0:28:48",
       "0:21:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/the-necrotic-wake-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/the-necrotic-wake-small.jpg"
   },
   {
     "name": "De Other Side",
@@ -27,7 +27,7 @@
       "0:34:24",
       "0:25:48"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/de-other-side-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/de-other-side-small.jpg"
   },
   {
     "name": "Halls of Atonement",
@@ -37,7 +37,7 @@
       "0:25:36",
       "0:19:12"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/halls-of-atonement-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/halls-of-atonement-small.jpg"
   },
   {
     "name": "Plaguefall",
@@ -47,7 +47,7 @@
       "0:30:24",
       "0:22:48"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/plaguefall-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/plaguefall-small.jpg"
   },
   {
     "name": "Sanguine Depths",
@@ -57,7 +57,7 @@
       "0:32:48",
       "0:24:36"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/sanguine-depths-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/sanguine-depths-small.jpg"
   },
   {
     "name": "Spires of Ascension",
@@ -67,7 +67,7 @@
       "0:31:12",
       "0:23:24"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/spires-of-ascension-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/spires-of-ascension-small.jpg"
   },
   {
     "name": "Theater of Pain",
@@ -77,7 +77,7 @@
       "0:30:24",
       "0:22:48"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/theater-of-pain-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/theater-of-pain-small.jpg"
   },
   {
     "name": "Tazavesh: Streets of Wonder",
@@ -87,7 +87,7 @@
       "0:31:12",
       "0:23:24"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/tazavesh-the-veiled-market-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/tazavesh-the-veiled-market-small.jpg"
   },
   {
     "name": "Tazavesh: So'leah's Gambit",
@@ -97,6 +97,6 @@
       "0:24:00",
       "0:18:00"
     ],
-    "tile": "https://render-us.worldofwarcraft.com/zones/tazavesh-the-veiled-market-small.jpg"
+    "tile": "https://render.worldofwarcraft.com/us/zones/tazavesh-the-veiled-market-small.jpg"
   }
 ]
