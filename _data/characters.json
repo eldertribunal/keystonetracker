@@ -1314,12 +1314,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 15,
-        "duration": 2554788,
+        "level": 16,
+        "duration": 2008231,
         "rating": {
           "fortified": 116.4,
-          "tyrannical": 118.5,
-          "total": 236
+          "tyrannical": 131.5,
+          "total": 255
         }
       },
       {
