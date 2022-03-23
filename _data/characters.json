@@ -1041,11 +1041,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 14,
-        "duration": 1640057,
+        "duration": 1242041,
         "rating": {
           "fortified": 99.5,
-          "tyrannical": 121.1,
-          "total": 231
+          "tyrannical": 0,
+          "total": 149
         }
       },
       {
