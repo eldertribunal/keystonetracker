@@ -28,8 +28,8 @@
   {
     "name": "Walnut",
     "dungeons": [
-      0,
-      0,
+      16,
+      16,
       0,
       0,
       0,
@@ -159,7 +159,7 @@
     "name": "Mooshaman",
     "dungeons": [
       16,
-      0,
+      16,
       0,
       0,
       0,
@@ -184,7 +184,7 @@
   {
     "name": "Zaen",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
