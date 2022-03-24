@@ -1418,12 +1418,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 9,
-        "duration": 1736783,
+        "level": 12,
+        "duration": 1639739,
         "rating": {
-          "fortified": 86.2,
+          "fortified": 111.8,
           "tyrannical": 0,
-          "total": 129
+          "total": 168
         }
       },
       {
