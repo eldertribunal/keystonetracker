@@ -27,12 +27,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 15,
-        "duration": 2165909,
+        "level": 16,
+        "duration": 2490730,
         "rating": {
-          "fortified": 125.8,
+          "fortified": 130.4,
           "tyrannical": 127,
-          "total": 253
+          "total": 259
         }
       },
       {
@@ -717,12 +717,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 15,
-        "duration": 2165909,
+        "level": 16,
+        "duration": 2490730,
         "rating": {
-          "fortified": 125.8,
+          "fortified": 130.4,
           "tyrannical": 127,
-          "total": 253
+          "total": 259
         }
       },
       {
@@ -832,12 +832,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 13,
-        "duration": 2812884,
+        "level": 16,
+        "duration": 2490730,
         "rating": {
-          "fortified": 108.9,
+          "fortified": 130.4,
           "tyrannical": 106.2,
-          "total": 216
+          "total": 249
         }
       },
       {
