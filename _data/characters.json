@@ -2787,12 +2787,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 7,
-        "duration": 1770052,
+        "level": 12,
+        "duration": 2691047,
         "rating": {
-          "fortified": 78.9,
+          "fortified": 104.5,
           "tyrannical": 0,
-          "total": 118
+          "total": 157
         }
       },
       {
