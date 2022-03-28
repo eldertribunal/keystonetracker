@@ -476,12 +476,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 14,
-        "duration": 2352729,
+        "level": 15,
+        "duration": 2408392,
         "rating": {
-          "fortified": 113.9,
+          "fortified": 118.6,
           "tyrannical": 102,
-          "total": 222
+          "total": 229
         }
       },
       {
@@ -512,9 +512,9 @@
         "level": 12,
         "duration": 1585585,
         "rating": {
-          "fortified": 0,
+          "fortified": 112.7,
           "tyrannical": 113.8,
-          "total": 171
+          "total": 227
         }
       },
       {
@@ -531,12 +531,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 13,
-        "duration": 2540367,
+        "level": 14,
+        "duration": 2581506,
         "rating": {
-          "fortified": 103.6,
+          "fortified": 113.7,
           "tyrannical": 108.9,
-          "total": 215
+          "total": 225
         }
       },
       {
@@ -591,12 +591,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 11,
-        "duration": 1450687,
+        "level": 15,
+        "duration": 2408392,
         "rating": {
-          "fortified": 102.1,
+          "fortified": 118.6,
           "tyrannical": 109.1,
-          "total": 215
+          "total": 232
         }
       },
       {
@@ -624,12 +624,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 10,
-        "duration": 1729704,
+        "level": 12,
+        "duration": 1790212,
         "rating": {
-          "fortified": 103,
+          "fortified": 112.7,
           "tyrannical": 102.9,
-          "total": 206
+          "total": 220
         }
       },
       {
@@ -646,12 +646,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 10,
-        "duration": 1900092,
+        "level": 14,
+        "duration": 2581506,
         "rating": {
-          "fortified": 101.8,
+          "fortified": 113.7,
           "tyrannical": 102.4,
-          "total": 205
+          "total": 222
         }
       },
       {
