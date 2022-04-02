@@ -1052,11 +1052,11 @@
         "id": 376,
         "name": "The Necrotic Wake",
         "level": 15,
-        "duration": 2408392,
+        "duration": 1974590,
         "rating": {
           "fortified": 118.6,
-          "tyrannical": 102,
-          "total": 229
+          "tyrannical": 126.1,
+          "total": 248
         }
       },
       {
@@ -1139,12 +1139,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 14,
-        "duration": 2117606,
+        "level": 15,
+        "duration": 2279308,
         "rating": {
           "fortified": 112.8,
-          "tyrannical": 0,
-          "total": 169
+          "tyrannical": 116.7,
+          "total": 231
         }
       }
     ]
