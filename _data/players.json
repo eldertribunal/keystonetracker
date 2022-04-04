@@ -279,12 +279,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 15,
-        "duration": 2554788,
+        "level": 14,
+        "duration": 1985593,
         "rating": {
           "fortified": 0,
-          "tyrannical": 118.5,
-          "total": 178
+          "tyrannical": 121.6,
+          "total": 182
         }
       },
       {
@@ -312,12 +312,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 10,
-        "duration": 2407346,
+        "level": 14,
+        "duration": 2671111,
         "rating": {
           "fortified": 0,
-          "tyrannical": 94.3,
-          "total": 141
+          "tyrannical": 112.9,
+          "total": 169
         }
       },
       {
@@ -973,8 +973,8 @@
         "duration": 1686928,
         "rating": {
           "fortified": 133.3,
-          "tyrannical": 0,
-          "total": 200
+          "tyrannical": 121.6,
+          "total": 261
         }
       },
       {
@@ -1006,7 +1006,7 @@
         "duration": 2043677,
         "rating": {
           "fortified": 116.3,
-          "tyrannical": 112.5,
+          "tyrannical": 112.9,
           "total": 231
         }
       },
@@ -1199,12 +1199,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 10,
-        "duration": 1697644,
+        "level": 14,
+        "duration": 1985593,
         "rating": {
           "fortified": 103.2,
-          "tyrannical": 84,
-          "total": 197
+          "tyrannical": 121.6,
+          "total": 234
         }
       },
       {
@@ -1232,12 +1232,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 9,
-        "duration": 1964504,
+        "level": 14,
+        "duration": 2671111,
         "rating": {
           "fortified": 0,
-          "tyrannical": 86.7,
-          "total": 130
+          "tyrannical": 112.9,
+          "total": 169
         }
       },
       {
@@ -1418,12 +1418,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 12,
-        "duration": 1639739,
+        "level": 15,
+        "duration": 2596693,
         "rating": {
           "fortified": 111.8,
-          "tyrannical": 0,
-          "total": 168
+          "tyrannical": 115.6,
+          "total": 229
         }
       },
       {
