@@ -520,12 +520,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 2159513,
+        "level": 17,
+        "duration": 2675613,
         "rating": {
           "fortified": 119.4,
-          "tyrannical": 126.5,
-          "total": 249
+          "tyrannical": 0,
+          "total": 179
         }
       },
       {
@@ -980,12 +980,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 2342197,
+        "level": 17,
+        "duration": 2675613,
         "rating": {
-          "fortified": 112,
+          "fortified": 128.9,
           "tyrannical": 125.6,
-          "total": 244
+          "total": 256
         }
       },
       {
@@ -1555,12 +1555,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 2570788,
+        "level": 17,
+        "duration": 2675613,
         "rating": {
-          "fortified": 119.4,
+          "fortified": 128.9,
           "tyrannical": 67.9,
-          "total": 213
+          "total": 227
         }
       },
       {
