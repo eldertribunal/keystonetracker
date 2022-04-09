@@ -142,12 +142,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 0,
-        "duration": 0,
+        "level": 9,
+        "duration": 2310884,
         "rating": {
-          "total": 0,
+          "fortified": 86.3,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 129
         }
       },
       {
@@ -186,12 +186,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 1780794,
         "rating": {
-          "total": 0,
+          "fortified": 83,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 124
         }
       },
       {
@@ -268,12 +268,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1997002,
+        "level": 15,
+        "duration": 1756720,
         "rating": {
-          "fortified": 0,
+          "fortified": 126.1,
           "tyrannical": 124.5,
-          "total": 187
+          "total": 251
         }
       },
       {
@@ -312,12 +312,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 14,
-        "duration": 2671111,
+        "level": 15,
+        "duration": 2357362,
         "rating": {
-          "fortified": 0,
+          "fortified": 119.6,
           "tyrannical": 112.9,
-          "total": 169
+          "total": 236
         }
       },
       {
@@ -959,11 +959,11 @@
         "id": 378,
         "name": "Halls of Atonement",
         "level": 15,
-        "duration": 1838646,
+        "duration": 1756720,
         "rating": {
-          "fortified": 125.5,
+          "fortified": 126.1,
           "tyrannical": 122.8,
-          "total": 250
+          "total": 251
         }
       },
       {
@@ -1002,12 +1002,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 13,
-        "duration": 2043677,
+        "level": 15,
+        "duration": 2357362,
         "rating": {
-          "fortified": 116.3,
+          "fortified": 119.6,
           "tyrannical": 112.9,
-          "total": 231
+          "total": 236
         }
       },
       {
