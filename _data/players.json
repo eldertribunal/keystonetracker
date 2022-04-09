@@ -208,12 +208,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 8,
-        "duration": 1604130,
+        "level": 9,
+        "duration": 1651691,
         "rating": {
-          "fortified": 61.5,
+          "fortified": 88.7,
           "tyrannical": 83.9,
-          "total": 157
+          "total": 175
         }
       },
       {
@@ -449,12 +449,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1746838,
+        "level": 18,
+        "duration": 1695275,
         "rating": {
-          "fortified": 130.4,
+          "fortified": 140.7,
           "tyrannical": 0,
-          "total": 196
+          "total": 211
         }
       }
     ]
@@ -534,9 +534,9 @@
         "level": 18,
         "duration": 2942039,
         "rating": {
-          "fortified": 118.6,
+          "fortified": 120.6,
           "tyrannical": 131.8,
-          "total": 257
+          "total": 258
         }
       },
       {
@@ -1199,12 +1199,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 14,
-        "duration": 1985593,
+        "level": 17,
+        "duration": 2929208,
         "rating": {
-          "fortified": 121,
+          "fortified": 126.4,
           "tyrannical": 121.6,
-          "total": 243
+          "total": 250
         }
       },
       {
