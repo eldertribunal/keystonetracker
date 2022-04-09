@@ -501,9 +501,9 @@
         "level": 16,
         "duration": 1997002,
         "rating": {
-          "fortified": 124.4,
+          "fortified": 0,
           "tyrannical": 124.5,
-          "total": 249
+          "total": 187
         }
       },
       {
@@ -1763,12 +1763,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 12,
-        "duration": 1639739,
+        "level": 15,
+        "duration": 1756720,
         "rating": {
-          "fortified": 111.8,
+          "fortified": 126.1,
           "tyrannical": 81.6,
-          "total": 208
+          "total": 230
         }
       },
       {
@@ -1785,12 +1785,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 9,
-        "duration": 2080479,
+        "level": 15,
+        "duration": 2025088,
         "rating": {
-          "fortified": 86.9,
+          "fortified": 127.2,
           "tyrannical": 0,
-          "total": 130
+          "total": 191
         }
       },
       {
@@ -1807,12 +1807,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 11,
-        "duration": 1790541,
+        "level": 15,
+        "duration": 2357362,
         "rating": {
-          "fortified": 0,
+          "fortified": 119.6,
           "tyrannical": 107.7,
-          "total": 162
+          "total": 233
         }
       },
       {
@@ -1881,9 +1881,9 @@
         "level": 15,
         "duration": 1756720,
         "rating": {
-          "fortified": 111.8,
-          "tyrannical": 0,
-          "total": 168
+          "fortified": 126.1,
+          "tyrannical": 119.2,
+          "total": 249
         }
       },
       {
@@ -1903,9 +1903,9 @@
         "level": 15,
         "duration": 2025088,
         "rating": {
-          "fortified": 81.8,
-          "tyrannical": 0,
-          "total": 123
+          "fortified": 127.2,
+          "tyrannical": 88.7,
+          "total": 235
         }
       },
       {
@@ -1926,8 +1926,8 @@
         "duration": 2357362,
         "rating": {
           "fortified": 119.6,
-          "tyrannical": 0,
-          "total": 179
+          "tyrannical": 112.9,
+          "total": 236
         }
       },
       {
