@@ -810,12 +810,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 2,
-        "duration": 1313154,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 43.4,
+          "total": 0,
           "tyrannical": 0,
-          "total": 65
+          "fortified": 0
         }
       },
       {
@@ -843,23 +843,23 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 2,
-        "duration": 1081152,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 45,
+          "total": 0,
           "tyrannical": 0,
-          "total": 68
+          "fortified": 0
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 2,
-        "duration": 1867273,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 42.3,
+          "total": 0,
           "tyrannical": 0,
-          "total": 63
+          "fortified": 0
         }
       },
       {
@@ -876,12 +876,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 2,
-        "duration": 1406970,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 45,
+          "total": 0,
           "tyrannical": 0,
-          "total": 68
+          "fortified": 0
         }
       },
       {
@@ -1024,12 +1024,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 10,
-        "duration": 1437712,
+        "level": 11,
+        "duration": 1839944,
         "rating": {
-          "fortified": 102.5,
+          "fortified": 99.7,
           "tyrannical": 0,
-          "total": 154
+          "total": 150
         }
       }
     ]
