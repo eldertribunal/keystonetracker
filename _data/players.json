@@ -821,12 +821,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 14,
-        "duration": 2906003,
+        "level": 15,
+        "duration": 1751179,
         "rating": {
-          "fortified": 110.7,
+          "fortified": 127.4,
           "tyrannical": 109.1,
-          "total": 221
+          "total": 246
         }
       },
       {
@@ -936,12 +936,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 12,
-        "duration": 1689493,
+        "level": 14,
+        "duration": 2080839,
         "rating": {
-          "fortified": 110.7,
+          "fortified": 120.5,
           "tyrannical": 112.7,
-          "total": 224
+          "total": 237
         }
       },
       {
@@ -1052,11 +1052,11 @@
         "id": 376,
         "name": "The Necrotic Wake",
         "level": 14,
-        "duration": 2906003,
+        "duration": 2080839,
         "rating": {
-          "fortified": 110.7,
+          "fortified": 120.5,
           "tyrannical": 101.8,
-          "total": 217
+          "total": 232
         }
       },
       {
@@ -1396,12 +1396,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 9,
-        "duration": 1855732,
+        "level": 15,
+        "duration": 1751179,
         "rating": {
-          "fortified": 86.8,
+          "fortified": 127.4,
           "tyrannical": 74.8,
-          "total": 168
+          "total": 229
         }
       },
       {
@@ -1462,12 +1462,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2575370,
+        "level": 15,
+        "duration": 1773767,
         "rating": {
-          "fortified": 123.4,
+          "fortified": 127.8,
           "tyrannical": 106.2,
-          "total": 238
+          "total": 245
         }
       },
       {
