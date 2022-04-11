@@ -1838,5 +1838,120 @@
         }
       }
     ]
+  },
+  {
+    "name": "Narraku",
+    "dungeons": [
+      {
+        "id": 375,
+        "name": "Mists of Tirna Scithe",
+        "level": 16,
+        "duration": 1501817,
+        "rating": {
+          "fortified": 132.1,
+          "tyrannical": 124,
+          "total": 260
+        }
+      },
+      {
+        "id": 376,
+        "name": "The Necrotic Wake",
+        "level": 15,
+        "duration": 1974590,
+        "rating": {
+          "fortified": 118.6,
+          "tyrannical": 126.1,
+          "total": 248
+        }
+      },
+      {
+        "id": 377,
+        "name": "De Other Side",
+        "level": 16,
+        "duration": 2476441,
+        "rating": {
+          "fortified": 123.7,
+          "tyrannical": 130.5,
+          "total": 258
+        }
+      },
+      {
+        "id": 378,
+        "name": "Halls of Atonement",
+        "level": 15,
+        "duration": 1561092,
+        "rating": {
+          "fortified": 127.3,
+          "tyrannical": 107.5,
+          "total": 245
+        }
+      },
+      {
+        "id": 379,
+        "name": "Plaguefall",
+        "level": 17,
+        "duration": 2929208,
+        "rating": {
+          "fortified": 126.4,
+          "tyrannical": 113.8,
+          "total": 247
+        }
+      },
+      {
+        "id": 380,
+        "name": "Sanguine Depths",
+        "level": 15,
+        "duration": 1937092,
+        "rating": {
+          "fortified": 127.7,
+          "tyrannical": 113,
+          "total": 248
+        }
+      },
+      {
+        "id": 381,
+        "name": "Spires of Ascension",
+        "level": 18,
+        "duration": 2942039,
+        "rating": {
+          "fortified": 120.6,
+          "tyrannical": 131.8,
+          "total": 258
+        }
+      },
+      {
+        "id": 382,
+        "name": "Theater of Pain",
+        "level": 17,
+        "duration": 2538901,
+        "rating": {
+          "fortified": 128.6,
+          "tyrannical": 128.2,
+          "total": 257
+        }
+      },
+      {
+        "id": 391,
+        "name": "Tazavesh: Streets of Wonder",
+        "level": 15,
+        "duration": 2701191,
+        "rating": {
+          "fortified": 41.7,
+          "tyrannical": 118.1,
+          "total": 198
+        }
+      },
+      {
+        "id": 392,
+        "name": "Tazavesh: So'leah's Gambit",
+        "level": 15,
+        "duration": 2279308,
+        "rating": {
+          "fortified": 112.8,
+          "tyrannical": 116.7,
+          "total": 231
+        }
+      }
+    ]
   }
 ]
