@@ -15,8 +15,8 @@
   {
     "name": "Legume",
     "dungeons": [
+      15,
       7,
-      0,
       0,
       0,
       0,
@@ -198,10 +198,10 @@
     "name": "Nocturnlhawk",
     "dungeons": [
       17,
+      16,
       15,
       15,
       15,
-      14,
       14,
       14,
       14
