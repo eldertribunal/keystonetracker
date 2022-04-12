@@ -1615,23 +1615,23 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 1689344,
+        "level": 17,
+        "duration": 1559534,
         "rating": {
           "fortified": 120.8,
-          "tyrannical": 109,
-          "total": 236
+          "tyrannical": 136.7,
+          "total": 265
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 14,
-        "duration": 2080839,
+        "level": 16,
+        "duration": 2543553,
         "rating": {
           "fortified": 120.5,
-          "tyrannical": 112.7,
-          "total": 237
+          "tyrannical": 122.8,
+          "total": 244
         }
       },
       {
@@ -1944,12 +1944,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 9,
-        "duration": 1432688,
+        "level": 15,
+        "duration": 1595997,
         "rating": {
-          "fortified": 87.6,
+          "fortified": 126.4,
           "tyrannical": 78,
-          "total": 170
+          "total": 229
         }
       }
     ]
