@@ -85,9 +85,9 @@
         "level": 17,
         "duration": 1782336,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 128.3,
-          "total": 192
+          "fortified": 136.5,
+          "tyrannical": 137.7,
+          "total": 275
         }
       },
       {
@@ -428,11 +428,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 17,
-        "duration": 2017673,
+        "duration": 1782336,
         "rating": {
           "fortified": 136.4,
-          "tyrannical": 0,
-          "total": 205
+          "tyrannical": 137.7,
+          "total": 275
         }
       },
       {
@@ -775,9 +775,9 @@
         "level": 17,
         "duration": 1782336,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 128.3,
-          "total": 192
+          "fortified": 136.5,
+          "tyrannical": 137.7,
+          "total": 275
         }
       },
       {
@@ -1005,9 +1005,9 @@
         "level": 17,
         "duration": 1782336,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 112.9,
-          "total": 169
+          "fortified": 136.1,
+          "tyrannical": 137.7,
+          "total": 275
         }
       },
       {
@@ -1451,12 +1451,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 2970839,
+        "level": 15,
+        "duration": 2285027,
         "rating": {
           "fortified": 121.6,
-          "tyrannical": 0,
-          "total": 182
+          "tyrannical": 125.3,
+          "total": 249
         }
       },
       {
