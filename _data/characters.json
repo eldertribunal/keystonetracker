@@ -301,12 +301,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 2197375,
+        "level": 19,
+        "duration": 2596918,
         "rating": {
           "fortified": 127.1,
-          "tyrannical": 130.8,
-          "total": 260
+          "tyrannical": 138.6,
+          "total": 271
         }
       },
       {
@@ -531,12 +531,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 19,
-        "duration": 2596918,
+        "level": 15,
+        "duration": 2071791,
         "rating": {
           "fortified": 126.4,
-          "tyrannical": 138.6,
-          "total": 271
+          "tyrannical": 0,
+          "total": 190
         }
       },
       {
@@ -761,12 +761,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 2197375,
+        "level": 19,
+        "duration": 2596918,
         "rating": {
           "fortified": 130.6,
-          "tyrannical": 130.8,
-          "total": 262
+          "tyrannical": 138.6,
+          "total": 273
         }
       },
       {
@@ -1336,12 +1336,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 2197375,
+        "level": 19,
+        "duration": 2596918,
         "rating": {
           "fortified": 125.4,
-          "tyrannical": 130.8,
-          "total": 259
+          "tyrannical": 138.6,
+          "total": 271
         }
       },
       {
