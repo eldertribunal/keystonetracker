@@ -1671,11 +1671,11 @@
         "id": 380,
         "name": "Sanguine Depths",
         "level": 14,
-        "duration": 2713225,
+        "duration": 2211496,
         "rating": {
           "fortified": 113.7,
-          "tyrannical": 0,
-          "total": 171
+          "tyrannical": 121.3,
+          "total": 239
         }
       },
       {
