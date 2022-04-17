@@ -164,12 +164,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 8,
-        "duration": 1405294,
+        "level": 11,
+        "duration": 1705836,
         "rating": {
-          "fortified": 84.8,
-          "tyrannical": 0,
-          "total": 127
+          "fortified": 0,
+          "tyrannical": 108.2,
+          "total": 162
         }
       },
       {
@@ -219,12 +219,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 7,
-        "duration": 1165194,
+        "level": 12,
+        "duration": 1118473,
         "rating": {
-          "fortified": 79.4,
-          "tyrannical": 0,
-          "total": 119
+          "fortified": 0,
+          "tyrannical": 114.7,
+          "total": 172
         }
       }
     ]
