@@ -568,8 +568,8 @@
         "duration": 1746838,
         "rating": {
           "fortified": 130.4,
-          "tyrannical": 126.7,
-          "total": 259
+          "tyrannical": 0,
+          "total": 196
         }
       }
     ]
@@ -1129,22 +1129,22 @@
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
         "level": 16,
-        "duration": 3144198,
+        "duration": 2600132,
         "rating": {
           "fortified": 113.9,
-          "tyrannical": 120.7,
-          "total": 238
+          "tyrannical": 123.6,
+          "total": 242
         }
       },
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 15,
-        "duration": 1662302,
+        "level": 16,
+        "duration": 1564532,
         "rating": {
-          "fortified": 126,
+          "fortified": 0,
           "tyrannical": 116.7,
-          "total": 247
+          "total": 175
         }
       }
     ]
@@ -1933,23 +1933,23 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 10,
-        "duration": 2626819,
+        "level": 16,
+        "duration": 2600132,
         "rating": {
           "fortified": 0,
-          "tyrannical": 93.5,
-          "total": 140
+          "tyrannical": 123.6,
+          "total": 185
         }
       },
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 14,
-        "duration": 2578204,
+        "level": 16,
+        "duration": 1564532,
         "rating": {
           "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "tyrannical": 131.6,
+          "total": 197
         }
       }
     ]
@@ -2062,9 +2062,9 @@
         "level": 16,
         "duration": 1564532,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 124.8,
-          "total": 187
+          "fortified": 126.4,
+          "tyrannical": 131.6,
+          "total": 261
         }
       }
     ]
