@@ -246,12 +246,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 1786131,
+        "level": 18,
+        "duration": 1913610,
         "rating": {
-          "fortified": 127.2,
+          "fortified": 141.4,
           "tyrannical": 127,
-          "total": 254
+          "total": 276
         }
       },
       {
@@ -334,12 +334,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1564532,
+        "level": 18,
+        "duration": 1896559,
         "rating": {
-          "fortified": 130.4,
+          "fortified": 134.3,
           "tyrannical": 131.6,
-          "total": 263
+          "total": 267
         }
       }
     ]
@@ -361,12 +361,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 1446348,
+        "level": 18,
+        "duration": 1913610,
         "rating": {
-          "fortified": 129.1,
+          "fortified": 141.4,
           "tyrannical": 127,
-          "total": 257
+          "total": 276
         }
       },
       {
@@ -797,9 +797,9 @@
         "level": 17,
         "duration": 1507703,
         "rating": {
-          "fortified": 130.4,
+          "fortified": 134.3,
           "tyrannical": 137,
-          "total": 271
+          "total": 273
         }
       }
     ]
@@ -939,9 +939,9 @@
         "level": 18,
         "duration": 1913610,
         "rating": {
-          "fortified": 120.5,
-          "tyrannical": 0,
-          "total": 181
+          "fortified": 141.4,
+          "tyrannical": 140.3,
+          "total": 282
         }
       },
       {
@@ -1027,9 +1027,9 @@
         "level": 18,
         "duration": 1896559,
         "rating": {
-          "fortified": 112.8,
-          "tyrannical": 0,
-          "total": 169
+          "fortified": 134.3,
+          "tyrannical": 126.7,
+          "total": 265
         }
       }
     ]
