@@ -361,12 +361,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 1460809,
+        "level": 16,
+        "duration": 1867914,
         "rating": {
           "fortified": 121.7,
-          "tyrannical": 129.1,
-          "total": 254
+          "tyrannical": 0,
+          "total": 183
         }
       },
       {
@@ -2522,9 +2522,9 @@
         "level": 16,
         "duration": 1564532,
         "rating": {
-          "fortified": 126,
+          "fortified": 127.6,
           "tyrannical": 131.6,
-          "total": 260
+          "total": 261
         }
       }
     ]
