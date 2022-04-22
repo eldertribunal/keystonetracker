@@ -235,12 +235,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1291609,
+        "level": 18,
+        "duration": 1809142,
         "rating": {
-          "fortified": 133.5,
+          "fortified": 134.9,
           "tyrannical": 131.7,
-          "total": 266
+          "total": 268
         }
       },
       {
@@ -695,12 +695,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1332178,
+        "level": 18,
+        "duration": 1809142,
         "rating": {
-          "fortified": 0,
+          "fortified": 134.9,
           "tyrannical": 133.3,
-          "total": 200
+          "total": 269
         }
       },
       {
@@ -1270,12 +1270,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1291609,
+        "level": 18,
+        "duration": 1809142,
         "rating": {
-          "fortified": 133.5,
+          "fortified": 134.9,
           "tyrannical": 133.1,
-          "total": 267
+          "total": 269
         }
       },
       {
@@ -1733,9 +1733,9 @@
         "level": 17,
         "duration": 1559534,
         "rating": {
-          "fortified": 120.8,
+          "fortified": 134.9,
           "tyrannical": 136.7,
-          "total": 265
+          "total": 272
         }
       },
       {
