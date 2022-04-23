@@ -1534,11 +1534,11 @@
         "id": 378,
         "name": "Halls of Atonement",
         "level": 17,
-        "duration": 2425318,
+        "duration": 1723078,
         "rating": {
-          "fortified": 126.7,
+          "fortified": 136.3,
           "tyrannical": 123.8,
-          "total": 252
+          "total": 266
         }
       },
       {
