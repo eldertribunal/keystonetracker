@@ -427,12 +427,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 17,
-        "duration": 1782336,
+        "level": 18,
+        "duration": 1755472,
         "rating": {
-          "fortified": 136.4,
+          "fortified": 142.9,
           "tyrannical": 137.7,
-          "total": 275
+          "total": 283
         }
       },
       {
