@@ -958,12 +958,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1273375,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.2,
+          "total": 0,
           "tyrannical": 0,
-          "total": 201
+          "fortified": 0
         }
       },
       {
