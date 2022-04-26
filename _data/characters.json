@@ -449,12 +449,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 18,
-        "duration": 1983130,
+        "level": 17,
+        "duration": 1667987,
         "rating": {
-          "fortified": 133.7,
+          "fortified": 135.9,
           "tyrannical": 114.7,
-          "total": 258
+          "total": 261
         }
       }
     ]
@@ -1304,11 +1304,11 @@
         "id": 378,
         "name": "Halls of Atonement",
         "level": 17,
-        "duration": 1810422,
+        "duration": 1440385,
         "rating": {
-          "fortified": 135.7,
+          "fortified": 138.1,
           "tyrannical": 135.6,
-          "total": 271
+          "total": 275
         }
       },
       {
@@ -2971,9 +2971,9 @@
         "level": 16,
         "duration": 1673333,
         "rating": {
-          "fortified": 130,
+          "fortified": 131,
           "tyrannical": 133.6,
-          "total": 265
+          "total": 266
         }
       },
       {
