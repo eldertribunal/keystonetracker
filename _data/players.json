@@ -847,8 +847,8 @@
         "duration": 1723078,
         "rating": {
           "fortified": 136.3,
-          "tyrannical": 123.8,
-          "total": 266
+          "tyrannical": 0,
+          "total": 204
         }
       },
       {
@@ -913,8 +913,8 @@
         "duration": 1662302,
         "rating": {
           "fortified": 126,
-          "tyrannical": 119.7,
-          "total": 249
+          "tyrannical": 0,
+          "total": 189
         }
       }
     ]
