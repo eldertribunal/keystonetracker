@@ -2421,11 +2421,11 @@
         "id": 375,
         "name": "Mists of Tirna Scithe",
         "level": 15,
-        "duration": 2149071,
+        "duration": 1374447,
         "rating": {
           "fortified": 117.6,
-          "tyrannical": 0,
-          "total": 176
+          "tyrannical": 128,
+          "total": 251
         }
       },
       {
@@ -2464,12 +2464,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 14,
-        "duration": 2102030,
+        "level": 15,
+        "duration": 1647617,
         "rating": {
           "fortified": 121,
-          "tyrannical": 0,
-          "total": 182
+          "tyrannical": 128.5,
+          "total": 253
         }
       },
       {
