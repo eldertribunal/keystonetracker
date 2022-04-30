@@ -1385,12 +1385,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 2986927,
+        "level": 15,
+        "duration": 1747857,
         "rating": {
           "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "tyrannical": 125.4,
+          "total": 188
         }
       },
       {
@@ -1451,12 +1451,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 11,
-        "duration": 1676288,
+        "level": 15,
+        "duration": 2363088,
         "rating": {
           "fortified": 108.5,
-          "tyrannical": 0,
-          "total": 163
+          "tyrannical": 119.9,
+          "total": 234
         }
       },
       {
