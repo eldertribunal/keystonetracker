@@ -142,12 +142,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 11,
-        "duration": 2529166,
+        "level": 17,
+        "duration": 2645574,
         "rating": {
           "fortified": 86.2,
-          "tyrannical": 105.3,
-          "total": 201
+          "tyrannical": 129.7,
+          "total": 238
         }
       },
       {
@@ -219,12 +219,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 7,
-        "duration": 1843420,
+        "level": 15,
+        "duration": 1355553,
         "rating": {
           "fortified": 0,
-          "tyrannical": 69.7,
-          "total": 105
+          "tyrannical": 128.1,
+          "total": 192
         }
       }
     ]
@@ -487,12 +487,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 15,
-        "duration": 2016226,
+        "level": 17,
+        "duration": 2645574,
         "rating": {
           "fortified": 122.1,
-          "tyrannical": 127.7,
-          "total": 253
+          "tyrannical": 129.7,
+          "total": 256
         }
       },
       {
@@ -1756,8 +1756,8 @@
         "duration": 2490730,
         "rating": {
           "fortified": 130.4,
-          "tyrannical": 109.3,
-          "total": 250
+          "tyrannical": 129.7,
+          "total": 260
         }
       },
       {
@@ -1833,8 +1833,8 @@
         "duration": 1896559,
         "rating": {
           "fortified": 134.3,
-          "tyrannical": 126.7,
-          "total": 265
+          "tyrannical": 128.1,
+          "total": 266
         }
       }
     ]
