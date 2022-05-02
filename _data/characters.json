@@ -153,12 +153,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 9,
-        "duration": 1452099,
+        "level": 18,
+        "duration": 1697038,
         "rating": {
           "fortified": 81.3,
-          "tyrannical": 88.1,
-          "total": 173
+          "tyrannical": 141.5,
+          "total": 253
         }
       },
       {
@@ -502,8 +502,8 @@
         "duration": 1756720,
         "rating": {
           "fortified": 126.1,
-          "tyrannical": 124.5,
-          "total": 251
+          "tyrannical": 0,
+          "total": 189
         }
       },
       {
@@ -958,12 +958,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1273375,
+        "level": 18,
+        "duration": 1697038,
         "rating": {
-          "fortified": 134.2,
-          "tyrannical": 0,
-          "total": 201
+          "fortified": 0,
+          "tyrannical": 141.5,
+          "total": 212
         }
       },
       {
@@ -2799,11 +2799,11 @@
         "id": 378,
         "name": "Halls of Atonement",
         "level": 15,
-        "duration": 1586109,
+        "duration": 1489981,
         "rating": {
           "fortified": 101.2,
-          "tyrannical": 127.2,
-          "total": 241
+          "tyrannical": 127.8,
+          "total": 242
         }
       },
       {
