@@ -427,12 +427,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 15,
-        "duration": 1578611,
+        "level": 18,
+        "duration": 2164530,
         "rating": {
-          "fortified": 127.9,
+          "fortified": 140.6,
           "tyrannical": 128.8,
-          "total": 257
+          "total": 275
         }
       },
       {
@@ -2004,12 +2004,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 15,
-        "duration": 1516816,
+        "level": 16,
+        "duration": 2137814,
         "rating": {
           "fortified": 126.4,
-          "tyrannical": 129.2,
-          "total": 257
+          "tyrannical": 0,
+          "total": 190
         }
       },
       {
