@@ -164,12 +164,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 16,
-        "duration": 1738911,
+        "level": 18,
+        "duration": 2063000,
         "rating": {
-          "fortified": 0,
+          "fortified": 141.2,
           "tyrannical": 133,
-          "total": 200
+          "total": 278
         }
       },
       {
@@ -209,11 +209,11 @@
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
         "level": 19,
-        "duration": 2310365,
+        "duration": 1812795,
         "rating": {
           "fortified": 126.9,
-          "tyrannical": 145.2,
-          "total": 281
+          "tyrannical": 0,
+          "total": 190
         }
       },
       {
@@ -1199,23 +1199,23 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 16,
-        "duration": 2137814,
+        "level": 18,
+        "duration": 2617388,
         "rating": {
-          "fortified": 130.8,
+          "fortified": 133.2,
           "tyrannical": 129.2,
-          "total": 261
+          "total": 264
         }
       },
       {
         "id": 380,
         "name": "Sanguine Depths",
         "level": 15,
-        "duration": 2025088,
+        "duration": 1856939,
         "rating": {
-          "fortified": 127.2,
+          "fortified": 128.1,
           "tyrannical": 113.5,
-          "total": 248
+          "total": 249
         }
       },
       {
