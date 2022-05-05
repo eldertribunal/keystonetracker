@@ -350,12 +350,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 21,
-        "duration": 1776301,
+        "level": 16,
+        "duration": 1745366,
         "rating": {
-          "fortified": 155.2,
+          "fortified": 0,
           "tyrannical": 130.4,
-          "total": 298
+          "total": 196
         }
       },
       {
@@ -512,9 +512,9 @@
         "level": 18,
         "duration": 2617388,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "fortified": 133.2,
+          "tyrannical": 132,
+          "total": 266
         }
       },
       {
@@ -523,9 +523,9 @@
         "level": 16,
         "duration": 1897355,
         "rating": {
-          "fortified": 0,
+          "fortified": 128.1,
           "tyrannical": 132.9,
-          "total": 199
+          "total": 263
         }
       },
       {
@@ -969,23 +969,23 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 0,
-        "duration": 0,
+        "level": 18,
+        "duration": 2617388,
         "rating": {
-          "total": 0,
+          "fortified": 133.2,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 200
         }
       },
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 16,
-        "duration": 2953134,
+        "level": 15,
+        "duration": 1856939,
         "rating": {
-          "fortified": 0,
+          "fortified": 128.1,
           "tyrannical": 122.5,
-          "total": 184
+          "total": 253
         }
       },
       {
@@ -1087,9 +1087,9 @@
         "level": 17,
         "duration": 2034640,
         "rating": {
-          "fortified": 131.8,
+          "fortified": 133.2,
           "tyrannical": 136.4,
-          "total": 270
+          "total": 271
         }
       },
       {
