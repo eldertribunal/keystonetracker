@@ -41,10 +41,10 @@
   {
     "name": "Beastmaster",
     "dungeons": [
+      21,
       19,
       18,
       18,
-      0,
       0,
       0,
       0,
@@ -210,10 +210,10 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
+      16,
       15,
       15,
-      0,
-      0,
+      15,
       0,
       0,
       0,
