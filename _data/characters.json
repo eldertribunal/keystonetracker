@@ -372,12 +372,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 17,
-        "duration": 1987820,
+        "level": 18,
+        "duration": 2541241,
         "rating": {
           "fortified": 128.7,
-          "tyrannical": 137.9,
-          "total": 271
+          "tyrannical": 0,
+          "total": 193
         }
       },
       {
