@@ -27,12 +27,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 13,
-        "duration": 2546943,
+        "level": 16,
+        "duration": 1753777,
         "rating": {
-          "fortified": 0,
+          "fortified": 134,
           "tyrannical": 115.2,
-          "total": 173
+          "total": 259
         }
       },
       {
@@ -93,12 +93,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 12,
-        "duration": 1807014,
+        "level": 16,
+        "duration": 1747037,
         "rating": {
-          "fortified": 0,
+          "fortified": 133.2,
           "tyrannical": 112.9,
-          "total": 169
+          "total": 256
         }
       },
       {
@@ -386,9 +386,9 @@
         "level": 18,
         "duration": 1431147,
         "rating": {
-          "fortified": 123.6,
+          "fortified": 135.8,
           "tyrannical": 143.2,
-          "total": 277
+          "total": 283
         }
       },
       {
