@@ -28,7 +28,7 @@
   {
     "name": "Walnut",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -81,7 +81,7 @@
     "name": "Aletheia",
     "dungeons": [
       15,
-      0,
+      15,
       0,
       0,
       0,
