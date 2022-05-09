@@ -38,12 +38,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 17,
-        "duration": 1723078,
+        "level": 19,
+        "duration": 1808511,
         "rating": {
-          "fortified": 136.3,
+          "fortified": 145.7,
           "tyrannical": 134.8,
-          "total": 272
+          "total": 286
         }
       },
       {
@@ -1418,12 +1418,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 14,
-        "duration": 1422610,
+        "level": 19,
+        "duration": 1808511,
         "rating": {
-          "fortified": 0,
+          "fortified": 145.7,
           "tyrannical": 123.2,
-          "total": 185
+          "total": 280
         }
       },
       {
@@ -1473,12 +1473,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 15,
-        "duration": 2841309,
+        "level": 18,
+        "duration": 2196608,
         "rating": {
-          "fortified": 117.3,
+          "fortified": 140.8,
           "tyrannical": 0,
-          "total": 176
+          "total": 211
         }
       },
       {
@@ -2108,12 +2108,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 11,
-        "duration": 1728552,
+        "level": 19,
+        "duration": 1808511,
         "rating": {
-          "fortified": 106.3,
+          "fortified": 145.7,
           "tyrannical": 0,
-          "total": 159
+          "total": 219
         }
       },
       {
