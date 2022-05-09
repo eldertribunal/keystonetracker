@@ -498,12 +498,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 18,
-        "duration": 1697038,
+        "level": 19,
+        "duration": 1808511,
         "rating": {
-          "fortified": 126.1,
+          "fortified": 145.7,
           "tyrannical": 141.5,
-          "total": 275
+          "total": 289
         }
       },
       {
@@ -553,12 +553,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 16,
-        "duration": 2600132,
+        "level": 18,
+        "duration": 2196608,
         "rating": {
-          "fortified": 0,
+          "fortified": 140.8,
           "tyrannical": 123.6,
-          "total": 185
+          "total": 273
         }
       },
       {
