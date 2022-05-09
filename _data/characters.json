@@ -1763,12 +1763,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 18,
-        "duration": 1697038,
+        "level": 19,
+        "duration": 1808511,
         "rating": {
-          "fortified": 0,
+          "fortified": 145.7,
           "tyrannical": 141.5,
-          "total": 212
+          "total": 289
         }
       },
       {
