@@ -28,8 +28,8 @@
   {
     "name": "Walnut",
     "dungeons": [
-      0,
-      0,
+      17,
+      16,
       0,
       0,
       0,
@@ -314,7 +314,7 @@
   {
     "name": "Sneakypete",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
