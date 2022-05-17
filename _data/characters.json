@@ -235,23 +235,23 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 17,
-        "duration": 1416680,
+        "level": 20,
+        "duration": 1766724,
         "rating": {
           "fortified": 137.7,
-          "tyrannical": 0,
-          "total": 207
+          "tyrannical": 150.2,
+          "total": 294
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 18,
-        "duration": 1913610,
+        "level": 19,
+        "duration": 1515167,
         "rating": {
           "fortified": 141.4,
-          "tyrannical": 0,
-          "total": 212
+          "tyrannical": 148.7,
+          "total": 294
         }
       },
       {
@@ -301,12 +301,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 19,
-        "duration": 2596918,
+        "level": 20,
+        "duration": 2508486,
         "rating": {
           "fortified": 127.1,
-          "tyrannical": 138.6,
-          "total": 271
+          "tyrannical": 144.1,
+          "total": 280
         }
       },
       {
@@ -479,9 +479,9 @@
         "level": 19,
         "duration": 1515167,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 134.7,
-          "total": 202
+          "fortified": 141.4,
+          "tyrannical": 148.7,
+          "total": 294
         }
       },
       {
@@ -698,9 +698,9 @@
         "level": 20,
         "duration": 1766724,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 133.3,
-          "total": 200
+          "fortified": 134.9,
+          "tyrannical": 150.2,
+          "total": 293
         }
       },
       {
