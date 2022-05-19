@@ -2,7 +2,7 @@
   {
     "name": "Acorn",
     "dungeons": [
-      0,
+      15,
       0,
       0,
       0,
@@ -119,8 +119,8 @@
   {
     "name": "Minr\u00f4",
     "dungeons": [
+      16,
       15,
-      0,
       0,
       0,
       0,
@@ -288,7 +288,7 @@
   {
     "name": "Lokusnake",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
