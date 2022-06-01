@@ -1325,12 +1325,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 18,
-        "duration": 2319621,
+        "level": 21,
+        "duration": 2889454,
         "rating": {
-          "fortified": 140.7,
+          "fortified": 147.8,
           "tyrannical": 135.7,
-          "total": 279
+          "total": 290
         }
       },
       {
@@ -1358,12 +1358,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 17,
-        "duration": 1507703,
+        "level": 18,
+        "duration": 1388421,
         "rating": {
-          "fortified": 0,
+          "fortified": 142.9,
           "tyrannical": 137,
-          "total": 206
+          "total": 283
         }
       },
       {
@@ -1788,9 +1788,9 @@
         "level": 21,
         "duration": 2889454,
         "rating": {
-          "fortified": 128.9,
-          "tyrannical": 0,
-          "total": 193
+          "fortified": 147.8,
+          "tyrannical": 132.9,
+          "total": 288
         }
       },
       {
@@ -1821,9 +1821,9 @@
         "level": 19,
         "duration": 1632002,
         "rating": {
-          "fortified": 134.3,
+          "fortified": 142.9,
           "tyrannical": 146.2,
-          "total": 286
+          "total": 291
         }
       },
       {
