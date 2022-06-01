@@ -257,12 +257,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 2490730,
+        "level": 20,
+        "duration": 2364118,
         "rating": {
-          "fortified": 130.4,
+          "fortified": 151.1,
           "tyrannical": 127.7,
-          "total": 259
+          "total": 290
         }
       },
       {
@@ -1752,12 +1752,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 2164825,
+        "level": 20,
+        "duration": 2364118,
         "rating": {
-          "fortified": 132,
+          "fortified": 151.1,
           "tyrannical": 129.7,
-          "total": 263
+          "total": 292
         }
       },
       {
