@@ -175,12 +175,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 19,
-        "duration": 1889928,
+        "level": 20,
+        "duration": 2172147,
         "rating": {
-          "fortified": 140.9,
+          "fortified": 151.5,
           "tyrannical": 147.9,
-          "total": 292
+          "total": 301
         }
       },
       {
@@ -501,9 +501,9 @@
         "level": 19,
         "duration": 1740784,
         "rating": {
-          "fortified": 136.3,
+          "fortified": 141.8,
           "tyrannical": 146.2,
-          "total": 287
+          "total": 290
         }
       },
       {
@@ -613,12 +613,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 2111954,
+        "level": 20,
+        "duration": 2417492,
         "rating": {
-          "fortified": 116.7,
+          "fortified": 141.8,
           "tyrannical": 123.8,
-          "total": 244
+          "total": 275
         }
       },
       {
@@ -728,12 +728,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 19,
-        "duration": 1808511,
+        "level": 20,
+        "duration": 2417492,
         "rating": {
-          "fortified": 145.7,
-          "tyrannical": 138.9,
-          "total": 288
+          "fortified": 141.8,
+          "tyrannical": 135.6,
+          "total": 280
         }
       },
       {
