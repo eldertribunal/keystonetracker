@@ -2535,12 +2535,12 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 14,
-        "duration": 1689344,
+        "level": 15,
+        "duration": 1367109,
         "rating": {
-          "fortified": 120.8,
+          "fortified": 128,
           "tyrannical": 87.1,
-          "total": 225
+          "total": 236
         }
       },
       {
@@ -2634,12 +2634,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 15,
-        "duration": 2355349,
+        "level": 19,
+        "duration": 3116513,
         "rating": {
-          "fortified": 60.1,
+          "fortified": 135.9,
           "tyrannical": 119.9,
-          "total": 210
+          "total": 264
         }
       }
     ]
