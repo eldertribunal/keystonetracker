@@ -71,12 +71,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 17,
-        "duration": 1881182,
+        "level": 18,
+        "duration": 2146069,
         "rating": {
-          "fortified": 137.5,
+          "fortified": 141,
           "tyrannical": 136.8,
-          "total": 275
+          "total": 280
         }
       },
       {
@@ -764,9 +764,9 @@
         "level": 20,
         "duration": 2508486,
         "rating": {
-          "fortified": 141,
+          "fortified": 130.6,
           "tyrannical": 144.1,
-          "total": 287
+          "total": 281
         }
       },
       {
@@ -1818,12 +1818,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 19,
-        "duration": 1632002,
+        "level": 20,
+        "duration": 1539625,
         "rating": {
-          "fortified": 0,
+          "fortified": 151.8,
           "tyrannical": 146.2,
-          "total": 219
+          "total": 301
         }
       },
       {
@@ -2601,12 +2601,12 @@
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 15,
-        "duration": 1550864,
+        "level": 18,
+        "duration": 2146069,
         "rating": {
-          "fortified": 0,
+          "fortified": 141,
           "tyrannical": 129.2,
-          "total": 194
+          "total": 276
         }
       },
       {
