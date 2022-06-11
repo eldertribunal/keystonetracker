@@ -246,12 +246,12 @@
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 19,
-        "duration": 1515167,
+        "level": 20,
+        "duration": 1687138,
         "rating": {
           "fortified": 141.4,
-          "tyrannical": 148.7,
-          "total": 294
+          "tyrannical": 152.7,
+          "total": 300
         }
       },
       {
@@ -1960,23 +1960,23 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1320000,
+        "level": 20,
+        "duration": 1589285,
         "rating": {
           "fortified": 133.3,
-          "tyrannical": 0,
-          "total": 200
+          "tyrannical": 151.5,
+          "total": 294
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 16,
-        "duration": 1743096,
+        "level": 20,
+        "duration": 1687138,
         "rating": {
           "fortified": 128.8,
-          "tyrannical": 132.4,
-          "total": 263
+          "tyrannical": 152.7,
+          "total": 293
         }
       },
       {
