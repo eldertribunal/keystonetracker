@@ -568,8 +568,8 @@
         "duration": 2196608,
         "rating": {
           "fortified": 140.8,
-          "tyrannical": 135.6,
-          "total": 279
+          "tyrannical": 0,
+          "total": 211
         }
       }
     ]
