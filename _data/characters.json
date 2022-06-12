@@ -1120,9 +1120,9 @@
         "level": 20,
         "duration": 3124032,
         "rating": {
-          "fortified": 132.7,
-          "tyrannical": 140.4,
-          "total": 277
+          "fortified": 0,
+          "tyrannical": 128.2,
+          "total": 192
         }
       },
       {
@@ -1577,12 +1577,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 18,
-        "duration": 2704927,
+        "level": 20,
+        "duration": 3124032,
         "rating": {
           "fortified": 132.7,
-          "tyrannical": 0,
-          "total": 199
+          "tyrannical": 140.4,
+          "total": 277
         }
       },
       {
@@ -2037,12 +2037,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 1730003,
+        "level": 20,
+        "duration": 3124032,
         "rating": {
           "fortified": 128.3,
-          "tyrannical": 133,
-          "total": 264
+          "tyrannical": 140.4,
+          "total": 275
         }
       },
       {
