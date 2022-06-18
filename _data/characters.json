@@ -1629,9 +1629,9 @@
         "level": 9,
         "duration": 1277123,
         "rating": {
-          "fortified": 0,
+          "fortified": 50,
           "tyrannical": 90,
-          "total": 135
+          "total": 160
         }
       },
       {
