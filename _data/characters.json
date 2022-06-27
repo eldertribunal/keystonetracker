@@ -1756,8 +1756,8 @@
         "duration": 2364118,
         "rating": {
           "fortified": 151.1,
-          "tyrannical": 142.8,
-          "total": 298
+          "tyrannical": 150.6,
+          "total": 302
         }
       },
       {
@@ -2558,11 +2558,11 @@
         "id": 377,
         "name": "De Other Side",
         "level": 16,
-        "duration": 2793493,
+        "duration": 2191649,
         "rating": {
           "fortified": 124,
-          "tyrannical": 109.2,
-          "total": 241
+          "tyrannical": 131.9,
+          "total": 260
         }
       },
       {
