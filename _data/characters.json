@@ -60,12 +60,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 2145986,
+        "level": 16,
+        "duration": 1897355,
         "rating": {
           "fortified": 129.1,
-          "tyrannical": 151.6,
-          "total": 292
+          "tyrannical": 132.9,
+          "total": 264
         }
       },
       {
@@ -93,12 +93,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 20,
-        "duration": 2108233,
+        "level": 18,
+        "duration": 1983130,
         "rating": {
-          "fortified": 0,
+          "fortified": 133.7,
           "tyrannical": 131.4,
-          "total": 197
+          "total": 266
         }
       },
       {
@@ -1440,12 +1440,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 16,
-        "duration": 1897355,
+        "level": 20,
+        "duration": 2145986,
         "rating": {
           "fortified": 127,
-          "tyrannical": 132.9,
-          "total": 263
+          "tyrannical": 151.6,
+          "total": 291
         }
       },
       {
@@ -1473,12 +1473,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1463357,
+        "level": 20,
+        "duration": 2108233,
         "rating": {
           "fortified": 132.3,
-          "tyrannical": 129.3,
-          "total": 263
+          "tyrannical": 142.9,
+          "total": 280
         }
       },
       {
@@ -2627,8 +2627,8 @@
         "duration": 2117606,
         "rating": {
           "fortified": 112.8,
-          "tyrannical": 45,
-          "total": 192
+          "tyrannical": 112.3,
+          "total": 225
         }
       },
       {
