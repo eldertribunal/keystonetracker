@@ -60,12 +60,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 16,
-        "duration": 1897355,
+        "level": 20,
+        "duration": 2145986,
         "rating": {
           "fortified": 129.1,
-          "tyrannical": 132.9,
-          "total": 264
+          "tyrannical": 151.6,
+          "total": 292
         }
       },
       {
@@ -93,12 +93,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 18,
-        "duration": 1983130,
+        "level": 20,
+        "duration": 2108233,
         "rating": {
           "fortified": 133.7,
-          "tyrannical": 131.4,
-          "total": 266
+          "tyrannical": 142.9,
+          "total": 281
         }
       },
       {
@@ -521,11 +521,11 @@
         "id": 380,
         "name": "Sanguine Depths",
         "level": 20,
-        "duration": 2414295,
+        "duration": 2145986,
         "rating": {
           "fortified": 147.8,
-          "tyrannical": 150.2,
-          "total": 299
+          "tyrannical": 151.6,
+          "total": 301
         }
       },
       {
@@ -750,12 +750,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 21,
-        "duration": 2889454,
+        "level": 20,
+        "duration": 2145986,
         "rating": {
           "fortified": 147.8,
-          "tyrannical": 135.7,
-          "total": 290
+          "tyrannical": 151.6,
+          "total": 301
         }
       },
       {
@@ -787,8 +787,8 @@
         "duration": 1562644,
         "rating": {
           "fortified": 151.7,
-          "tyrannical": 129.3,
-          "total": 292
+          "tyrannical": 142.9,
+          "total": 299
         }
       },
       {
@@ -2579,12 +2579,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 13,
-        "duration": 2689713,
+        "level": 12,
+        "duration": 1607509,
         "rating": {
           "fortified": 0,
-          "tyrannical": 107.8,
-          "total": 162
+          "tyrannical": 113.7,
+          "total": 171
         }
       },
       {
