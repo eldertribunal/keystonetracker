@@ -80,7 +80,7 @@
   {
     "name": "Aletheia",
     "dungeons": [
-      0,
+      17,
       0,
       0,
       0,
@@ -288,12 +288,12 @@
   {
     "name": "Lokusnake",
     "dungeons": [
+      17,
       15,
       15,
       8,
       7,
       5,
-      0,
       0,
       0
     ]
