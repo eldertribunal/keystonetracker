@@ -992,11 +992,11 @@
         "id": 381,
         "name": "Spires of Ascension",
         "level": 16,
-        "duration": 1823090,
+        "duration": 1612046,
         "rating": {
           "fortified": 132.8,
-          "tyrannical": 0,
-          "total": 199
+          "tyrannical": 133.9,
+          "total": 267
         }
       },
       {
