@@ -2843,11 +2843,11 @@
         "id": 382,
         "name": "Theater of Pain",
         "level": 16,
-        "duration": 2809189,
+        "duration": 1825743,
         "rating": {
           "fortified": 121.2,
-          "tyrannical": 122.1,
-          "total": 244
+          "tyrannical": 132.5,
+          "total": 259
         }
       },
       {
