@@ -312,12 +312,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 20,
-        "duration": 3124032,
+        "level": 18,
+        "duration": 2052034,
         "rating": {
           "fortified": 128.6,
-          "tyrannical": 140.4,
-          "total": 275
+          "tyrannical": 141.3,
+          "total": 276
         }
       },
       {
@@ -1522,12 +1522,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 2191649,
+        "level": 18,
+        "duration": 3069037,
         "rating": {
           "fortified": 124,
-          "tyrannical": 131.9,
-          "total": 260
+          "tyrannical": 132.6,
+          "total": 261
         }
       },
       {
