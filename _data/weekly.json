@@ -210,9 +210,9 @@
   {
     "name": "Nocturnlhawk",
     "dungeons": [
+      16,
       15,
       15,
-      0,
       0,
       0,
       0,
@@ -275,7 +275,7 @@
   {
     "name": "Swizzle",
     "dungeons": [
-      0,
+      16,
       0,
       0,
       0,
