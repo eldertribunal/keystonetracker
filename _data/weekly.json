@@ -2,8 +2,8 @@
   {
     "name": "Acorn",
     "dungeons": [
-      17,
-      16,
+      0,
+      0,
       0,
       0,
       0,
@@ -158,8 +158,8 @@
   {
     "name": "Casaw",
     "dungeons": [
-      20,
-      17,
+      0,
+      0,
       0,
       0,
       0,
@@ -223,7 +223,7 @@
   {
     "name": "Grimmjob",
     "dungeons": [
-      15,
+      0,
       0,
       0,
       0,
@@ -249,7 +249,7 @@
   {
     "name": "Mel\u00eda",
     "dungeons": [
-      19,
+      0,
       0,
       0,
       0,
@@ -275,8 +275,8 @@
   {
     "name": "Swizzle",
     "dungeons": [
-      16,
-      15,
+      0,
+      0,
       0,
       0,
       0,
@@ -314,7 +314,7 @@
   {
     "name": "Sneakypete",
     "dungeons": [
-      16,
+      0,
       0,
       0,
       0,
