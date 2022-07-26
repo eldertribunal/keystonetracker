@@ -502,8 +502,8 @@
         "duration": 1566519,
         "rating": {
           "fortified": 152.3,
-          "tyrannical": 141.5,
-          "total": 299
+          "tyrannical": 152.1,
+          "total": 304
         }
       },
       {
@@ -958,12 +958,12 @@
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 21,
-        "duration": 1968947,
+        "level": 20,
+        "duration": 1592190,
         "rating": {
           "fortified": 149.7,
-          "tyrannical": 0,
-          "total": 225
+          "tyrannical": 152.1,
+          "total": 303
         }
       },
       {
@@ -1002,12 +1002,12 @@
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 15,
-        "duration": 1697637,
+        "level": 21,
+        "duration": 2119727,
         "rating": {
           "fortified": 126.3,
-          "tyrannical": 128.2,
-          "total": 255
+          "tyrannical": 155.9,
+          "total": 297
         }
       },
       {
