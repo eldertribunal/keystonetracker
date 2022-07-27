@@ -947,12 +947,12 @@
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 16,
-        "duration": 1753777,
+        "level": 17,
+        "duration": 2468582,
         "rating": {
-          "fortified": 134,
+          "fortified": 135.5,
           "tyrannical": 130.9,
-          "total": 266
+          "total": 269
         }
       },
       {
