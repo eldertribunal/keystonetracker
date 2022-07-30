@@ -2,7 +2,7 @@
   {
     "name": "Acorn",
     "dungeons": [
-      0,
+      20,
       0,
       0,
       0,
@@ -54,7 +54,7 @@
   {
     "name": "Lorzz",
     "dungeons": [
-      0,
+      20,
       0,
       0,
       0,
@@ -314,9 +314,9 @@
   {
     "name": "Sneakypete",
     "dungeons": [
+      18,
       16,
       16,
-      0,
       0,
       0,
       0,

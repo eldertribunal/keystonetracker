@@ -972,9 +972,9 @@
         "level": 19,
         "duration": 1899224,
         "rating": {
-          "fortified": 133.2,
+          "fortified": 144.9,
           "tyrannical": 147.1,
-          "total": 287
+          "total": 293
         }
       },
       {
@@ -1429,12 +1429,12 @@
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 16,
-        "duration": 1892630,
+        "level": 20,
+        "duration": 2303953,
         "rating": {
-          "fortified": 132.1,
+          "fortified": 144.9,
           "tyrannical": 132,
-          "total": 264
+          "total": 283
         }
       },
       {
@@ -2820,12 +2820,12 @@
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 16,
-        "duration": 2334500,
+        "level": 18,
+        "duration": 2211755,
         "rating": {
-          "fortified": 130.6,
+          "fortified": 141.3,
           "tyrannical": 127.6,
-          "total": 260
+          "total": 276
         }
       },
       {
