@@ -3,91 +3,69 @@
     "name": "Acorn",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1589285,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.7,
-          "tyrannical": 151.5,
-          "total": 296
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1687138,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.4,
-          "tyrannical": 152.7,
-          "total": 300
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2465227,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134,
-          "tyrannical": 150.6,
-          "total": 293
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1877661,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 150.3,
-          "tyrannical": 138.9,
-          "total": 295
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2303953,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 144.9,
-          "tyrannical": 141.3,
-          "total": 288
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 21,
-        "duration": 2889454,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.8,
-          "tyrannical": 135.7,
-          "total": 290
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 19,
-        "duration": 1756168,
-        "rating": {
-          "fortified": 148.1,
-          "tyrannical": 144.1,
-          "total": 294
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 21,
-        "duration": 2389428,
-        "rating": {
-          "fortified": 149.4,
-          "tyrannical": 137.1,
-          "total": 293
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -118,91 +96,69 @@
     "name": "Beastmaster",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 21,
-        "duration": 1776301,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 155.2,
-          "tyrannical": 151.8,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1799683,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.1,
-          "tyrannical": 148.3,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 21,
-        "duration": 2566336,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 150.9,
-          "tyrannical": 155.1,
-          "total": 308
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 21,
-        "duration": 1792961,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152,
-          "tyrannical": 155.8,
-          "total": 310
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2056330,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.2,
-          "tyrannical": 148.7,
-          "total": 301
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 2172147,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.5,
-          "tyrannical": 147.9,
-          "total": 301
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 1974523,
-        "rating": {
-          "fortified": 152,
-          "tyrannical": 151,
-          "total": 304
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 2168605,
-        "rating": {
-          "fortified": 150.2,
-          "tyrannical": 150.6,
-          "total": 301
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -233,91 +189,69 @@
     "name": "Lorzz",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1589285,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.7,
-          "tyrannical": 151.5,
-          "total": 296
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1687138,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.7,
-          "tyrannical": 152.7,
-          "total": 303
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2364118,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.1,
-          "tyrannical": 150.6,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1566519,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.3,
-          "tyrannical": 152.1,
-          "total": 304
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2049154,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.3,
-          "tyrannical": 141.3,
-          "total": 298
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 2145986,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.8,
-          "tyrannical": 151.6,
-          "total": 301
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2023151,
-        "rating": {
-          "fortified": 148.1,
-          "tyrannical": 151.7,
-          "total": 302
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 21,
-        "duration": 2119727,
-        "rating": {
-          "fortified": 149.4,
-          "tyrannical": 155.9,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -348,91 +282,69 @@
     "name": "Sacra",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1711600,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 150.6,
-          "tyrannical": 150.2,
-          "total": 301
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 19,
-        "duration": 1515167,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 148.7,
-          "total": 223
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2364118,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.1,
-          "tyrannical": 150.6,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1566519,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.3,
-          "tyrannical": 135.6,
-          "total": 296
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2049154,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.3,
-          "tyrannical": 132,
-          "total": 293
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 2145986,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.8,
-          "tyrannical": 151.6,
-          "total": 301
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2508486,
-        "rating": {
-          "fortified": 141,
-          "tyrannical": 144.1,
-          "total": 287
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 21,
-        "duration": 2119727,
-        "rating": {
-          "fortified": 149.4,
-          "tyrannical": 155.9,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -463,91 +375,69 @@
     "name": "Minro",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 18,
-        "duration": 1573330,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.3,
-          "tyrannical": 141.6,
-          "total": 283
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 19,
-        "duration": 1699794,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.7,
-          "tyrannical": 137.3,
-          "total": 290
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 3037049,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 131.5,
-          "tyrannical": 142.8,
-          "total": 280
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 19,
-        "duration": 1740784,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.8,
-          "tyrannical": 146.2,
-          "total": 290
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 19,
-        "duration": 2204285,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 145.4,
-          "tyrannical": 141.3,
-          "total": 289
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 18,
-        "duration": 1948846,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.9,
-          "tyrannical": 142.6,
-          "total": 283
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2539996,
-        "rating": {
-          "fortified": 143.9,
-          "tyrannical": 138,
-          "total": 285
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 3124032,
-        "rating": {
-          "fortified": 132.7,
-          "tyrannical": 140.4,
-          "total": 277
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -578,91 +468,69 @@
     "name": "Taiyed",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 15,
-        "duration": 1828336,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 106.4,
-          "tyrannical": 119.8,
-          "total": 233
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 2408392,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 118.6,
-          "tyrannical": 109.1,
-          "total": 232
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 11,
-        "duration": 2326596,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 103.3,
-          "tyrannical": 106.2,
-          "total": 211
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 2417492,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.8,
-          "tyrannical": 123.8,
-          "total": 275
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 12,
-        "duration": 1790212,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 112.7,
-          "tyrannical": 102.9,
-          "total": 220
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 12,
-        "duration": 2223414,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 108.3,
-          "tyrannical": 111.2,
-          "total": 221
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 14,
-        "duration": 2581506,
-        "rating": {
-          "fortified": 113.7,
-          "tyrannical": 102.4,
-          "total": 222
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 12,
-        "duration": 1982205,
-        "rating": {
-          "fortified": 111.3,
-          "tyrannical": 111.6,
-          "total": 223
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -693,91 +561,69 @@
     "name": "Pew",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1766724,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.9,
-          "tyrannical": 150.2,
-          "total": 293
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 19,
-        "duration": 1515167,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.4,
-          "tyrannical": 148.7,
-          "total": 294
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2364118,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.1,
-          "tyrannical": 127.7,
-          "total": 290
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 2417492,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.8,
-          "tyrannical": 135.6,
-          "total": 280
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2303953,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 144.9,
-          "tyrannical": 132,
-          "total": 283
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 21,
-        "duration": 2889454,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.8,
-          "tyrannical": 135.7,
-          "total": 290
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2508486,
-        "rating": {
-          "fortified": 141,
-          "tyrannical": 144.1,
-          "total": 287
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 1974236,
-        "rating": {
-          "fortified": 149.4,
-          "tyrannical": 151.7,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -808,91 +654,69 @@
     "name": "Mooshaman",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1589285,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.3,
-          "tyrannical": 151.5,
-          "total": 298
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1687138,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.7,
-          "tyrannical": 152.7,
-          "total": 303
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 3037049,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 130.4,
-          "tyrannical": 142.8,
-          "total": 279
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1566519,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.3,
-          "tyrannical": 146.2,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 19,
-        "duration": 2531442,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 138.6,
-          "tyrannical": 126.1,
-          "total": 271
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 19,
-        "duration": 2868078,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.9,
-          "tyrannical": 125.6,
-          "total": 270
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 1993181,
-        "rating": {
-          "fortified": 125.6,
-          "tyrannical": 131.9,
-          "total": 261
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 3124032,
-        "rating": {
-          "fortified": 132.7,
-          "tyrannical": 140.4,
-          "total": 277
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -923,91 +747,69 @@
     "name": "Zane",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 21,
-        "duration": 1729138,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 155.5,
-          "tyrannical": 151.5,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1687138,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.3,
-          "tyrannical": 152.7,
-          "total": 305
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 2364118,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.1,
-          "tyrannical": 150.6,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 20,
-        "duration": 1566519,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.3,
-          "tyrannical": 152.1,
-          "total": 304
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 21,
-        "duration": 2144570,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 155.7,
-          "tyrannical": 153.1,
-          "total": 310
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 20,
-        "duration": 1898700,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.8,
-          "tyrannical": 152.9,
-          "total": 303
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2023151,
-        "rating": {
-          "fortified": 150.5,
-          "tyrannical": 151.7,
-          "total": 303
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 21,
-        "duration": 2119727,
-        "rating": {
-          "fortified": 155.6,
-          "tyrannical": 155.9,
-          "total": 312
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1038,91 +840,69 @@
     "name": "Nocturnlhawk",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1411534,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132.7,
-          "tyrannical": 129.6,
-          "total": 264
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 16,
-        "duration": 1867914,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 131.7,
-          "tyrannical": 130,
-          "total": 263
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 15,
-        "duration": 2154309,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 126.4,
-          "tyrannical": 127.1,
-          "total": 254
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1588852,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132.2,
-          "tyrannical": 125.8,
-          "total": 261
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 15,
-        "duration": 1641800,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 126.9,
-          "tyrannical": 128.5,
-          "total": 256
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 1742071,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.2,
-          "tyrannical": 128.7,
-          "total": 257
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 1758061,
-        "rating": {
-          "fortified": 133.1,
-          "tyrannical": 127,
-          "total": 263
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 15,
-        "duration": 1684378,
-        "rating": {
-          "fortified": 128.3,
-          "tyrannical": 126.3,
-          "total": 256
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1153,91 +933,69 @@
     "name": "Grimmjob",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 20,
-        "duration": 1589285,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 133.3,
-          "tyrannical": 151.5,
-          "total": 294
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 20,
-        "duration": 1687138,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 130,
-          "tyrannical": 152.7,
-          "total": 294
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 20,
-        "duration": 3037049,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.3,
-          "tyrannical": 142.8,
-          "total": 283
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 15,
-        "duration": 1409028,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128.3,
-          "tyrannical": 119.2,
-          "total": 252
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 18,
-        "duration": 2617388,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 133.2,
-          "tyrannical": 129.2,
-          "total": 264
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 1742071,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128.1,
-          "tyrannical": 128.7,
-          "total": 257
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 15,
-        "duration": 1733674,
-        "rating": {
-          "fortified": 125.3,
-          "tyrannical": 128.2,
-          "total": 255
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 20,
-        "duration": 3124032,
-        "rating": {
-          "fortified": 128.3,
-          "tyrannical": 140.4,
-          "total": 275
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1268,91 +1026,69 @@
     "name": "Statreos",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 21,
-        "duration": 1532212,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 156.9,
-          "tyrannical": 146.2,
-          "total": 308
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 19,
-        "duration": 1624568,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 147.9,
-          "tyrannical": 148.1,
-          "total": 296
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 19,
-        "duration": 2321898,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 146.3,
-          "tyrannical": 145.8,
-          "total": 292
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 22,
-        "duration": 1770542,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 161,
-          "tyrannical": 142.4,
-          "total": 313
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 20,
-        "duration": 2049154,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151.3,
-          "tyrannical": 147.1,
-          "total": 300
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 22,
-        "duration": 2217040,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 161.2,
-          "tyrannical": 146.7,
-          "total": 315
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 20,
-        "duration": 2378647,
-        "rating": {
-          "fortified": 144.8,
-          "tyrannical": 135.6,
-          "total": 285
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 19,
-        "duration": 2212530,
-        "rating": {
-          "fortified": 145.4,
-          "tyrannical": 145.3,
-          "total": 291
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1383,91 +1119,69 @@
     "name": "Swizzle",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 15,
-        "duration": 1141531,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.1,
-          "tyrannical": 129.6,
-          "total": 258
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 15,
-        "duration": 1283410,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 130,
-          "tyrannical": 129.6,
-          "total": 260
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 15,
-        "duration": 1895795,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 116.1,
-          "tyrannical": 128.3,
-          "total": 250
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 15,
-        "duration": 1409028,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128.3,
-          "tyrannical": 115.6,
-          "total": 250
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 15,
-        "duration": 1450293,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 129.6,
-          "tyrannical": 128.5,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 1871416,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128,
-          "tyrannical": 127,
-          "total": 256
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 15,
-        "duration": 1756776,
-        "rating": {
-          "fortified": 121.6,
-          "tyrannical": 128.1,
-          "total": 253
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 15,
-        "duration": 1684378,
-        "rating": {
-          "fortified": 128.3,
-          "tyrannical": 128.2,
-          "total": 257
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1498,91 +1212,69 @@
     "name": "Dairy",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 17,
-        "duration": 1457542,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128,
-          "tyrannical": 137.4,
-          "total": 270
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 18,
-        "duration": 2053360,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 138.1,
-          "tyrannical": 140.6,
-          "total": 280
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 18,
-        "duration": 3069037,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 124,
-          "tyrannical": 132.6,
-          "total": 261
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1548251,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 119.9,
-          "tyrannical": 132.4,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 17,
-        "duration": 1995405,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 136.1,
-          "tyrannical": 136.6,
-          "total": 273
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 17,
-        "duration": 2675613,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128.9,
-          "tyrannical": 122.5,
-          "total": 255
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 18,
-        "duration": 2146069,
-        "rating": {
-          "fortified": 141,
-          "tyrannical": 129.2,
-          "total": 276
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 16,
-        "duration": 2175784,
-        "rating": {
-          "fortified": 130.6,
-          "tyrannical": 126.5,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1613,8 +1305,8 @@
     "name": "Sneaky",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
+        "id": 169,
+        "name": "Iron Docks",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1624,8 +1316,8 @@
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
+        "id": 166,
+        "name": "Grimrail Depot",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1635,8 +1327,8 @@
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1646,8 +1338,8 @@
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1657,8 +1349,8 @@
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1668,30 +1360,8 @@
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 0,
-        "duration": 0,
-        "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1728,91 +1398,69 @@
     "name": "Narraku",
     "dungeons": [
       {
-        "id": 375,
-        "name": "Mists of Tirna Scithe",
-        "level": 17,
-        "duration": 1530278,
+        "id": 169,
+        "name": "Iron Docks",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132.1,
-          "tyrannical": 136.9,
-          "total": 271
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 376,
-        "name": "The Necrotic Wake",
-        "level": 17,
-        "duration": 1755419,
+        "id": 166,
+        "name": "Grimrail Depot",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 129.8,
-          "tyrannical": 137.3,
-          "total": 271
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 377,
-        "name": "De Other Side",
-        "level": 16,
-        "duration": 2476441,
+        "id": 234,
+        "name": "Return to Karazhan: Upper",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 123.7,
-          "tyrannical": 130.5,
-          "total": 258
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 378,
-        "name": "Halls of Atonement",
-        "level": 15,
-        "duration": 1538062,
+        "id": 227,
+        "name": "Return to Karazhan: Lower",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.4,
-          "tyrannical": 127.5,
-          "total": 255
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 379,
-        "name": "Plaguefall",
-        "level": 16,
-        "duration": 1997868,
+        "id": 369,
+        "name": "Operation: Mechagon - Junkyard",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 129.4,
-          "tyrannical": 131.6,
-          "total": 262
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
-        "id": 380,
-        "name": "Sanguine Depths",
-        "level": 15,
-        "duration": 1724737,
+        "id": 370,
+        "name": "Operation: Mechagon - Workshop",
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.7,
-          "tyrannical": 128.7,
-          "total": 257
-        }
-      },
-      {
-        "id": 381,
-        "name": "Spires of Ascension",
-        "level": 16,
-        "duration": 1636054,
-        "rating": {
-          "fortified": 128.1,
-          "tyrannical": 133.8,
-          "total": 265
-        }
-      },
-      {
-        "id": 382,
-        "name": "Theater of Pain",
-        "level": 17,
-        "duration": 2538901,
-        "rating": {
-          "fortified": 128.6,
-          "tyrannical": 128.2,
-          "total": 257
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1821,9 +1469,9 @@
         "level": 15,
         "duration": 2279308,
         "rating": {
-          "fortified": 112.8,
+          "fortified": 0,
           "tyrannical": 116.7,
-          "total": 231
+          "total": 175
         }
       },
       {
@@ -1832,9 +1480,9 @@
         "level": 18,
         "duration": 1891531,
         "rating": {
-          "fortified": 131,
+          "fortified": 0,
           "tyrannical": 142.4,
-          "total": 279
+          "total": 214
         }
       }
     ]
