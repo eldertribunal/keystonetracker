@@ -2765,111 +2765,111 @@
       {
         "id": 375,
         "name": "Mists of Tirna Scithe",
-        "level": 16,
-        "duration": 1208590,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.1,
-          "tyrannical": 131.4,
-          "total": 267
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 376,
         "name": "The Necrotic Wake",
-        "level": 16,
-        "duration": 1545469,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 133.6,
-          "tyrannical": 130.7,
-          "total": 266
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 377,
         "name": "De Other Side",
-        "level": 17,
-        "duration": 2110897,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.3,
-          "tyrannical": 135.9,
-          "total": 274
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 378,
         "name": "Halls of Atonement",
-        "level": 16,
-        "duration": 1622041,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 120.8,
-          "tyrannical": 131.9,
-          "total": 258
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 379,
         "name": "Plaguefall",
-        "level": 17,
-        "duration": 2034640,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 131.6,
-          "tyrannical": 136.4,
-          "total": 270
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 380,
         "name": "Sanguine Depths",
-        "level": 18,
-        "duration": 2211755,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 141.3,
-          "tyrannical": 127.6,
-          "total": 276
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 381,
         "name": "Spires of Ascension",
-        "level": 17,
-        "duration": 2088708,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 136.3,
-          "tyrannical": 132,
-          "total": 270
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 382,
         "name": "Theater of Pain",
-        "level": 16,
-        "duration": 1825743,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 121.2,
-          "tyrannical": 132.5,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1421831,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132.6,
-          "tyrannical": 131.2,
-          "total": 264
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 16,
-        "duration": 1837481,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132.7,
-          "tyrannical": 132.5,
-          "total": 265
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
