@@ -191,12 +191,12 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 17,
-        "duration": 2259214,
+        "level": 16,
+        "duration": 1545396,
         "rating": {
-          "fortified": 0,
+          "fortified": 131.8,
           "tyrannical": 126.8,
-          "total": 190
+          "total": 261
         }
       },
       {
@@ -268,12 +268,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 0,
-        "duration": 0,
+        "level": 14,
+        "duration": 1754954,
         "rating": {
-          "total": 0,
+          "fortified": 123.1,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 185
         }
       }
     ]
@@ -749,12 +749,12 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 17,
-        "duration": 2259214,
+        "level": 16,
+        "duration": 1545396,
         "rating": {
-          "fortified": 121.2,
+          "fortified": 131.8,
           "tyrannical": 126.8,
-          "total": 251
+          "total": 261
         }
       },
       {
@@ -1294,9 +1294,9 @@
         "level": 16,
         "duration": 2551138,
         "rating": {
-          "fortified": 0,
+          "fortified": 123.1,
           "tyrannical": 123.9,
-          "total": 186
+          "total": 247
         }
       }
     ]
