@@ -771,12 +771,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 12,
-        "duration": 1963928,
+        "level": 16,
+        "duration": 1511480,
         "rating": {
-          "fortified": 110.8,
+          "fortified": 133.5,
           "tyrannical": 108,
-          "total": 220
+          "total": 254
         }
       },
       {
@@ -957,23 +957,23 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 12,
-        "duration": 5294887,
+        "level": 13,
+        "duration": 2022394,
         "rating": {
-          "fortified": 0,
+          "fortified": 115.5,
           "tyrannical": 0,
-          "total": 0
+          "total": 173
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 0,
-        "duration": 0,
+        "level": 11,
+        "duration": 3343665,
         "rating": {
-          "total": 0,
+          "fortified": 95.9,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 144
         }
       },
       {
