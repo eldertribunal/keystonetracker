@@ -771,12 +771,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 16,
-        "duration": 1511480,
+        "level": 17,
+        "duration": 1500989,
         "rating": {
-          "fortified": 133.5,
+          "fortified": 138.6,
           "tyrannical": 108,
-          "total": 254
+          "total": 262
         }
       },
       {
