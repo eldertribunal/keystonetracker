@@ -750,11 +750,11 @@
         "id": 169,
         "name": "Iron Docks",
         "level": 18,
-        "duration": 1968050,
+        "duration": 1608929,
         "rating": {
-          "fortified": 133.8,
+          "fortified": 141.3,
           "tyrannical": 126.8,
-          "total": 264
+          "total": 275
         }
       },
       {
@@ -782,12 +782,12 @@
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 15,
-        "duration": 2513872,
+        "level": 17,
+        "duration": 2759784,
         "rating": {
-          "fortified": 125,
+          "fortified": 128.8,
           "tyrannical": 63.7,
-          "total": 219
+          "total": 225
         }
       },
       {
