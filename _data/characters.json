@@ -1411,12 +1411,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 17,
-        "duration": 1556935,
+        "level": 16,
+        "duration": 1789223,
         "rating": {
-          "fortified": 136.7,
+          "fortified": 130.1,
           "tyrannical": 83.1,
-          "total": 247
+          "total": 237
         }
       },
       {
