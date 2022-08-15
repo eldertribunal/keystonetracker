@@ -1124,9 +1124,9 @@
         "level": 14,
         "duration": 1714958,
         "rating": {
-          "fortified": 111.6,
-          "tyrannical": 0,
-          "total": 167
+          "fortified": 120.6,
+          "tyrannical": 113.4,
+          "total": 238
         }
       },
       {
@@ -1228,9 +1228,9 @@
         "level": 8,
         "duration": 1354458,
         "rating": {
-          "fortified": 0,
+          "fortified": 72.7,
           "tyrannical": 83.1,
-          "total": 125
+          "total": 161
         }
       },
       {
