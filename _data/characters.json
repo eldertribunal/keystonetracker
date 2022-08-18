@@ -1653,22 +1653,22 @@
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
         "level": 15,
-        "duration": 1603805,
+        "duration": 1217143,
         "rating": {
           "fortified": 126.4,
-          "tyrannical": 107.9,
-          "total": 244
+          "tyrannical": 129.1,
+          "total": 257
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 14,
-        "duration": 1932198,
+        "level": 15,
+        "duration": 1703106,
         "rating": {
           "fortified": 122.2,
-          "tyrannical": 0,
-          "total": 183
+          "tyrannical": 128.4,
+          "total": 254
         }
       }
     ]
@@ -1969,12 +1969,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 14,
-        "duration": 1483477,
+        "level": 15,
+        "duration": 1403521,
         "rating": {
           "fortified": 122.2,
-          "tyrannical": 0,
-          "total": 183
+          "tyrannical": 127.8,
+          "total": 253
         }
       },
       {
