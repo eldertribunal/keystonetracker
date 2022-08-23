@@ -1214,12 +1214,12 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 6,
-        "duration": 1335069,
+        "level": 10,
+        "duration": 1812958,
         "rating": {
           "fortified": 68.2,
-          "tyrannical": 0,
-          "total": 102
+          "tyrannical": 94.9,
+          "total": 176
         }
       },
       {
