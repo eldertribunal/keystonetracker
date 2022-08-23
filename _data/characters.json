@@ -295,12 +295,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 2611459,
+        "level": 15,
+        "duration": 2107066,
         "rating": {
           "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "tyrannical": 117.9,
+          "total": 177
         }
       },
       {
@@ -392,8 +392,8 @@
         "duration": 1789223,
         "rating": {
           "fortified": 130.1,
-          "tyrannical": 86.4,
-          "total": 238
+          "tyrannical": 117.9,
+          "total": 254
         }
       },
       {
@@ -457,9 +457,9 @@
         "level": 16,
         "duration": 2048595,
         "rating": {
-          "fortified": 0,
+          "fortified": 128.4,
           "tyrannical": 131.6,
-          "total": 197
+          "total": 262
         }
       }
     ]
@@ -2051,23 +2051,23 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 10,
-        "duration": 1812958,
+        "level": 15,
+        "duration": 1629092,
         "rating": {
           "fortified": 68.2,
-          "tyrannical": 94.9,
-          "total": 176
+          "tyrannical": 126.2,
+          "total": 223
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 8,
-        "duration": 1354458,
+        "level": 15,
+        "duration": 2107066,
         "rating": {
           "fortified": 72.7,
-          "tyrannical": 83.1,
-          "total": 161
+          "tyrannical": 117.9,
+          "total": 213
         }
       },
       {
@@ -2129,11 +2129,11 @@
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
         "level": 16,
-        "duration": 2551138,
+        "duration": 2048595,
         "rating": {
           "fortified": 123.1,
-          "tyrannical": 123.9,
-          "total": 247
+          "tyrannical": 131.6,
+          "total": 259
         }
       }
     ]
