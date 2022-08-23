@@ -16,12 +16,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 2611459,
+        "level": 15,
+        "duration": 2107066,
         "rating": {
           "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "tyrannical": 117.9,
+          "total": 177
         }
       },
       {
@@ -82,12 +82,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 14,
-        "duration": 1694230,
+        "level": 16,
+        "duration": 2048595,
         "rating": {
           "fortified": 0,
-          "tyrannical": 123.5,
-          "total": 185
+          "tyrannical": 131.6,
+          "total": 197
         }
       }
     ]
