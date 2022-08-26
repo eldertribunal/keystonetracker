@@ -443,12 +443,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 17,
-        "duration": 1543680,
+        "level": 18,
+        "duration": 1461512,
         "rating": {
-          "fortified": 136.8,
+          "fortified": 142.4,
           "tyrannical": 102.9,
-          "total": 257
+          "total": 265
         }
       },
       {
@@ -1226,11 +1226,11 @@
         "id": 166,
         "name": "Grimrail Depot",
         "level": 16,
-        "duration": 1789223,
+        "duration": 1208655,
         "rating": {
-          "fortified": 130.1,
+          "fortified": 134.1,
           "tyrannical": 86.4,
-          "total": 238
+          "total": 244
         }
       },
       {
@@ -1280,12 +1280,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 12,
-        "duration": 1358216,
+        "level": 18,
+        "duration": 1461512,
         "rating": {
-          "fortified": 113.1,
+          "fortified": 142.4,
           "tyrannical": 102.9,
-          "total": 221
+          "total": 265
         }
       },
       {
