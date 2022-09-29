@@ -1608,12 +1608,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 17,
-        "duration": 2578929,
+        "level": 15,
+        "duration": 1569171,
         "rating": {
           "fortified": 127.2,
-          "tyrannical": 0,
-          "total": 191
+          "tyrannical": 128.2,
+          "total": 256
         }
       },
       {
