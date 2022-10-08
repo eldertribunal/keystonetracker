@@ -388,12 +388,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 1338358,
+        "level": 17,
+        "duration": 1437614,
         "rating": {
-          "fortified": 133.2,
+          "fortified": 137.5,
           "tyrannical": 117.9,
-          "total": 259
+          "total": 265
         }
       },
       {
@@ -1412,11 +1412,11 @@
         "id": 166,
         "name": "Grimrail Depot",
         "level": 17,
-        "duration": 1556935,
+        "duration": 1437614,
         "rating": {
-          "fortified": 136.7,
+          "fortified": 137.5,
           "tyrannical": 134.8,
-          "total": 272
+          "total": 274
         }
       },
       {
