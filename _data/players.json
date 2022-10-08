@@ -271,9 +271,9 @@
         "level": 16,
         "duration": 1760998,
         "rating": {
-          "fortified": 128.4,
-          "tyrannical": 0,
-          "total": 193
+          "fortified": 133.1,
+          "tyrannical": 131.6,
+          "total": 265
         }
       }
     ]
@@ -1121,12 +1121,12 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 15,
-        "duration": 1741322,
+        "level": 19,
+        "duration": 1551860,
         "rating": {
           "fortified": 120.6,
-          "tyrannical": 125.4,
-          "total": 248
+          "tyrannical": 0,
+          "total": 181
         }
       },
       {
