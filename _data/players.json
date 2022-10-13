@@ -98,12 +98,12 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 14,
-        "duration": 1303027,
+        "level": 21,
+        "duration": 1704447,
         "rating": {
           "fortified": 113,
-          "tyrannical": 123.5,
-          "total": 242
+          "tyrannical": 155.7,
+          "total": 290
         }
       },
       {
@@ -164,12 +164,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 14,
-        "duration": 1220298,
+        "level": 19,
+        "duration": 1362053,
         "rating": {
           "fortified": 124,
-          "tyrannical": 0,
-          "total": 186
+          "tyrannical": 148,
+          "total": 284
         }
       },
       {
