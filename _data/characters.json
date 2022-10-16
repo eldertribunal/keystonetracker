@@ -1601,8 +1601,8 @@
         "duration": 1206763,
         "rating": {
           "fortified": 134.1,
-          "tyrannical": 107.2,
-          "total": 255
+          "tyrannical": 0,
+          "total": 201
         }
       },
       {
