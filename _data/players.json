@@ -749,45 +749,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 0,
-        "duration": 0,
+        "level": 21,
+        "duration": 1704447,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 151,
+          "tyrannical": 155.7,
+          "total": 309
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 0,
-        "duration": 0,
+        "level": 21,
+        "duration": 1617309,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 137.5,
+          "tyrannical": 156.3,
+          "total": 303
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 0,
-        "duration": 0,
+        "level": 20,
+        "duration": 1658170,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 152.6,
+          "tyrannical": 131.5,
+          "total": 295
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 16,
-        "duration": 2083885,
+        "level": 21,
+        "duration": 2453539,
         "rating": {
-          "fortified": 132.2,
-          "tyrannical": 0,
-          "total": 198
+          "fortified": 155.3,
+          "tyrannical": 145.7,
+          "total": 306
         }
       },
       {
@@ -815,23 +815,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 0,
-        "duration": 0,
+        "level": 19,
+        "duration": 1362053,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 146.2,
+          "tyrannical": 148,
+          "total": 295
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 13,
-        "duration": 1873365,
+        "level": 21,
+        "duration": 2005977,
         "rating": {
-          "fortified": 117.5,
-          "tyrannical": 0,
-          "total": 176
+          "fortified": 156.8,
+          "tyrannical": 147.8,
+          "total": 309
         }
       }
     ]
