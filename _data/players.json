@@ -503,12 +503,12 @@
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 2,
-        "duration": 1074263,
+        "level": 4,
+        "duration": 2013223,
         "rating": {
           "fortified": 0,
-          "tyrannical": 45,
-          "total": 68
+          "tyrannical": 57.5,
+          "total": 86
         }
       },
       {
@@ -547,12 +547,12 @@
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1040480,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 45,
+          "total": 68
         }
       }
     ]
