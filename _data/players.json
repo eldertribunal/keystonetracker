@@ -481,12 +481,12 @@
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 880823,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 45,
+          "total": 68
         }
       },
       {
@@ -503,12 +503,12 @@
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1074263,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 45,
+          "total": 68
         }
       },
       {
