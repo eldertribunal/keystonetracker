@@ -1061,12 +1061,12 @@
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 1942316,
         "rating": {
-          "total": 0,
+          "fortified": 82.9,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 124
         }
       },
       {
