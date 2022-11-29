@@ -5,45 +5,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 17,
-        "duration": 2259214,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 126.8,
-          "total": 190
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 1338358,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 133.2,
-          "tyrannical": 117.9,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 11,
-        "duration": 1592694,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 108,
-          "total": 162
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 10,
-        "duration": 2161026,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 101.8,
-          "total": 153
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -71,23 +71,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 17,
-        "duration": 2032755,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 128.4,
-          "total": 193
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 16,
-        "duration": 2048595,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 131.6,
-          "total": 197
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -98,45 +98,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 21,
-        "duration": 1704447,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 113,
-          "tyrannical": 155.7,
-          "total": 290
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 15,
-        "duration": 1059262,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 117.8,
-          "tyrannical": 130,
-          "total": 254
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 15,
-        "duration": 1435857,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 129,
-          "tyrannical": 118.9,
-          "total": 253
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 15,
-        "duration": 2007276,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.5,
-          "tyrannical": 114.1,
-          "total": 248
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -164,23 +164,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 19,
-        "duration": 1362053,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 124,
-          "tyrannical": 148,
-          "total": 284
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 19,
-        "duration": 1810929,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 129.5,
-          "tyrannical": 147.8,
-          "total": 286
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -191,45 +191,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 21,
-        "duration": 1704447,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 146.7,
-          "tyrannical": 155.7,
-          "total": 307
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 21,
-        "duration": 1617309,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.5,
-          "tyrannical": 156.3,
-          "total": 303
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 16,
-        "duration": 2081216,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 130.1,
-          "tyrannical": 108,
-          "total": 249
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 15,
-        "duration": 2409355,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 125.6,
-          "tyrannical": 106.6,
-          "total": 242
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -257,23 +257,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 19,
-        "duration": 1362053,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 142.4,
-          "tyrannical": 148,
-          "total": 293
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 19,
-        "duration": 1810929,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 133.1,
-          "tyrannical": 147.8,
-          "total": 288
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -306,12 +306,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 3,
-        "duration": 1135842,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 50,
-          "total": 75
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -399,12 +399,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 17,
-        "duration": 2578929,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.2,
+          "total": 0,
           "tyrannical": 0,
-          "total": 191
+          "fortified": 0
         }
       },
       {
@@ -443,12 +443,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 5,
-        "duration": 1012977,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 65,
+          "total": 0,
           "tyrannical": 0,
-          "total": 98
+          "fortified": 0
         }
       },
       {
@@ -470,45 +470,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 4,
-        "duration": 875451,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 60,
-          "total": 90
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 2,
-        "duration": 880823,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 45,
-          "total": 68
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 2,
-        "duration": 970968,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 45,
-          "total": 68
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 4,
-        "duration": 2013223,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 57.5,
-          "total": 86
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -536,23 +536,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 6,
-        "duration": 955401,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 70,
-          "total": 105
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 4,
-        "duration": 1110154,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 60,
-          "total": 90
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -596,12 +596,12 @@
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 15,
-        "duration": 4183068,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
+          "total": 0,
           "tyrannical": 0,
-          "total": 0
+          "fortified": 0
         }
       },
       {
@@ -629,12 +629,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 5,
-        "duration": 813295,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 65,
+          "total": 0,
           "tyrannical": 0,
-          "total": 98
+          "fortified": 0
         }
       },
       {
@@ -656,45 +656,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 12,
-        "duration": 1945459,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 45,
-          "tyrannical": 104,
-          "total": 178
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 1208655,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.1,
-          "tyrannical": 86.4,
-          "total": 244
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 7,
-        "duration": 1729095,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 77.2,
-          "total": 116
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 8,
-        "duration": 2235849,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 81.4,
+          "total": 0,
           "tyrannical": 0,
-          "total": 122
+          "fortified": 0
         }
       },
       {
@@ -722,23 +722,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 18,
-        "duration": 1461512,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 142.4,
-          "tyrannical": 102.9,
-          "total": 265
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 13,
-        "duration": 1873365,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 117.5,
+          "total": 0,
           "tyrannical": 0,
-          "total": 176
+          "fortified": 0
         }
       }
     ]
@@ -749,45 +749,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 21,
-        "duration": 1704447,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 151,
-          "tyrannical": 155.7,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 21,
-        "duration": 1617309,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 137.5,
-          "tyrannical": 156.3,
-          "total": 303
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 20,
-        "duration": 1658170,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 152.6,
-          "tyrannical": 131.5,
-          "total": 295
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 21,
-        "duration": 2453539,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 155.3,
-          "tyrannical": 145.7,
-          "total": 306
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -815,23 +815,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 19,
-        "duration": 1362053,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 146.2,
-          "tyrannical": 148,
-          "total": 295
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 21,
-        "duration": 2005977,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 156.8,
-          "tyrannical": 147.8,
-          "total": 309
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -864,12 +864,12 @@
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 12,
-        "duration": 5294887,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
+          "total": 0,
           "tyrannical": 0,
-          "total": 0
+          "fortified": 0
         }
       },
       {
@@ -908,12 +908,12 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 11,
-        "duration": 1380454,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 0,
-          "tyrannical": 107.9,
-          "total": 162
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -935,45 +935,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 15,
-        "duration": 1590692,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 126.5,
-          "tyrannical": 120.8,
-          "total": 250
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 21,
-        "duration": 1617309,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.1,
-          "tyrannical": 156.3,
-          "total": 302
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 15,
-        "duration": 1569171,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 127.2,
-          "tyrannical": 128.2,
-          "total": 256
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 15,
-        "duration": 2273546,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 125.6,
-          "tyrannical": 126.2,
-          "total": 252
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1001,23 +1001,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1533662,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 131.9,
-          "tyrannical": 129.3,
-          "total": 262
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 17,
-        "duration": 1721388,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 122.2,
-          "tyrannical": 138.3,
-          "total": 269
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -1121,45 +1121,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 19,
-        "duration": 1551860,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 146.7,
-          "tyrannical": 125.4,
-          "total": 283
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 16,
-        "duration": 1131353,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 134.1,
-          "tyrannical": 134.6,
-          "total": 269
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 15,
-        "duration": 1569171,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 115.5,
-          "tyrannical": 128.2,
-          "total": 250
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 14,
-        "duration": 2520288,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 95.9,
-          "tyrannical": 120,
-          "total": 228
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1187,23 +1187,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 16,
-        "duration": 1384399,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 126.4,
-          "tyrannical": 132.9,
-          "total": 263
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 17,
-        "duration": 1721388,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 122.2,
-          "tyrannical": 138.3,
-          "total": 269
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
@@ -1214,45 +1214,45 @@
       {
         "id": 169,
         "name": "Iron Docks",
-        "level": 15,
-        "duration": 1629092,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 124.6,
-          "tyrannical": 126.2,
-          "total": 252
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 166,
         "name": "Grimrail Depot",
-        "level": 14,
-        "duration": 1304256,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 123.4,
-          "tyrannical": 117.9,
-          "total": 244
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 234,
         "name": "Return to Karazhan: Upper",
-        "level": 15,
-        "duration": 1597013,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 128,
-          "tyrannical": 80,
-          "total": 232
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 227,
         "name": "Return to Karazhan: Lower",
-        "level": 16,
-        "duration": 2114470,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 132,
-          "tyrannical": 116.3,
-          "total": 256
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
@@ -1280,23 +1280,23 @@
       {
         "id": 392,
         "name": "Tazavesh: So'leah's Gambit",
-        "level": 17,
-        "duration": 1798205,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 135,
-          "tyrannical": 112.5,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       },
       {
         "id": 391,
         "name": "Tazavesh: Streets of Wonder",
-        "level": 16,
-        "duration": 2048595,
+        "level": 0,
+        "duration": 0,
         "rating": {
-          "fortified": 123.1,
-          "tyrannical": 131.6,
-          "total": 259
+          "total": 0,
+          "tyrannical": 0,
+          "fortified": 0
         }
       }
     ]
