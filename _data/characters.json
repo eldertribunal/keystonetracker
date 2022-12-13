@@ -224,12 +224,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1182871,
         "rating": {
-          "total": 0,
+          "fortified": 45,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 68
         }
       },
       {
@@ -1246,12 +1246,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 797055,
         "rating": {
-          "total": 0,
+          "fortified": 45,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 68
         }
       },
       {
@@ -1301,12 +1301,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 0,
-        "duration": 0,
+        "level": 5,
+        "duration": 1234743,
         "rating": {
-          "total": 0,
+          "fortified": 64.5,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 97
         }
       }
     ]
