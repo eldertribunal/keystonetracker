@@ -251,12 +251,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 0,
-        "duration": 0,
+        "level": 5,
+        "duration": 1046247,
         "rating": {
-          "total": 0,
+          "fortified": 65,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 98
         }
       },
       {
@@ -705,12 +705,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 0,
-        "duration": 0,
+        "level": 4,
+        "duration": 1310611,
         "rating": {
-          "total": 0,
+          "fortified": 60,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 90
         }
       },
       {
