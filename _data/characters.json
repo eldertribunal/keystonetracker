@@ -224,12 +224,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 2,
-        "duration": 1182871,
+        "level": 8,
+        "duration": 1945861,
         "rating": {
-          "fortified": 45,
+          "fortified": 80.6,
           "tyrannical": 0,
-          "total": 68
+          "total": 121
         }
       },
       {
@@ -634,12 +634,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 0,
-        "duration": 0,
+        "level": 8,
+        "duration": 1945861,
         "rating": {
-          "total": 0,
+          "fortified": 80.6,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 121
         }
       },
       {
@@ -1175,12 +1175,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1476317,
         "rating": {
-          "total": 0,
+          "fortified": 44.4,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 67
         }
       },
       {
