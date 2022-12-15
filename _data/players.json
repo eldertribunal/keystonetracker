@@ -38,12 +38,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 0,
-        "duration": 0,
+        "level": 7,
+        "duration": 1566146,
         "rating": {
-          "total": 0,
+          "fortified": 76.6,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 115
         }
       },
       {
@@ -120,12 +120,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 0,
-        "duration": 0,
+        "level": 7,
+        "duration": 1566146,
         "rating": {
-          "total": 0,
+          "fortified": 76.6,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 115
         }
       },
       {
@@ -202,12 +202,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 0,
-        "duration": 0,
+        "level": 7,
+        "duration": 1566146,
         "rating": {
-          "total": 0,
+          "fortified": 76.6,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 115
         }
       },
       {
