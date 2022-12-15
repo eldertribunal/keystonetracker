@@ -71,12 +71,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 2,
-        "duration": 1065366,
+        "level": 7,
+        "duration": 1580658,
         "rating": {
-          "fortified": 45,
+          "fortified": 77.2,
           "tyrannical": 0,
-          "total": 68
+          "total": 116
         }
       }
     ]
