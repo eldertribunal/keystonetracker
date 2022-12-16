@@ -1268,12 +1268,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 8,
-        "duration": 1553162,
+        "level": 10,
+        "duration": 1632159,
         "rating": {
-          "fortified": 81.7,
+          "fortified": 101.2,
           "tyrannical": 0,
-          "total": 123
+          "total": 152
         }
       },
       {
