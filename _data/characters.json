@@ -1198,22 +1198,22 @@
         "id": 400,
         "name": "The Nokhud Offensive",
         "level": 2,
-        "duration": 1475233,
+        "duration": 1358526,
         "rating": {
-          "fortified": 44.8,
+          "fortified": 45,
           "tyrannical": 0,
-          "total": 67
+          "total": 68
         }
       },
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 0,
-        "duration": 0,
+        "level": 5,
+        "duration": 1850706,
         "rating": {
-          "total": 0,
+          "fortified": 61.2,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 92
         }
       },
       {
