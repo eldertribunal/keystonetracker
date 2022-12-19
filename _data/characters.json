@@ -399,12 +399,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1568249,
         "rating": {
-          "total": 0,
+          "fortified": 42.3,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 63
         }
       }
     ]
@@ -1864,23 +1864,23 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1914515,
         "rating": {
-          "total": 0,
+          "fortified": 40.8,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 61
         }
       },
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1568249,
         "rating": {
-          "total": 0,
+          "fortified": 42.3,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 63
         }
       }
     ]
