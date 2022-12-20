@@ -825,12 +825,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 2,
-        "duration": 941346,
+        "level": 8,
+        "duration": 1307981,
         "rating": {
-          "fortified": 45,
+          "fortified": 83.4,
           "tyrannical": 0,
-          "total": 68
+          "total": 125
         }
       },
       {
@@ -989,12 +989,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 2,
-        "duration": 941346,
+        "level": 8,
+        "duration": 1307981,
         "rating": {
-          "fortified": 45,
+          "fortified": 83.4,
           "tyrannical": 0,
-          "total": 68
+          "total": 125
         }
       },
       {
