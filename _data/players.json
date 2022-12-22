@@ -64,8 +64,8 @@
         "duration": 1606766,
         "rating": {
           "fortified": 87.7,
-          "tyrannical": 0,
-          "total": 132
+          "tyrannical": 83.6,
+          "total": 173
         }
       },
       {
@@ -307,11 +307,11 @@
         "id": 401,
         "name": "The Azure Vault",
         "level": 8,
-        "duration": 1945861,
+        "duration": 1449005,
         "rating": {
           "fortified": 80.6,
-          "tyrannical": 0,
-          "total": 121
+          "tyrannical": 83.6,
+          "total": 166
         }
       },
       {
