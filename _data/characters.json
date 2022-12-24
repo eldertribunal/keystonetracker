@@ -213,12 +213,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2608936,
+        "level": 12,
+        "duration": 3059339,
         "rating": {
           "fortified": 100.9,
-          "tyrannical": 100.8,
-          "total": 202
+          "tyrannical": 105.6,
+          "total": 209
         }
       },
       {
@@ -623,12 +623,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2608936,
+        "level": 12,
+        "duration": 3059339,
         "rating": {
           "fortified": 100.9,
-          "tyrannical": 0,
-          "total": 151
+          "tyrannical": 105.6,
+          "total": 209
         }
       },
       {
@@ -1279,12 +1279,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2494940,
+        "level": 12,
+        "duration": 3059339,
         "rating": {
           "fortified": 101.5,
-          "tyrannical": 100.8,
-          "total": 203
+          "tyrannical": 105.6,
+          "total": 209
         }
       },
       {
@@ -1443,12 +1443,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 5,
-        "duration": 1685993,
+        "level": 8,
+        "duration": 1615894,
         "rating": {
           "fortified": 63.7,
-          "tyrannical": 0,
-          "total": 96
+          "tyrannical": 84.1,
+          "total": 158
         }
       },
       {
@@ -1771,12 +1771,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2637527,
+        "level": 12,
+        "duration": 3059339,
         "rating": {
           "fortified": 63.7,
-          "tyrannical": 100.8,
-          "total": 183
+          "tyrannical": 105.6,
+          "total": 190
         }
       },
       {
