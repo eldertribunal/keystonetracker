@@ -217,8 +217,8 @@
         "duration": 2608936,
         "rating": {
           "fortified": 100.9,
-          "tyrannical": 73.8,
-          "total": 188
+          "tyrannical": 100.8,
+          "total": 202
         }
       },
       {
@@ -381,8 +381,8 @@
         "duration": 2608936,
         "rating": {
           "fortified": 100.9,
-          "tyrannical": 0,
-          "total": 151
+          "tyrannical": 100.8,
+          "total": 202
         }
       },
       {
@@ -1283,8 +1283,8 @@
         "duration": 2494940,
         "rating": {
           "fortified": 101.5,
-          "tyrannical": 0,
-          "total": 152
+          "tyrannical": 100.8,
+          "total": 203
         }
       },
       {
@@ -1771,12 +1771,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 5,
-        "duration": 1685993,
+        "level": 11,
+        "duration": 2637527,
         "rating": {
           "fortified": 63.7,
-          "tyrannical": 0,
-          "total": 96
+          "tyrannical": 100.8,
+          "total": 183
         }
       },
       {
