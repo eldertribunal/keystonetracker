@@ -191,12 +191,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 5,
-        "duration": 1533623,
+        "level": 11,
+        "duration": 2718476,
         "rating": {
           "fortified": 64.1,
-          "tyrannical": 0,
-          "total": 96
+          "tyrannical": 99.6,
+          "total": 181
         }
       },
       {
@@ -687,8 +687,8 @@
         "duration": 2704004,
         "rating": {
           "fortified": 99.7,
-          "tyrannical": 0,
-          "total": 150
+          "tyrannical": 99.6,
+          "total": 199
         }
       },
       {
@@ -1093,12 +1093,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 0,
-        "duration": 0,
+        "level": 11,
+        "duration": 2718476,
         "rating": {
-          "total": 0,
-          "tyrannical": 0,
-          "fortified": 0
+          "fortified": 0,
+          "tyrannical": 99.6,
+          "total": 149
         }
       },
       {
