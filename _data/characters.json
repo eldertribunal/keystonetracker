@@ -235,12 +235,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 8,
-        "duration": 1541904,
+        "level": 12,
+        "duration": 1507071,
         "rating": {
           "fortified": 78.5,
-          "tyrannical": 82.5,
-          "total": 163
+          "tyrannical": 116.7,
+          "total": 214
         }
       }
     ]
@@ -646,11 +646,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 12,
-        "duration": 1950867,
+        "duration": 1507071,
         "rating": {
           "fortified": 108.8,
-          "tyrannical": 0,
-          "total": 163
+          "tyrannical": 116.7,
+          "total": 229
         }
       }
     ]
@@ -1301,12 +1301,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 9,
-        "duration": 1220364,
+        "level": 12,
+        "duration": 1507071,
         "rating": {
           "fortified": 89.6,
-          "tyrannical": 0,
-          "total": 134
+          "tyrannical": 116.7,
+          "total": 220
         }
       }
     ]
