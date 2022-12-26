@@ -400,11 +400,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 2,
-        "duration": 1568249,
+        "duration": 1227036,
         "rating": {
           "fortified": 42.3,
-          "tyrannical": 0,
-          "total": 63
+          "tyrannical": 44.5,
+          "total": 88
         }
       }
     ]
@@ -1164,12 +1164,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 4,
-        "duration": 961035,
+        "level": 7,
+        "duration": 1660290,
         "rating": {
           "fortified": 60,
-          "tyrannical": 45,
-          "total": 112
+          "tyrannical": 77,
+          "total": 146
         }
       },
       {
@@ -1223,8 +1223,8 @@
         "duration": 1855914,
         "rating": {
           "fortified": 85.4,
-          "tyrannical": 0,
-          "total": 128
+          "tyrannical": 44.5,
+          "total": 150
         }
       }
     ]
