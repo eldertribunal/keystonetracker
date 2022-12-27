@@ -317,12 +317,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 9,
-        "duration": 1855914,
+        "level": 10,
+        "duration": 1423249,
         "rating": {
           "fortified": 85.4,
-          "tyrannical": 0,
-          "total": 128
+          "tyrannical": 103.2,
+          "total": 198
         }
       }
     ]
@@ -579,12 +579,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 9,
-        "duration": 1469595,
+        "level": 11,
+        "duration": 1473235,
         "rating": {
           "fortified": 87.3,
-          "tyrannical": 0,
-          "total": 131
+          "tyrannical": 109.3,
+          "total": 208
         }
       },
       {
