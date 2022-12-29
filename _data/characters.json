@@ -109,12 +109,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 0,
-        "duration": 0,
+        "level": 5,
+        "duration": 1786743,
         "rating": {
-          "total": 0,
+          "fortified": 62.7,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 94
         }
       },
       {
@@ -131,23 +131,23 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 0,
-        "duration": 0,
+        "level": 2,
+        "duration": 1459453,
         "rating": {
-          "total": 0,
+          "fortified": 44.9,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 67
         }
       },
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 2,
-        "duration": 1237488,
+        "level": 4,
+        "duration": 1733204,
         "rating": {
-          "fortified": 44.9,
+          "fortified": 56.9,
           "tyrannical": 0,
-          "total": 67
+          "total": 85
         }
       },
       {
