@@ -109,19 +109,19 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 5,
-        "duration": 1786743,
+        "level": 6,
+        "duration": 2010722,
         "rating": {
-          "fortified": 62.7,
+          "fortified": 66.5,
           "tyrannical": 0,
-          "total": 94
+          "total": 100
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
         "level": 2,
-        "duration": 892256,
+        "duration": 860762,
         "rating": {
           "fortified": 45,
           "tyrannical": 0,
