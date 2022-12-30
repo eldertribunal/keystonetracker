@@ -273,12 +273,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 10,
-        "duration": 2098236,
+        "level": 13,
+        "duration": 2186985,
         "rating": {
-          "fortified": 77.9,
+          "fortified": 121.5,
           "tyrannical": 101,
-          "total": 190
+          "total": 233
         }
       },
       {
@@ -295,12 +295,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 10,
-        "duration": 1874321,
+        "level": 14,
+        "duration": 2570371,
         "rating": {
-          "fortified": 86.9,
+          "fortified": 122.1,
           "tyrannical": 102.7,
-          "total": 198
+          "total": 234
         }
       },
       {
