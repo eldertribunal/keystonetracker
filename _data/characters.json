@@ -1235,12 +1235,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 11,
-        "duration": 1234181,
+        "level": 13,
+        "duration": 1635662,
         "rating": {
-          "fortified": 88.1,
+          "fortified": 122.1,
           "tyrannical": 110.9,
-          "total": 210
+          "total": 239
         }
       },
       {
@@ -1257,12 +1257,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 11,
-        "duration": 2704004,
+        "level": 13,
+        "duration": 2991003,
         "rating": {
-          "fortified": 99.7,
+          "fortified": 112.1,
           "tyrannical": 99.6,
-          "total": 199
+          "total": 218
         }
       },
       {
@@ -1290,12 +1290,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 11,
-        "duration": 2120193,
+        "level": 13,
+        "duration": 2105986,
         "rating": {
-          "fortified": 87.6,
+          "fortified": 115.6,
           "tyrannical": 101.5,
-          "total": 196
+          "total": 224
         }
       },
       {
