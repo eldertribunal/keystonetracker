@@ -1432,12 +1432,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 8,
-        "duration": 1951206,
+        "level": 11,
+        "duration": 1969929,
         "rating": {
-          "fortified": 74,
+          "fortified": 100.8,
           "tyrannical": 71.9,
-          "total": 147
+          "total": 187
         }
       },
       {
@@ -1794,11 +1794,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 11,
-        "duration": 1772517,
+        "duration": 1425228,
         "rating": {
-          "fortified": 108,
+          "fortified": 110.2,
           "tyrannical": 0,
-          "total": 162
+          "total": 165
         }
       }
     ]
