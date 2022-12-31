@@ -87,12 +87,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 0,
-        "duration": 0,
+        "level": 13,
+        "duration": 1731818,
         "rating": {
-          "total": 0,
+          "fortified": 121.5,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 182
         }
       },
       {
@@ -109,34 +109,34 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 6,
-        "duration": 2010722,
+        "level": 13,
+        "duration": 2597373,
         "rating": {
-          "fortified": 66.5,
+          "fortified": 114.3,
           "tyrannical": 0,
-          "total": 100
+          "total": 171
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 2,
-        "duration": 860762,
+        "level": 12,
+        "duration": 2245689,
         "rating": {
-          "fortified": 45,
+          "fortified": 105.9,
           "tyrannical": 0,
-          "total": 68
+          "total": 159
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 2,
-        "duration": 1459453,
+        "level": 12,
+        "duration": 2145828,
         "rating": {
-          "fortified": 44.9,
+          "fortified": 115.3,
           "tyrannical": 0,
-          "total": 67
+          "total": 173
         }
       },
       {
@@ -333,12 +333,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 12,
-        "duration": 1423471,
+        "level": 13,
+        "duration": 1731818,
         "rating": {
-          "fortified": 116.6,
+          "fortified": 121.5,
           "tyrannical": 110.9,
-          "total": 230
+          "total": 238
         }
       },
       {
@@ -377,12 +377,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2608936,
+        "level": 12,
+        "duration": 2145828,
         "rating": {
-          "fortified": 100.9,
+          "fortified": 115.3,
           "tyrannical": 100.8,
-          "total": 202
+          "total": 223
         }
       },
       {
@@ -1258,11 +1258,11 @@
         "id": 200,
         "name": "Halls of Valor",
         "level": 13,
-        "duration": 2991003,
+        "duration": 2597373,
         "rating": {
-          "fortified": 112.1,
+          "fortified": 114.3,
           "tyrannical": 99.6,
-          "total": 218
+          "total": 221
         }
       },
       {
@@ -1280,11 +1280,11 @@
         "id": 400,
         "name": "The Nokhud Offensive",
         "level": 12,
-        "duration": 2748837,
+        "duration": 2145828,
         "rating": {
-          "fortified": 107.2,
+          "fortified": 115.3,
           "tyrannical": 105.6,
-          "total": 214
+          "total": 226
         }
       },
       {
