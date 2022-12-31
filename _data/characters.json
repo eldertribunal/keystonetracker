@@ -98,12 +98,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 6,
-        "duration": 1089615,
+        "level": 10,
+        "duration": 1156526,
         "rating": {
-          "fortified": 70,
+          "fortified": 105,
           "tyrannical": 0,
-          "total": 105
+          "total": 158
         }
       },
       {
@@ -224,12 +224,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 11,
-        "duration": 1998783,
+        "level": 14,
+        "duration": 2453980,
         "rating": {
-          "fortified": 87.7,
+          "fortified": 120.5,
           "tyrannical": 107.3,
-          "total": 205
+          "total": 234
         }
       },
       {
@@ -919,7 +919,7 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 10,
-        "duration": 1179276,
+        "duration": 1156526,
         "rating": {
           "fortified": 105,
           "tyrannical": 0,
@@ -951,23 +951,23 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2608936,
+        "level": 13,
+        "duration": 1700409,
         "rating": {
-          "fortified": 100.9,
+          "fortified": 124.6,
           "tyrannical": 0,
-          "total": 151
+          "total": 187
         }
       },
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 5,
-        "duration": 1408850,
+        "level": 14,
+        "duration": 2453980,
         "rating": {
-          "fortified": 63.9,
+          "fortified": 120.5,
           "tyrannical": 0,
-          "total": 96
+          "total": 181
         }
       },
       {
