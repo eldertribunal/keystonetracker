@@ -1793,12 +1793,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 8,
-        "duration": 1179364,
+        "level": 11,
+        "duration": 1772517,
         "rating": {
-          "fortified": 84.8,
+          "fortified": 108,
           "tyrannical": 0,
-          "total": 127
+          "total": 162
         }
       }
     ]
