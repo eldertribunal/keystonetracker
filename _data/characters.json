@@ -929,12 +929,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 5,
-        "duration": 1832718,
+        "level": 11,
+        "duration": 2237284,
         "rating": {
-          "fortified": 62.5,
+          "fortified": 107.2,
           "tyrannical": 0,
-          "total": 94
+          "total": 161
         }
       },
       {
@@ -1153,12 +1153,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 7,
-        "duration": 1855799,
+        "level": 12,
+        "duration": 2383960,
         "rating": {
-          "fortified": 69.6,
+          "fortified": 105,
           "tyrannical": 67.2,
-          "total": 138
+          "total": 191
         }
       },
       {
@@ -1175,12 +1175,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 9,
-        "duration": 2105784,
+        "level": 11,
+        "duration": 2237284,
         "rating": {
-          "fortified": 86,
+          "fortified": 107.2,
           "tyrannical": 63.5,
-          "total": 161
+          "total": 193
         }
       },
       {
