@@ -16,12 +16,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1887231,
+        "level": 15,
+        "duration": 1459152,
         "rating": {
-          "fortified": 105,
+          "fortified": 138.3,
           "tyrannical": 121.6,
-          "total": 235
+          "total": 268
         }
       },
       {
@@ -71,12 +71,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 12,
-        "duration": 1507071,
+        "level": 13,
+        "duration": 1411564,
         "rating": {
-          "fortified": 116.6,
+          "fortified": 124.3,
           "tyrannical": 116.7,
-          "total": 233
+          "total": 245
         }
       }
     ]
@@ -180,12 +180,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1887231,
+        "level": 15,
+        "duration": 1459152,
         "rating": {
-          "fortified": 105,
+          "fortified": 138.3,
           "tyrannical": 121.6,
-          "total": 235
+          "total": 268
         }
       },
       {
@@ -262,12 +262,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1202161,
+        "level": 15,
+        "duration": 1459152,
         "rating": {
-          "fortified": 125.9,
+          "fortified": 138.3,
           "tyrannical": 118.9,
-          "total": 248
+          "total": 267
         }
       },
       {
@@ -563,12 +563,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 0,
-        "duration": 0,
+        "level": 13,
+        "duration": 1411564,
         "rating": {
-          "total": 0,
+          "fortified": 124.3,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 186
         }
       }
     ]
@@ -836,12 +836,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 5,
-        "duration": 919618,
+        "level": 15,
+        "duration": 1459152,
         "rating": {
-          "fortified": 0,
+          "fortified": 138.3,
           "tyrannical": 65,
-          "total": 98
+          "total": 240
         }
       },
       {
