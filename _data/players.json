@@ -1104,23 +1104,23 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 0,
-        "duration": 0,
+        "level": 6,
+        "duration": 2010009,
         "rating": {
-          "total": 0,
+          "fortified": 58.5,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 88
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 0,
-        "duration": 0,
+        "level": 5,
+        "duration": 2348904,
         "rating": {
-          "total": 0,
+          "fortified": 60.3,
           "tyrannical": 0,
-          "fortified": 0
+          "total": 90
         }
       },
       {
