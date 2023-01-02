@@ -1246,12 +1246,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1887231,
+        "level": 14,
+        "duration": 1511007,
         "rating": {
-          "fortified": 110.3,
+          "fortified": 131,
           "tyrannical": 121.6,
-          "total": 238
+          "total": 257
         }
       },
       {
