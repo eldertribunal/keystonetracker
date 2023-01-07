@@ -381,19 +381,19 @@
         "duration": 2145828,
         "rating": {
           "fortified": 115.3,
-          "tyrannical": 100.8,
-          "total": 223
+          "tyrannical": 104.9,
+          "total": 225
         }
       },
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 7,
-        "duration": 1611252,
+        "level": 11,
+        "duration": 2649632,
         "rating": {
           "fortified": 77.6,
-          "tyrannical": 69.7,
-          "total": 151
+          "tyrannical": 98.3,
+          "total": 186
         }
       },
       {
@@ -1153,12 +1153,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 12,
-        "duration": 2383960,
+        "level": 11,
+        "duration": 1685524,
         "rating": {
           "fortified": 105,
-          "tyrannical": 67.2,
-          "total": 191
+          "tyrannical": 107.8,
+          "total": 214
         }
       },
       {
@@ -1197,12 +1197,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 5,
-        "duration": 2348904,
+        "level": 12,
+        "duration": 3197738,
         "rating": {
           "fortified": 60.3,
-          "tyrannical": 58.3,
-          "total": 120
+          "tyrannical": 104.9,
+          "total": 188
         }
       },
       {
