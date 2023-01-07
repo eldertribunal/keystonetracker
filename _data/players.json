@@ -891,12 +891,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 10,
-        "duration": 4440947,
+        "level": 11,
+        "duration": 1530476,
         "rating": {
           "fortified": 0,
-          "tyrannical": 0,
-          "total": 0
+          "tyrannical": 109.5,
+          "total": 164
         }
       }
     ]
@@ -1011,12 +1011,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 13,
-        "duration": 2302623,
+        "level": 12,
+        "duration": 1737250,
         "rating": {
           "fortified": 115.9,
-          "tyrannical": 78,
-          "total": 213
+          "tyrannical": 117,
+          "total": 233
         }
       },
       {
@@ -1059,8 +1059,8 @@
         "duration": 1425228,
         "rating": {
           "fortified": 110.2,
-          "tyrannical": 0,
-          "total": 165
+          "tyrannical": 109.5,
+          "total": 220
         }
       }
     ]
