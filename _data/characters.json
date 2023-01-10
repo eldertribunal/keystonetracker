@@ -348,8 +348,8 @@
         "duration": 1459152,
         "rating": {
           "fortified": 138.3,
-          "tyrannical": 121.6,
-          "total": 268
+          "tyrannical": 132,
+          "total": 273
         }
       },
       {
@@ -377,12 +377,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 12,
-        "duration": 2145828,
+        "level": 14,
+        "duration": 2908066,
         "rating": {
           "fortified": 115.3,
-          "tyrannical": 104.9,
-          "total": 225
+          "tyrannical": 120.4,
+          "total": 238
         }
       },
       {
@@ -1414,8 +1414,8 @@
         "duration": 1459152,
         "rating": {
           "fortified": 138.3,
-          "tyrannical": 65,
-          "total": 240
+          "tyrannical": 132,
+          "total": 273
         }
       },
       {
@@ -1443,12 +1443,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 8,
-        "duration": 1615894,
+        "level": 14,
+        "duration": 2908066,
         "rating": {
           "fortified": 63.7,
-          "tyrannical": 84.1,
-          "total": 158
+          "tyrannical": 120.4,
+          "total": 212
         }
       },
       {
@@ -1738,12 +1738,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1887231,
+        "level": 14,
+        "duration": 1354227,
         "rating": {
           "fortified": 85,
-          "tyrannical": 121.6,
-          "total": 225
+          "tyrannical": 132,
+          "total": 240
         }
       },
       {
@@ -1771,12 +1771,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 12,
-        "duration": 3059339,
+        "level": 14,
+        "duration": 2908066,
         "rating": {
           "fortified": 63.7,
-          "tyrannical": 105.6,
-          "total": 190
+          "tyrannical": 120.4,
+          "total": 212
         }
       },
       {
@@ -1853,12 +1853,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 5,
-        "duration": 2348904,
+        "level": 8,
+        "duration": 1574565,
         "rating": {
           "fortified": 60.3,
-          "tyrannical": 0,
-          "total": 90
+          "tyrannical": 84.3,
+          "total": 157
         }
       },
       {
