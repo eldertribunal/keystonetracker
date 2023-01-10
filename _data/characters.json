@@ -224,12 +224,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 14,
-        "duration": 2453980,
+        "level": 15,
+        "duration": 2030314,
         "rating": {
           "fortified": 120.5,
-          "tyrannical": 107.3,
-          "total": 234
+          "tyrannical": 135.1,
+          "total": 263
         }
       },
       {
@@ -1782,12 +1782,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 8,
-        "duration": 1751597,
+        "level": 11,
+        "duration": 1855175,
         "rating": {
           "fortified": 81.8,
-          "tyrannical": 0,
-          "total": 123
+          "tyrannical": 108.1,
+          "total": 203
         }
       },
       {
