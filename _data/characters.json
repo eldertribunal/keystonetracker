@@ -170,11 +170,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 16,
-        "duration": 2480779,
+        "duration": 1505634,
         "rating": {
-          "fortified": 132.3,
+          "fortified": 144.1,
           "tyrannical": 125.1,
-          "total": 261
+          "total": 279
         }
       },
       {
@@ -191,23 +191,23 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 13,
-        "duration": 2302623,
+        "level": 14,
+        "duration": 2064601,
         "rating": {
-          "fortified": 115.9,
+          "fortified": 129.2,
           "tyrannical": 110.7,
-          "total": 229
+          "total": 249
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 12,
-        "duration": 1641082,
+        "level": 15,
+        "duration": 1653882,
         "rating": {
-          "fortified": 115.1,
+          "fortified": 136,
           "tyrannical": 108.3,
-          "total": 227
+          "total": 258
         }
       },
       {
@@ -251,12 +251,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 15,
-        "duration": 2134454,
+        "level": 16,
+        "duration": 1505634,
         "rating": {
-          "fortified": 122.2,
+          "fortified": 144.1,
           "tyrannical": 127.7,
-          "total": 253
+          "total": 280
         }
       },
       {
