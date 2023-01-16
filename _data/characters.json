@@ -388,12 +388,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 11,
-        "duration": 2649632,
+        "level": 12,
+        "duration": 1732429,
         "rating": {
-          "fortified": 77.6,
+          "fortified": 115.9,
           "tyrannical": 98.3,
-          "total": 186
+          "total": 223
         }
       },
       {
@@ -1455,11 +1455,11 @@
         "id": 401,
         "name": "The Azure Vault",
         "level": 12,
-        "duration": 2024156,
+        "duration": 1732429,
         "rating": {
-          "fortified": 114.1,
+          "fortified": 115.9,
           "tyrannical": 81.6,
-          "total": 212
+          "total": 215
         }
       },
       {
@@ -1820,12 +1820,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 11,
-        "duration": 1460970,
+        "level": 13,
+        "duration": 1517402,
         "rating": {
-          "fortified": 60,
+          "fortified": 123.9,
           "tyrannical": 110.3,
-          "total": 195
+          "total": 241
         }
       },
       {
@@ -1864,12 +1864,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 2,
-        "duration": 1914515,
+        "level": 12,
+        "duration": 1732429,
         "rating": {
-          "fortified": 40.8,
+          "fortified": 115.9,
           "tyrannical": 0,
-          "total": 61
+          "total": 174
         }
       },
       {
