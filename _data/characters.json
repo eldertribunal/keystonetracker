@@ -202,12 +202,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 15,
-        "duration": 1653882,
+        "level": 16,
+        "duration": 1725187,
         "rating": {
           "fortified": 136,
-          "tyrannical": 108.3,
-          "total": 258
+          "tyrannical": 142.5,
+          "total": 282
         }
       },
       {
@@ -612,12 +612,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 14,
-        "duration": 1606187,
+        "level": 16,
+        "duration": 1725187,
         "rating": {
           "fortified": 129.2,
-          "tyrannical": 129.4,
-          "total": 259
+          "tyrannical": 142.5,
+          "total": 278
         }
       },
       {
