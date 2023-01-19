@@ -355,23 +355,23 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 15,
-        "duration": 2357399,
+        "level": 16,
+        "duration": 2337633,
         "rating": {
           "fortified": 129.6,
-          "tyrannical": 99.6,
-          "total": 244
+          "tyrannical": 136.7,
+          "total": 270
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 13,
-        "duration": 2393909,
+        "level": 15,
+        "duration": 1997749,
         "rating": {
           "fortified": 111.9,
-          "tyrannical": 94.9,
-          "total": 215
+          "tyrannical": 128.6,
+          "total": 249
         }
       },
       {
@@ -1258,21 +1258,21 @@
         "id": 200,
         "name": "Halls of Valor",
         "level": 16,
-        "duration": 2806812,
+        "duration": 2337633,
         "rating": {
           "fortified": 129.6,
-          "tyrannical": 134.1,
-          "total": 266
+          "tyrannical": 136.7,
+          "total": 270
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 14,
-        "duration": 1740423,
+        "level": 15,
+        "duration": 1997749,
         "rating": {
           "fortified": 123,
-          "tyrannical": 128.4,
+          "tyrannical": 128.6,
           "total": 254
         }
       },
@@ -1421,23 +1421,23 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 13,
-        "duration": 2302623,
+        "level": 16,
+        "duration": 2337633,
         "rating": {
           "fortified": 115.9,
-          "tyrannical": 78,
-          "total": 213
+          "tyrannical": 136.7,
+          "total": 263
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 12,
-        "duration": 1876398,
+        "level": 15,
+        "duration": 1997749,
         "rating": {
           "fortified": 100.8,
-          "tyrannical": 108.5,
-          "total": 213
+          "tyrannical": 128.6,
+          "total": 243
         }
       },
       {
@@ -1749,23 +1749,23 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 12,
-        "duration": 1737250,
+        "level": 16,
+        "duration": 2337633,
         "rating": {
           "fortified": 116.4,
-          "tyrannical": 117,
-          "total": 234
+          "tyrannical": 136.7,
+          "total": 263
         }
       },
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 13,
-        "duration": 2393909,
+        "level": 15,
+        "duration": 1997749,
         "rating": {
           "fortified": 111.9,
-          "tyrannical": 108.5,
-          "total": 222
+          "tyrannical": 128.6,
+          "total": 249
         }
       },
       {
