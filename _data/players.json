@@ -98,12 +98,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 15,
-        "duration": 1880029,
+        "level": 17,
+        "duration": 1566108,
         "rating": {
           "fortified": 124.6,
-          "tyrannical": 135.6,
-          "total": 266
+          "tyrannical": 151.6,
+          "total": 290
         }
       },
       {
@@ -497,12 +497,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 13,
-        "duration": 1205264,
+        "level": 15,
+        "duration": 1686408,
         "rating": {
           "fortified": 116.6,
-          "tyrannical": 125.1,
-          "total": 246
+          "tyrannical": 135.8,
+          "total": 262
         }
       },
       {
