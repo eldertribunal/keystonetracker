@@ -403,8 +403,8 @@
         "duration": 1856246,
         "rating": {
           "fortified": 142.4,
-          "tyrannical": 65,
-          "total": 246
+          "tyrannical": 135.6,
+          "total": 281
         }
       }
     ]
@@ -1305,8 +1305,8 @@
         "duration": 1856246,
         "rating": {
           "fortified": 142.4,
-          "tyrannical": 129.9,
-          "total": 279
+          "tyrannical": 135.6,
+          "total": 281
         }
       }
     ]
@@ -1469,8 +1469,8 @@
         "duration": 1856246,
         "rating": {
           "fortified": 142.4,
-          "tyrannical": 109.5,
-          "total": 268
+          "tyrannical": 135.6,
+          "total": 281
         }
       }
     ]
