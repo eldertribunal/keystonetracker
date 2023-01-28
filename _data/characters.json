@@ -1399,12 +1399,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 12,
-        "duration": 1302424,
+        "level": 16,
+        "duration": 1663924,
         "rating": {
-          "fortified": 116.6,
+          "fortified": 143,
           "tyrannical": 117.5,
-          "total": 235
+          "total": 273
         }
       },
       {
@@ -1432,12 +1432,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 15,
-        "duration": 1997749,
+        "level": 17,
+        "duration": 2066589,
         "rating": {
-          "fortified": 100.8,
+          "fortified": 142.2,
           "tyrannical": 128.6,
-          "total": 243
+          "total": 278
         }
       },
       {
@@ -1466,11 +1466,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 16,
-        "duration": 1856246,
+        "duration": 1775762,
         "rating": {
-          "fortified": 142.4,
+          "fortified": 142.9,
           "tyrannical": 135.6,
-          "total": 281
+          "total": 282
         }
       }
     ]
@@ -1727,12 +1727,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 12,
-        "duration": 1423471,
+        "level": 16,
+        "duration": 1663924,
         "rating": {
-          "fortified": 116.6,
+          "fortified": 143,
           "tyrannical": 110.9,
-          "total": 230
+          "total": 270
         }
       },
       {
@@ -1760,12 +1760,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 15,
-        "duration": 1997749,
+        "level": 17,
+        "duration": 2066589,
         "rating": {
-          "fortified": 111.9,
+          "fortified": 142.2,
           "tyrannical": 128.6,
-          "total": 249
+          "total": 278
         }
       },
       {
