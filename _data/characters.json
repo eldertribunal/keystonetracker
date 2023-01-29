@@ -1782,12 +1782,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 12,
-        "duration": 2024156,
+        "level": 16,
+        "duration": 2037167,
         "rating": {
-          "fortified": 114.1,
+          "fortified": 142,
           "tyrannical": 108.1,
-          "total": 225
+          "total": 267
         }
       },
       {
