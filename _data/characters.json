@@ -1771,12 +1771,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 14,
-        "duration": 2908066,
+        "level": 16,
+        "duration": 2935378,
         "rating": {
-          "fortified": 111.5,
+          "fortified": 134.2,
           "tyrannical": 120.4,
-          "total": 236
+          "total": 262
         }
       },
       {
@@ -1794,11 +1794,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 16,
-        "duration": 1856246,
+        "duration": 1610952,
         "rating": {
-          "fortified": 142.4,
+          "fortified": 144,
           "tyrannical": 109.5,
-          "total": 268
+          "total": 271
         }
       }
     ]
