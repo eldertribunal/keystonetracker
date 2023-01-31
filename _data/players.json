@@ -1082,12 +1082,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 13,
-        "duration": 1517402,
+        "level": 15,
+        "duration": 1985511,
         "rating": {
-          "fortified": 123.9,
+          "fortified": 130,
           "tyrannical": 110.3,
-          "total": 241
+          "total": 250
         }
       },
       {
@@ -1115,12 +1115,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 11,
-        "duration": 2224253,
+        "level": 14,
+        "duration": 2365906,
         "rating": {
-          "fortified": 107.9,
+          "fortified": 128.2,
           "tyrannical": 84.3,
-          "total": 204
+          "total": 234
         }
       },
       {
@@ -1137,12 +1137,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 11,
-        "duration": 2102518,
+        "level": 14,
+        "duration": 1991910,
         "rating": {
-          "fortified": 100.8,
+          "fortified": 122.5,
           "tyrannical": 0,
-          "total": 151
+          "total": 184
         }
       }
     ]
