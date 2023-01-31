@@ -213,12 +213,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 15,
-        "duration": 2383783,
+        "level": 18,
+        "duration": 2543789,
         "rating": {
-          "fortified": 135.1,
+          "fortified": 150.3,
           "tyrannical": 120.4,
-          "total": 263
+          "total": 286
         }
       },
       {
@@ -705,12 +705,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 16,
-        "duration": 1919423,
+        "level": 18,
+        "duration": 2543789,
         "rating": {
-          "fortified": 144.5,
+          "fortified": 150.3,
           "tyrannical": 136.2,
-          "total": 285
+          "total": 294
         }
       },
       {
@@ -836,12 +836,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 19,
-        "duration": 2757611,
+        "level": 18,
+        "duration": 1675138,
         "rating": {
-          "fortified": 138.3,
+          "fortified": 157.9,
           "tyrannical": 153.1,
-          "total": 299
+          "total": 313
         }
       },
       {
@@ -869,12 +869,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 14,
-        "duration": 2908066,
+        "level": 18,
+        "duration": 2543789,
         "rating": {
-          "fortified": 111.5,
+          "fortified": 150.3,
           "tyrannical": 120.4,
-          "total": 236
+          "total": 286
         }
       },
       {
@@ -1000,12 +1000,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 19,
-        "duration": 2757611,
+        "level": 18,
+        "duration": 1675138,
         "rating": {
-          "fortified": 124.8,
+          "fortified": 157.9,
           "tyrannical": 153.1,
-          "total": 292
+          "total": 313
         }
       },
       {
@@ -1033,12 +1033,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 16,
-        "duration": 2935378,
+        "level": 18,
+        "duration": 2543789,
         "rating": {
-          "fortified": 134.2,
+          "fortified": 150.3,
           "tyrannical": 120.4,
-          "total": 262
+          "total": 286
         }
       },
       {
