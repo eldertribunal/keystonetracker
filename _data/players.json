@@ -705,12 +705,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 18,
-        "duration": 2543789,
+        "level": 17,
+        "duration": 1938654,
         "rating": {
           "fortified": 150.3,
-          "tyrannical": 136.2,
-          "total": 294
+          "tyrannical": 151.4,
+          "total": 302
         }
       },
       {
