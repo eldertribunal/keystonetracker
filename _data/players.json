@@ -170,11 +170,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 17,
-        "duration": 1603089,
+        "duration": 1583824,
         "rating": {
           "fortified": 150.4,
-          "tyrannical": 110.9,
-          "total": 281
+          "tyrannical": 150.5,
+          "total": 301
         }
       },
       {
@@ -202,12 +202,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 15,
-        "duration": 1997749,
+        "level": 17,
+        "duration": 1668452,
         "rating": {
           "fortified": 111.9,
-          "tyrannical": 128.6,
-          "total": 249
+          "tyrannical": 149.9,
+          "total": 281
         }
       },
       {
@@ -662,11 +662,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 17,
-        "duration": 1603089,
+        "duration": 1583824,
         "rating": {
           "fortified": 150.4,
-          "tyrannical": 137.5,
-          "total": 294
+          "tyrannical": 150.5,
+          "total": 301
         }
       },
       {
@@ -698,8 +698,8 @@
         "duration": 1543668,
         "rating": {
           "fortified": 150.8,
-          "tyrannical": 128.6,
-          "total": 290
+          "tyrannical": 149.9,
+          "total": 301
         }
       },
       {
@@ -825,12 +825,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 16,
-        "duration": 1663924,
+        "level": 17,
+        "duration": 1583824,
         "rating": {
           "fortified": 143,
-          "tyrannical": 117.5,
-          "total": 273
+          "tyrannical": 150.5,
+          "total": 297
         }
       },
       {
@@ -859,11 +859,11 @@
         "id": 399,
         "name": "Ruby Life Pools",
         "level": 17,
-        "duration": 2066589,
+        "duration": 1668452,
         "rating": {
           "fortified": 142.2,
-          "tyrannical": 128.6,
-          "total": 278
+          "tyrannical": 149.9,
+          "total": 296
         }
       },
       {
@@ -989,12 +989,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 16,
-        "duration": 1663924,
+        "level": 17,
+        "duration": 1583824,
         "rating": {
           "fortified": 143,
-          "tyrannical": 110.9,
-          "total": 270
+          "tyrannical": 150.5,
+          "total": 297
         }
       },
       {
@@ -1023,11 +1023,11 @@
         "id": 399,
         "name": "Ruby Life Pools",
         "level": 17,
-        "duration": 2066589,
+        "duration": 1668452,
         "rating": {
           "fortified": 142.2,
-          "tyrannical": 128.6,
-          "total": 278
+          "tyrannical": 149.9,
+          "total": 296
         }
       },
       {
