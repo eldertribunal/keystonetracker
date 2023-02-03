@@ -602,11 +602,11 @@
         "id": 200,
         "name": "Halls of Valor",
         "level": 16,
-        "duration": 2344922,
+        "duration": 1886271,
         "rating": {
           "fortified": 136.6,
-          "tyrannical": 110.7,
-          "total": 260
+          "tyrannical": 144.2,
+          "total": 285
         }
       },
       {
