@@ -181,11 +181,11 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 18,
-        "duration": 1643226,
+        "duration": 1477444,
         "rating": {
           "fortified": 158.1,
-          "tyrannical": 153.1,
-          "total": 314
+          "tyrannical": 159.2,
+          "total": 318
         }
       },
       {
@@ -673,11 +673,11 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 18,
-        "duration": 1643226,
+        "duration": 1477444,
         "rating": {
           "fortified": 158.1,
-          "tyrannical": 153.1,
-          "total": 314
+          "tyrannical": 159.2,
+          "total": 318
         }
       },
       {
@@ -1001,11 +1001,11 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 18,
-        "duration": 1675138,
+        "duration": 1477444,
         "rating": {
           "fortified": 157.9,
-          "tyrannical": 153.1,
-          "total": 313
+          "tyrannical": 159.2,
+          "total": 318
         }
       },
       {
