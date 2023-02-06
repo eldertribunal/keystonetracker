@@ -649,8 +649,8 @@
         "duration": 1818752,
         "rating": {
           "fortified": 163.7,
-          "tyrannical": 121.8,
-          "total": 306
+          "tyrannical": 142.3,
+          "total": 317
         }
       }
     ]
@@ -1875,12 +1875,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 14,
-        "duration": 1991910,
+        "level": 16,
+        "duration": 1867821,
         "rating": {
           "fortified": 122.5,
-          "tyrannical": 0,
-          "total": 184
+          "tyrannical": 142.3,
+          "total": 275
         }
       }
     ]
