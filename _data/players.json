@@ -202,23 +202,23 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 17,
-        "duration": 1668452,
+        "level": 18,
+        "duration": 1650891,
         "rating": {
-          "fortified": 111.9,
+          "fortified": 157,
           "tyrannical": 149.9,
-          "total": 281
+          "total": 310
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
         "level": 19,
-        "duration": 3082502,
+        "duration": 2733713,
         "rating": {
-          "fortified": 150.3,
+          "fortified": 156.3,
           "tyrannical": 154.5,
-          "total": 307
+          "total": 312
         }
       },
       {
@@ -694,23 +694,23 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 17,
-        "duration": 1543668,
+        "level": 18,
+        "duration": 1650891,
         "rating": {
-          "fortified": 150.8,
+          "fortified": 157,
           "tyrannical": 149.9,
-          "total": 301
+          "total": 310
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
         "level": 19,
-        "duration": 3082502,
+        "duration": 2733713,
         "rating": {
-          "fortified": 150.3,
+          "fortified": 156.3,
           "tyrannical": 154.5,
-          "total": 307
+          "total": 312
         }
       },
       {
@@ -858,23 +858,23 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 17,
-        "duration": 1668452,
+        "level": 18,
+        "duration": 1650891,
         "rating": {
-          "fortified": 148,
+          "fortified": 157,
           "tyrannical": 149.9,
-          "total": 299
+          "total": 310
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 18,
-        "duration": 2543789,
+        "level": 19,
+        "duration": 2733713,
         "rating": {
-          "fortified": 150.3,
+          "fortified": 156.3,
           "tyrannical": 143.2,
-          "total": 297
+          "total": 306
         }
       },
       {
