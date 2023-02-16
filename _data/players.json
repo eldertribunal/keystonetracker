@@ -228,8 +228,8 @@
         "duration": 1614779,
         "rating": {
           "fortified": 158.6,
-          "tyrannical": 98.3,
-          "total": 287
+          "tyrannical": 156.3,
+          "total": 316
         }
       },
       {
@@ -720,8 +720,8 @@
         "duration": 1614779,
         "rating": {
           "fortified": 158.6,
-          "tyrannical": 149.9,
-          "total": 313
+          "tyrannical": 156.3,
+          "total": 316
         }
       },
       {
@@ -884,8 +884,8 @@
         "duration": 1614779,
         "rating": {
           "fortified": 158.6,
-          "tyrannical": 135.6,
-          "total": 306
+          "tyrannical": 156.3,
+          "total": 316
         }
       },
       {
@@ -1044,12 +1044,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 16,
-        "duration": 2037167,
+        "level": 18,
+        "duration": 1987826,
         "rating": {
           "fortified": 142,
-          "tyrannical": 129.1,
-          "total": 278
+          "tyrannical": 156.3,
+          "total": 305
         }
       },
       {
