@@ -88,11 +88,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 17,
-        "duration": 1603089,
+        "duration": 1367282,
         "rating": {
           "fortified": 150.4,
-          "tyrannical": 127.7,
-          "total": 289
+          "tyrannical": 152,
+          "total": 303
         }
       },
       {
@@ -143,11 +143,11 @@
         "id": 401,
         "name": "The Azure Vault",
         "level": 18,
-        "duration": 1938994,
+        "duration": 1786452,
         "rating": {
           "fortified": 156.6,
-          "tyrannical": 127.7,
-          "total": 299
+          "tyrannical": 157.6,
+          "total": 315
         }
       },
       {
