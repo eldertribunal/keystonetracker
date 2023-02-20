@@ -38,23 +38,23 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 5,
-        "duration": 579561,
+        "level": 6,
+        "duration": 657734,
         "rating": {
           "fortified": 0,
-          "tyrannical": 65,
-          "total": 98
+          "tyrannical": 70,
+          "total": 105
         }
       },
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 2,
-        "duration": 703695,
+        "level": 4,
+        "duration": 756138,
         "rating": {
           "fortified": 0,
-          "tyrannical": 45,
-          "total": 68
+          "tyrannical": 60,
+          "total": 90
         }
       },
       {
@@ -213,12 +213,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 16,
-        "duration": 2166968,
+        "level": 17,
+        "duration": 2223471,
         "rating": {
           "fortified": 143.2,
-          "tyrannical": 122.2,
-          "total": 276
+          "tyrannical": 149.9,
+          "total": 296
         }
       },
       {
@@ -1821,11 +1821,11 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 15,
-        "duration": 1985511,
+        "duration": 1771104,
         "rating": {
           "fortified": 130,
-          "tyrannical": 110.3,
-          "total": 250
+          "tyrannical": 136.3,
+          "total": 269
         }
       },
       {
@@ -1853,12 +1853,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 14,
-        "duration": 2365906,
+        "level": 17,
+        "duration": 2223471,
         "rating": {
           "fortified": 128.2,
-          "tyrannical": 105,
-          "total": 245
+          "tyrannical": 149.9,
+          "total": 289
         }
       },
       {

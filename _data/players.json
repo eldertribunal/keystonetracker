@@ -49,12 +49,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 16,
-        "duration": 2166968,
+        "level": 17,
+        "duration": 2223471,
         "rating": {
           "fortified": 143.2,
-          "tyrannical": 122.2,
-          "total": 276
+          "tyrannical": 149.9,
+          "total": 296
         }
       },
       {
@@ -1083,11 +1083,11 @@
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
         "level": 15,
-        "duration": 1985511,
+        "duration": 1771104,
         "rating": {
           "fortified": 130,
-          "tyrannical": 110.3,
-          "total": 250
+          "tyrannical": 136.3,
+          "total": 269
         }
       },
       {
@@ -1115,12 +1115,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 14,
-        "duration": 2365906,
+        "level": 17,
+        "duration": 2223471,
         "rating": {
           "fortified": 128.2,
-          "tyrannical": 105,
-          "total": 245
+          "tyrannical": 149.9,
+          "total": 289
         }
       },
       {
