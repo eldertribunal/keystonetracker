@@ -1257,12 +1257,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 19,
-        "duration": 2076814,
+        "level": 20,
+        "duration": 2305020,
         "rating": {
           "fortified": 163.8,
-          "tyrannical": 164.1,
-          "total": 328
+          "tyrannical": 164.9,
+          "total": 329
         }
       },
       {
