@@ -16,12 +16,12 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 5,
-        "duration": 551623,
+        "level": 10,
+        "duration": 889062,
         "rating": {
-          "fortified": 0,
+          "fortified": 105,
           "tyrannical": 65,
-          "total": 98
+          "total": 190
         }
       },
       {
@@ -38,12 +38,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 8,
-        "duration": 729839,
+        "level": 11,
+        "duration": 1294270,
         "rating": {
-          "fortified": 0,
+          "fortified": 110.5,
           "tyrannical": 85,
-          "total": 128
+          "total": 208
         }
       },
       {
