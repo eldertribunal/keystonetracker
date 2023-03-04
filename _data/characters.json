@@ -1219,12 +1219,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 9,
-        "duration": 1855914,
+        "level": 12,
+        "duration": 1870606,
         "rating": {
           "fortified": 85.4,
-          "tyrannical": 50,
-          "total": 153
+          "tyrannical": 114.3,
+          "total": 214
         }
       }
     ]
