@@ -1399,12 +1399,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 17,
-        "duration": 1583824,
+        "level": 18,
+        "duration": 1381899,
         "rating": {
           "fortified": 143,
-          "tyrannical": 150.5,
-          "total": 297
+          "tyrannical": 158.9,
+          "total": 310
         }
       },
       {
@@ -1466,11 +1466,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 18,
-        "duration": 2028106,
+        "duration": 1731801,
         "rating": {
           "fortified": 150.3,
-          "tyrannical": 136.9,
-          "total": 294
+          "tyrannical": 157.2,
+          "total": 311
         }
       }
     ]
@@ -1727,12 +1727,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 17,
-        "duration": 1583824,
+        "level": 18,
+        "duration": 1381899,
         "rating": {
           "fortified": 143,
-          "tyrannical": 150.5,
-          "total": 297
+          "tyrannical": 158.9,
+          "total": 310
         }
       },
       {
@@ -1794,11 +1794,11 @@
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 18,
-        "duration": 2028106,
+        "duration": 1731801,
         "rating": {
           "fortified": 150.3,
-          "tyrannical": 143.7,
-          "total": 297
+          "tyrannical": 157.2,
+          "total": 311
         }
       }
     ]
