@@ -71,12 +71,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 12,
-        "duration": 1233039,
+        "level": 13,
+        "duration": 1306989,
         "rating": {
           "fortified": 118.5,
-          "tyrannical": 70,
-          "total": 213
+          "tyrannical": 125,
+          "total": 247
         }
       }
     ]
@@ -508,23 +508,23 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 8,
-        "duration": 1275985,
+        "level": 11,
+        "duration": 1464235,
         "rating": {
           "fortified": 84.4,
-          "tyrannical": 50,
-          "total": 152
+          "tyrannical": 110.3,
+          "total": 208
         }
       },
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 2,
-        "duration": 1309997,
+        "level": 11,
+        "duration": 1751496,
         "rating": {
           "fortified": 45,
-          "tyrannical": 0,
-          "total": 68
+          "tyrannical": 109.9,
+          "total": 187
         }
       },
       {
@@ -563,12 +563,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 10,
-        "duration": 1331434,
+        "level": 13,
+        "duration": 1306989,
         "rating": {
           "fortified": 103.8,
-          "tyrannical": 45,
-          "total": 178
+          "tyrannical": 125,
+          "total": 239
         }
       }
     ]
