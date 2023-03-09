@@ -49,12 +49,12 @@
       {
         "id": 400,
         "name": "The Nokhud Offensive",
-        "level": 12,
-        "duration": 1494363,
+        "level": 13,
+        "duration": 2218287,
         "rating": {
-          "fortified": 118.7,
+          "fortified": 122,
           "tyrannical": 60,
-          "total": 208
+          "total": 213
         }
       },
       {
@@ -334,11 +334,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 20,
-        "duration": 1922887,
+        "duration": 1770934,
         "rating": {
-          "fortified": 150.4,
+          "fortified": 170.2,
           "tyrannical": 164.2,
-          "total": 322
+          "total": 337
         }
       },
       {
@@ -399,12 +399,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 16,
-        "duration": 1469511,
+        "level": 21,
+        "duration": 2015399,
         "rating": {
-          "fortified": 142.4,
+          "fortified": 164.4,
           "tyrannical": 144.9,
-          "total": 289
+          "total": 319
         }
       }
     ]
@@ -1236,11 +1236,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 20,
-        "duration": 1922887,
+        "duration": 1770934,
         "rating": {
-          "fortified": 150.4,
+          "fortified": 170.2,
           "tyrannical": 164.2,
-          "total": 322
+          "total": 337
         }
       },
       {
@@ -1301,12 +1301,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 18,
-        "duration": 1890460,
+        "level": 21,
+        "duration": 2015399,
         "rating": {
-          "fortified": 156.2,
+          "fortified": 164.4,
           "tyrannical": 156,
-          "total": 312
+          "total": 325
         }
       }
     ]
@@ -1400,11 +1400,11 @@
         "id": 2,
         "name": "Temple of the Jade Serpent",
         "level": 20,
-        "duration": 1922887,
+        "duration": 1770934,
         "rating": {
-          "fortified": 143,
+          "fortified": 170.2,
           "tyrannical": 164.2,
-          "total": 318
+          "total": 337
         }
       },
       {
@@ -1465,12 +1465,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 18,
-        "duration": 1731801,
+        "level": 21,
+        "duration": 2015399,
         "rating": {
-          "fortified": 150.3,
+          "fortified": 164.4,
           "tyrannical": 157.2,
-          "total": 311
+          "total": 325
         }
       }
     ]
@@ -1727,12 +1727,12 @@
       {
         "id": 2,
         "name": "Temple of the Jade Serpent",
-        "level": 18,
-        "duration": 1381899,
+        "level": 20,
+        "duration": 1770934,
         "rating": {
-          "fortified": 143,
+          "fortified": 170.2,
           "tyrannical": 158.9,
-          "total": 310
+          "total": 335
         }
       },
       {
@@ -1793,12 +1793,12 @@
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 18,
-        "duration": 1731801,
+        "level": 21,
+        "duration": 2015399,
         "rating": {
-          "fortified": 150.3,
+          "fortified": 164.4,
           "tyrannical": 157.2,
-          "total": 311
+          "total": 325
         }
       }
     ]
