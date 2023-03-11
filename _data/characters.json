@@ -273,12 +273,12 @@
       {
         "id": 200,
         "name": "Halls of Valor",
-        "level": 18,
-        "duration": 2313841,
+        "level": 19,
+        "duration": 2205590,
         "rating": {
-          "fortified": 149.9,
+          "fortified": 163.4,
           "tyrannical": 150.8,
-          "total": 301
+          "total": 320
         }
       },
       {
