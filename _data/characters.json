@@ -1186,12 +1186,12 @@
       {
         "id": 399,
         "name": "Ruby Life Pools",
-        "level": 5,
-        "duration": 815782,
+        "level": 12,
+        "duration": 1460760,
         "rating": {
-          "fortified": 58.5,
+          "fortified": 116.4,
           "tyrannical": 65,
-          "total": 127
+          "total": 207
         }
       },
       {
@@ -1208,23 +1208,23 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 10,
-        "duration": 1900917,
+        "level": 16,
+        "duration": 2385605,
         "rating": {
-          "fortified": 98.6,
+          "fortified": 134.9,
           "tyrannical": 100.9,
-          "total": 201
+          "total": 253
         }
       },
       {
         "id": 402,
         "name": "Algeth'ar Academy",
-        "level": 12,
-        "duration": 1870606,
+        "level": 13,
+        "duration": 1501526,
         "rating": {
-          "fortified": 85.4,
+          "fortified": 123.7,
           "tyrannical": 114.3,
-          "total": 214
+          "total": 243
         }
       }
     ]
@@ -1864,12 +1864,12 @@
       {
         "id": 401,
         "name": "The Azure Vault",
-        "level": 15,
-        "duration": 2147674,
+        "level": 16,
+        "duration": 2385605,
         "rating": {
-          "fortified": 115.9,
+          "fortified": 134.9,
           "tyrannical": 129.3,
-          "total": 252
+          "total": 267
         }
       },
       {
@@ -1878,7 +1878,7 @@
         "level": 16,
         "duration": 1867821,
         "rating": {
-          "fortified": 122.5,
+          "fortified": 123.7,
           "tyrannical": 142.3,
           "total": 275
         }
