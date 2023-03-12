@@ -180,23 +180,23 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 20,
-        "duration": 1703552,
+        "level": 21,
+        "duration": 1708028,
         "rating": {
-          "fortified": 170.8,
+          "fortified": 178.7,
           "tyrannical": 171.8,
-          "total": 343
+          "total": 354
         }
       },
       {
         "id": 200,
         "name": "Halls of Valor",
         "level": 20,
-        "duration": 2495688,
+        "duration": 2207231,
         "rating": {
-          "fortified": 163.8,
+          "fortified": 170.4,
           "tyrannical": 156.3,
-          "total": 324
+          "total": 334
         }
       },
       {
@@ -672,23 +672,23 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 20,
-        "duration": 1860944,
+        "level": 21,
+        "duration": 1708028,
         "rating": {
-          "fortified": 170.8,
+          "fortified": 178.7,
           "tyrannical": 163.5,
-          "total": 338
+          "total": 350
         }
       },
       {
         "id": 200,
         "name": "Halls of Valor",
         "level": 20,
-        "duration": 2305020,
+        "duration": 2207231,
         "rating": {
-          "fortified": 163.8,
+          "fortified": 170.4,
           "tyrannical": 164.9,
-          "total": 329
+          "total": 338
         }
       },
       {
@@ -836,23 +836,23 @@
       {
         "id": 165,
         "name": "Shadowmoon Burial Grounds",
-        "level": 20,
-        "duration": 1860944,
+        "level": 21,
+        "duration": 1708028,
         "rating": {
-          "fortified": 170.8,
+          "fortified": 178.7,
           "tyrannical": 160,
-          "total": 336
+          "total": 348
         }
       },
       {
         "id": 200,
         "name": "Halls of Valor",
         "level": 20,
-        "duration": 2495688,
+        "duration": 2207231,
         "rating": {
-          "fortified": 163.8,
+          "fortified": 170.4,
           "tyrannical": 156.3,
-          "total": 324
+          "total": 334
         }
       },
       {
