@@ -635,11 +635,11 @@
         "id": 401,
         "name": "The Azure Vault",
         "level": 20,
-        "duration": 2255434,
+        "duration": 1906886,
         "rating": {
           "fortified": 163.7,
-          "tyrannical": 143.4,
-          "total": 317
+          "tyrannical": 170.8,
+          "total": 338
         }
       },
       {
