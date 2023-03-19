@@ -58,17 +58,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 16,
-        "duration": 2227152,
-        "rating": {
-          "fortified": 136.4,
-          "tyrannical": 135.1,
-          "total": 272
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 14,
@@ -77,6 +66,17 @@
           "fortified": 129.2,
           "tyrannical": 125,
           "total": 256
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 16,
+        "duration": 2227152,
+        "rating": {
+          "fortified": 136.4,
+          "tyrannical": 135.1,
+          "total": 272
         }
       }
     ]
@@ -140,17 +140,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 18,
-        "duration": 1786452,
-        "rating": {
-          "fortified": 157.1,
-          "tyrannical": 158,
-          "total": 316
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 19,
@@ -159,6 +148,17 @@
           "fortified": 157.8,
           "tyrannical": 149.3,
           "total": 311
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 18,
+        "duration": 1786452,
+        "rating": {
+          "fortified": 157.1,
+          "tyrannical": 158,
+          "total": 316
         }
       }
     ]
@@ -222,17 +222,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 18,
-        "duration": 1614779,
-        "rating": {
-          "fortified": 159,
-          "tyrannical": 156.8,
-          "total": 317
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 21,
@@ -241,6 +230,17 @@
           "fortified": 164.4,
           "tyrannical": 144.9,
           "total": 319
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 18,
+        "duration": 1614779,
+        "rating": {
+          "fortified": 159,
+          "tyrannical": 156.8,
+          "total": 317
         }
       }
     ]
@@ -304,17 +304,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 20,
-        "duration": 1906886,
-        "rating": {
-          "fortified": 164.3,
-          "tyrannical": 171.3,
-          "total": 339
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 20,
@@ -323,6 +312,17 @@
           "fortified": 163.7,
           "tyrannical": 171.1,
           "total": 338
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 20,
+        "duration": 1906886,
+        "rating": {
+          "fortified": 164.3,
+          "tyrannical": 171.3,
+          "total": 339
         }
       }
     ]
@@ -386,8 +386,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -397,8 +397,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -468,8 +468,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -479,8 +479,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -550,17 +550,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 14,
-        "duration": 1931085,
-        "rating": {
-          "fortified": 121.1,
-          "tyrannical": 129.2,
-          "total": 254
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 13,
@@ -569,6 +558,17 @@
           "fortified": 124.3,
           "tyrannical": 0,
           "total": 186
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 14,
+        "duration": 1931085,
+        "rating": {
+          "fortified": 121.1,
+          "tyrannical": 129.2,
+          "total": 254
         }
       }
     ]
@@ -632,8 +632,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -643,8 +643,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -714,17 +714,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 20,
-        "duration": 2520414,
-        "rating": {
-          "fortified": 162.7,
-          "tyrannical": 156.8,
-          "total": 322
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 21,
@@ -733,6 +722,17 @@
           "fortified": 164.4,
           "tyrannical": 156,
           "total": 325
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 20,
+        "duration": 2520414,
+        "rating": {
+          "fortified": 162.7,
+          "tyrannical": 156.8,
+          "total": 322
         }
       }
     ]
@@ -796,8 +796,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -807,8 +807,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -878,17 +878,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 18,
-        "duration": 1614779,
-        "rating": {
-          "fortified": 159,
-          "tyrannical": 156.8,
-          "total": 317
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 21,
@@ -897,6 +886,17 @@
           "fortified": 164.4,
           "tyrannical": 157.2,
           "total": 325
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 18,
+        "duration": 1614779,
+        "rating": {
+          "fortified": 159,
+          "tyrannical": 156.8,
+          "total": 317
         }
       }
     ]
@@ -960,8 +960,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -971,8 +971,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1042,17 +1042,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 20,
-        "duration": 2520414,
-        "rating": {
-          "fortified": 162.7,
-          "tyrannical": 156.8,
-          "total": 322
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 21,
@@ -1061,6 +1050,17 @@
           "fortified": 164.4,
           "tyrannical": 157.2,
           "total": 325
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 20,
+        "duration": 2520414,
+        "rating": {
+          "fortified": 162.7,
+          "tyrannical": 156.8,
+          "total": 322
         }
       }
     ]
@@ -1124,17 +1124,6 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
-        "level": 16,
-        "duration": 2211672,
-        "rating": {
-          "fortified": 136.5,
-          "tyrannical": 129.9,
-          "total": 270
-        }
-      },
-      {
         "id": 402,
         "name": "Algeth'ar Academy",
         "level": 16,
@@ -1143,6 +1132,17 @@
           "fortified": 123.7,
           "tyrannical": 142.3,
           "total": 275
+        }
+      },
+      {
+        "id": 401,
+        "name": "The Azure Vault",
+        "level": 16,
+        "duration": 2211672,
+        "rating": {
+          "fortified": 136.5,
+          "tyrannical": 129.9,
+          "total": 270
         }
       }
     ]
@@ -1206,8 +1206,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1217,8 +1217,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1288,8 +1288,8 @@
         }
       },
       {
-        "id": 401,
-        "name": "The Azure Vault",
+        "id": 402,
+        "name": "Algeth'ar Academy",
         "level": 0,
         "duration": 0,
         "rating": {
@@ -1299,8 +1299,8 @@
         }
       },
       {
-        "id": 402,
-        "name": "Algeth'ar Academy",
+        "id": 401,
+        "name": "The Azure Vault",
         "level": 0,
         "duration": 0,
         "rating": {
