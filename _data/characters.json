@@ -1291,11 +1291,11 @@
         "id": 401,
         "name": "The Azure Vault",
         "level": 20,
-        "duration": 2520414,
+        "duration": 1838454,
         "rating": {
           "fortified": 162.7,
-          "tyrannical": 156.8,
-          "total": 322
+          "tyrannical": 171.7,
+          "total": 339
         }
       },
       {
